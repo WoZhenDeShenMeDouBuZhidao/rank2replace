@@ -1,0 +1,7 @@
+models/
+__pycache__/
+*.pyc
+outputs/
+assets/*.pth
+assets/*.pt
+!assets/fixed_slot_init.pt

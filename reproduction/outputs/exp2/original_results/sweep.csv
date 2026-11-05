@@ -1,0 +1,2311 @@
+dataset,method,condition,variant,completed,validation
+waterbirds,ce,Original slot order,clean,3,1.3302473799770322
+celeba,ce,Original slot order,clean,3,1.791852020648095
+metashift,ce,Original slot order,clean,3,1.856824839721394
+nicopp_autumn_rock,ce,Original slot order,clean,3,1.4682984360315015
+nicopp_dim_grass,ce,Original slot order,clean,3,1.432898490897314
+nicopp_outdoor_water,ce,Original slot order,clean,3,1.4880031756780827
+waterbirds,ce,Slot ranking,clean,3,1.4090075894989316
+celeba,ce,Slot ranking,clean,3,1.7835762559072048
+metashift,ce,Slot ranking,clean,3,1.8980371631848225
+nicopp_autumn_rock,ce,Slot ranking,clean,3,1.5017688850931614
+nicopp_dim_grass,ce,Slot ranking,clean,3,1.4878394651683504
+nicopp_outdoor_water,ce,Slot ranking,clean,3,1.525487622157761
+waterbirds,ce,Slot ranking + slot corruption,clean,3,1.6198556390514849
+celeba,ce,Slot ranking + slot corruption,clean,3,1.7939083664903617
+metashift,ce,Slot ranking + slot corruption,clean,3,1.9372503724019456
+nicopp_autumn_rock,ce,Slot ranking + slot corruption,clean,3,1.5448929818996413
+nicopp_dim_grass,ce,Slot ranking + slot corruption,clean,3,1.5315421148045232
+nicopp_outdoor_water,ce,Slot ranking + slot corruption,clean,3,1.5690350523336207
+waterbirds,irm,Original slot order,qwen_lambda0.003,3,1.3775580935308673
+waterbirds,irm,Original slot order,qwen_lambda0.01,3,1.3790439078727923
+waterbirds,irm,Original slot order,qwen_lambda0.1,3,1.3775580935308673
+waterbirds,irm,Original slot order,qwen_lambda1,3,1.3803128423987774
+waterbirds,irm,Original slot order,qwen_lambda10,3,1.4071496439967375
+waterbirds,irm,Original slot order,qwen_lambda100,3,1.454456661707913
+waterbirds,irm,Original slot order,qwen_lambda1000,3,1.4659691073620822
+waterbirds,irm,Original slot order,qwen_lambda10000,3,1.4685224936737615
+celeba,irm,Original slot order,qwen_lambda0.003,3,1.782246111511939
+celeba,irm,Original slot order,qwen_lambda0.01,3,1.7820713994325166
+celeba,irm,Original slot order,qwen_lambda0.1,3,1.78224678259123
+celeba,irm,Original slot order,qwen_lambda1,3,1.7801099484352207
+celeba,irm,Original slot order,qwen_lambda10,3,1.7722023223451473
+celeba,irm,Original slot order,qwen_lambda100,3,1.673261765658501
+celeba,irm,Original slot order,qwen_lambda1000,3,1.648027318084785
+celeba,irm,Original slot order,qwen_lambda10000,3,1.6466839098752377
+metashift,irm,Original slot order,qwen_lambda0.003,3,1.827431088115136
+metashift,irm,Original slot order,qwen_lambda0.01,3,1.827431088115136
+metashift,irm,Original slot order,qwen_lambda0.1,3,1.827431088115136
+metashift,irm,Original slot order,qwen_lambda1,3,1.827431088115136
+metashift,irm,Original slot order,qwen_lambda10,3,1.8313506720343415
+metashift,irm,Original slot order,qwen_lambda100,3,1.8333230263815234
+metashift,irm,Original slot order,qwen_lambda1000,3,1.8313619961195406
+metashift,irm,Original slot order,qwen_lambda10000,3,1.8313619961195406
+nicopp_autumn_rock,irm,Original slot order,qwen_lambda0.003,3,1.4404391812133757
+nicopp_autumn_rock,irm,Original slot order,qwen_lambda0.01,3,1.4408217680119197
+nicopp_autumn_rock,irm,Original slot order,qwen_lambda0.1,3,1.4414844595557614
+nicopp_autumn_rock,irm,Original slot order,qwen_lambda1,3,1.4401519050345273
+nicopp_autumn_rock,irm,Original slot order,qwen_lambda10,3,1.3255232427250916
+nicopp_autumn_rock,irm,Original slot order,qwen_lambda100,3,0.991866173941245
+nicopp_autumn_rock,irm,Original slot order,qwen_lambda1000,3,0.9705159104069456
+nicopp_autumn_rock,irm,Original slot order,qwen_lambda10000,3,0.959175980594105
+nicopp_dim_grass,irm,Original slot order,qwen_lambda0.003,3,1.4122985290231211
+nicopp_dim_grass,irm,Original slot order,qwen_lambda0.01,3,1.4109864723848746
+nicopp_dim_grass,irm,Original slot order,qwen_lambda0.1,3,1.413098705803402
+nicopp_dim_grass,irm,Original slot order,qwen_lambda1,3,1.4135833135763622
+nicopp_dim_grass,irm,Original slot order,qwen_lambda10,3,1.4012136915643658
+nicopp_dim_grass,irm,Original slot order,qwen_lambda100,3,1.1799135220469859
+nicopp_dim_grass,irm,Original slot order,qwen_lambda1000,3,1.1228802956181567
+nicopp_dim_grass,irm,Original slot order,qwen_lambda10000,3,1.126091604233509
+nicopp_outdoor_water,irm,Original slot order,qwen_lambda0.003,3,1.456141670525336
+nicopp_outdoor_water,irm,Original slot order,qwen_lambda0.01,3,1.455754543496302
+nicopp_outdoor_water,irm,Original slot order,qwen_lambda0.1,3,1.4559334844168372
+nicopp_outdoor_water,irm,Original slot order,qwen_lambda1,3,1.4542329413376127
+nicopp_outdoor_water,irm,Original slot order,qwen_lambda10,3,1.445454996511237
+nicopp_outdoor_water,irm,Original slot order,qwen_lambda100,3,1.254751033330087
+nicopp_outdoor_water,irm,Original slot order,qwen_lambda1000,3,1.2478233850237652
+nicopp_outdoor_water,irm,Original slot order,qwen_lambda10000,3,1.2516638866654137
+waterbirds,irm,Slot ranking,qwen_lambda0.003,3,1.4724756920072555
+waterbirds,irm,Slot ranking,qwen_lambda0.01,3,1.4725664685052084
+waterbirds,irm,Slot ranking,qwen_lambda0.1,3,1.4725664685052084
+waterbirds,irm,Slot ranking,qwen_lambda1,3,1.4728484651713731
+waterbirds,irm,Slot ranking,qwen_lambda10,3,1.5171251811789872
+waterbirds,irm,Slot ranking,qwen_lambda100,3,1.5629800095804
+waterbirds,irm,Slot ranking,qwen_lambda1000,3,1.5616032075733834
+waterbirds,irm,Slot ranking,qwen_lambda10000,3,1.5616032075733834
+celeba,irm,Slot ranking,qwen_lambda0.003,3,1.7742534494821889
+celeba,irm,Slot ranking,qwen_lambda0.01,3,1.7731015404359114
+celeba,irm,Slot ranking,qwen_lambda0.1,3,1.7735595299315545
+celeba,irm,Slot ranking,qwen_lambda1,3,1.7733311001817673
+celeba,irm,Slot ranking,qwen_lambda10,3,1.7681617265803053
+celeba,irm,Slot ranking,qwen_lambda100,3,1.6596250326628368
+celeba,irm,Slot ranking,qwen_lambda1000,3,1.6288864616554524
+celeba,irm,Slot ranking,qwen_lambda10000,3,1.6277071575600708
+metashift,irm,Slot ranking,qwen_lambda0.003,3,1.8764696637897182
+metashift,irm,Slot ranking,qwen_lambda0.01,3,1.8764696637897182
+metashift,irm,Slot ranking,qwen_lambda0.1,3,1.8764696637897182
+metashift,irm,Slot ranking,qwen_lambda1,3,1.874509430758696
+metashift,irm,Slot ranking,qwen_lambda10,3,1.8725480273127113
+metashift,irm,Slot ranking,qwen_lambda100,3,1.8725480273127113
+metashift,irm,Slot ranking,qwen_lambda1000,3,1.8725480273127113
+metashift,irm,Slot ranking,qwen_lambda10000,3,1.8725480273127113
+nicopp_autumn_rock,irm,Slot ranking,qwen_lambda0.003,3,1.4736526066404965
+nicopp_autumn_rock,irm,Slot ranking,qwen_lambda0.01,3,1.47309346786675
+nicopp_autumn_rock,irm,Slot ranking,qwen_lambda0.1,3,1.473377953903059
+nicopp_autumn_rock,irm,Slot ranking,qwen_lambda1,3,1.4751259573673614
+nicopp_autumn_rock,irm,Slot ranking,qwen_lambda10,3,1.4377333247815989
+nicopp_autumn_rock,irm,Slot ranking,qwen_lambda100,3,0.9283741121212842
+nicopp_autumn_rock,irm,Slot ranking,qwen_lambda1000,3,0.9269457204507917
+nicopp_autumn_rock,irm,Slot ranking,qwen_lambda10000,3,1.0158869481180526
+nicopp_dim_grass,irm,Slot ranking,qwen_lambda0.003,3,1.4539331373949897
+nicopp_dim_grass,irm,Slot ranking,qwen_lambda0.01,3,1.4539808176083089
+nicopp_dim_grass,irm,Slot ranking,qwen_lambda0.1,3,1.4526123999661669
+nicopp_dim_grass,irm,Slot ranking,qwen_lambda1,3,1.4556420485031012
+nicopp_dim_grass,irm,Slot ranking,qwen_lambda10,3,1.458492313086867
+nicopp_dim_grass,irm,Slot ranking,qwen_lambda100,3,1.2343941847919593
+nicopp_dim_grass,irm,Slot ranking,qwen_lambda1000,3,1.2304495409402307
+nicopp_dim_grass,irm,Slot ranking,qwen_lambda10000,3,1.2344833780561386
+nicopp_outdoor_water,irm,Slot ranking,qwen_lambda0.003,3,1.4843001600040706
+nicopp_outdoor_water,irm,Slot ranking,qwen_lambda0.01,3,1.4859712760017836
+nicopp_outdoor_water,irm,Slot ranking,qwen_lambda0.1,3,1.4868123990621178
+nicopp_outdoor_water,irm,Slot ranking,qwen_lambda1,3,1.4896422846161155
+nicopp_outdoor_water,irm,Slot ranking,qwen_lambda10,3,1.491423000101305
+nicopp_outdoor_water,irm,Slot ranking,qwen_lambda100,3,1.2390635691777148
+nicopp_outdoor_water,irm,Slot ranking,qwen_lambda1000,3,1.2637348730017113
+nicopp_outdoor_water,irm,Slot ranking,qwen_lambda10000,3,1.2603118146855792
+waterbirds,irm,Slot ranking + slot corruption,qwen_lambda0.003,3,1.665446511204925
+waterbirds,irm,Slot ranking + slot corruption,qwen_lambda0.01,3,1.6637698862203492
+waterbirds,irm,Slot ranking + slot corruption,qwen_lambda0.1,3,1.6602821626893955
+waterbirds,irm,Slot ranking + slot corruption,qwen_lambda1,3,1.6511833430678988
+waterbirds,irm,Slot ranking + slot corruption,qwen_lambda10,3,1.6537253958870561
+waterbirds,irm,Slot ranking + slot corruption,qwen_lambda100,3,1.6507882434492445
+waterbirds,irm,Slot ranking + slot corruption,qwen_lambda1000,3,1.6476205375961426
+waterbirds,irm,Slot ranking + slot corruption,qwen_lambda10000,3,1.646804994130105
+celeba,irm,Slot ranking + slot corruption,qwen_lambda0.003,3,1.7823225244186551
+celeba,irm,Slot ranking + slot corruption,qwen_lambda0.01,3,1.7826409223642148
+celeba,irm,Slot ranking + slot corruption,qwen_lambda0.1,3,1.7822050355275607
+celeba,irm,Slot ranking + slot corruption,qwen_lambda1,3,1.7819961761100716
+celeba,irm,Slot ranking + slot corruption,qwen_lambda10,3,1.7792625548547543
+celeba,irm,Slot ranking + slot corruption,qwen_lambda100,3,1.6907082543442495
+celeba,irm,Slot ranking + slot corruption,qwen_lambda1000,3,1.6175354113093736
+celeba,irm,Slot ranking + slot corruption,qwen_lambda10000,3,1.616624025111369
+metashift,irm,Slot ranking + slot corruption,qwen_lambda0.003,3,1.9372502534956932
+metashift,irm,Slot ranking + slot corruption,qwen_lambda0.01,3,1.9411690378987176
+metashift,irm,Slot ranking + slot corruption,qwen_lambda0.1,3,1.9411690378987176
+metashift,irm,Slot ranking + slot corruption,qwen_lambda1,3,1.937252492957241
+metashift,irm,Slot ranking + slot corruption,qwen_lambda10,3,1.9196063418286904
+metashift,irm,Slot ranking + slot corruption,qwen_lambda100,3,1.8941071609775972
+metashift,irm,Slot ranking + slot corruption,qwen_lambda1000,3,1.8941071609775972
+metashift,irm,Slot ranking + slot corruption,qwen_lambda10000,3,1.8941071609775972
+nicopp_autumn_rock,irm,Slot ranking + slot corruption,qwen_lambda0.003,3,1.5364549069110787
+nicopp_autumn_rock,irm,Slot ranking + slot corruption,qwen_lambda0.01,3,1.535421593420392
+nicopp_autumn_rock,irm,Slot ranking + slot corruption,qwen_lambda0.1,3,1.5356214378815534
+nicopp_autumn_rock,irm,Slot ranking + slot corruption,qwen_lambda1,3,1.529359723726314
+nicopp_autumn_rock,irm,Slot ranking + slot corruption,qwen_lambda10,3,1.5083277490970517
+nicopp_autumn_rock,irm,Slot ranking + slot corruption,qwen_lambda100,3,1.1686137147204563
+nicopp_autumn_rock,irm,Slot ranking + slot corruption,qwen_lambda1000,3,1.1808941975183271
+nicopp_autumn_rock,irm,Slot ranking + slot corruption,qwen_lambda10000,3,1.1153705726037189
+nicopp_dim_grass,irm,Slot ranking + slot corruption,qwen_lambda0.003,3,1.5214599754308509
+nicopp_dim_grass,irm,Slot ranking + slot corruption,qwen_lambda0.01,3,1.5194592411543322
+nicopp_dim_grass,irm,Slot ranking + slot corruption,qwen_lambda0.1,3,1.5199653381488423
+nicopp_dim_grass,irm,Slot ranking + slot corruption,qwen_lambda1,3,1.5171137544902962
+nicopp_dim_grass,irm,Slot ranking + slot corruption,qwen_lambda10,3,1.5060675840403803
+nicopp_dim_grass,irm,Slot ranking + slot corruption,qwen_lambda100,3,1.376227288496242
+nicopp_dim_grass,irm,Slot ranking + slot corruption,qwen_lambda1000,3,1.3836611937300507
+nicopp_dim_grass,irm,Slot ranking + slot corruption,qwen_lambda10000,3,1.3777273246155994
+nicopp_outdoor_water,irm,Slot ranking + slot corruption,qwen_lambda0.003,3,1.5510005286711774
+nicopp_outdoor_water,irm,Slot ranking + slot corruption,qwen_lambda0.01,3,1.5498287954556016
+nicopp_outdoor_water,irm,Slot ranking + slot corruption,qwen_lambda0.1,3,1.5485717406966655
+nicopp_outdoor_water,irm,Slot ranking + slot corruption,qwen_lambda1,3,1.551391445117843
+nicopp_outdoor_water,irm,Slot ranking + slot corruption,qwen_lambda10,3,1.5385211773668326
+nicopp_outdoor_water,irm,Slot ranking + slot corruption,qwen_lambda100,3,1.3641771216134548
+nicopp_outdoor_water,irm,Slot ranking + slot corruption,qwen_lambda1000,3,1.3266384911845712
+nicopp_outdoor_water,irm,Slot ranking + slot corruption,qwen_lambda10000,3,1.3438531520503958
+waterbirds,group_dro,Original slot order,qwen_eta0.001_wd0,3,1.3766318084069866
+waterbirds,group_dro,Original slot order,qwen_eta0.01_wd0,3,1.3832518690854503
+waterbirds,group_dro,Original slot order,qwen_eta0.1_wd0,3,1.3955170868502247
+waterbirds,group_dro,Original slot order,qwen_eta1_wd0,3,1.443865988133007
+waterbirds,group_dro,Original slot order,qwen_eta3_wd0,3,1.4737443694981307
+waterbirds,group_dro,Original slot order,qwen_eta10_wd0,3,1.4697399083624518
+celeba,group_dro,Original slot order,qwen_eta0.001_wd0,3,1.780869326202892
+celeba,group_dro,Original slot order,qwen_eta0.01_wd0,3,1.7772154603284605
+celeba,group_dro,Original slot order,qwen_eta0.1_wd0,3,1.771562273572479
+celeba,group_dro,Original slot order,qwen_eta1_wd0,3,1.7831651867533092
+celeba,group_dro,Original slot order,qwen_eta3_wd0,3,1.7895501886213516
+celeba,group_dro,Original slot order,qwen_eta10_wd0,3,1.2863242091763916
+metashift,group_dro,Original slot order,qwen_eta0.001_wd0,3,1.8235056446821154
+metashift,group_dro,Original slot order,qwen_eta0.01_wd0,3,1.823516125527992
+metashift,group_dro,Original slot order,qwen_eta0.1_wd0,3,1.8293956541533543
+metashift,group_dro,Original slot order,qwen_eta1_wd0,3,1.8372262281939966
+metashift,group_dro,Original slot order,qwen_eta3_wd0,3,1.8411593435646598
+metashift,group_dro,Original slot order,qwen_eta10_wd0,3,1.848997335185978
+nicopp_autumn_rock,group_dro,Original slot order,qwen_eta0.001_wd0,3,1.4497101240697148
+nicopp_autumn_rock,group_dro,Original slot order,qwen_eta0.01_wd0,3,1.4535670573399855
+nicopp_autumn_rock,group_dro,Original slot order,qwen_eta0.1_wd0,3,1.453177364878652
+nicopp_autumn_rock,group_dro,Original slot order,qwen_eta1_wd0,3,1.4504316200360678
+nicopp_autumn_rock,group_dro,Original slot order,qwen_eta3_wd0,3,1.4470579969461692
+nicopp_autumn_rock,group_dro,Original slot order,qwen_eta10_wd0,3,1.3663742560261118
+nicopp_dim_grass,group_dro,Original slot order,qwen_eta0.001_wd0,3,1.4234131803325665
+nicopp_dim_grass,group_dro,Original slot order,qwen_eta0.01_wd0,3,1.4240855239998436
+nicopp_dim_grass,group_dro,Original slot order,qwen_eta0.1_wd0,3,1.4243242698821679
+nicopp_dim_grass,group_dro,Original slot order,qwen_eta1_wd0,3,1.423101869303269
+nicopp_dim_grass,group_dro,Original slot order,qwen_eta3_wd0,3,1.4191422180252904
+nicopp_dim_grass,group_dro,Original slot order,qwen_eta10_wd0,3,1.2731289770724503
+nicopp_outdoor_water,group_dro,Original slot order,qwen_eta0.001_wd0,3,1.4702901083387587
+nicopp_outdoor_water,group_dro,Original slot order,qwen_eta0.01_wd0,3,1.4732971563077404
+nicopp_outdoor_water,group_dro,Original slot order,qwen_eta0.1_wd0,3,1.4731253757598453
+nicopp_outdoor_water,group_dro,Original slot order,qwen_eta1_wd0,3,1.4722004146752186
+nicopp_outdoor_water,group_dro,Original slot order,qwen_eta3_wd0,3,1.468597993450997
+nicopp_outdoor_water,group_dro,Original slot order,qwen_eta10_wd0,3,1.321115564520702
+waterbirds,group_dro,Slot ranking,qwen_eta0.001_wd0,3,1.46037762993472
+waterbirds,group_dro,Slot ranking,qwen_eta0.01_wd0,3,1.4649118370819851
+waterbirds,group_dro,Slot ranking,qwen_eta0.1_wd0,3,1.4700026254781609
+waterbirds,group_dro,Slot ranking,qwen_eta1_wd0,3,1.5536981801406053
+waterbirds,group_dro,Slot ranking,qwen_eta3_wd0,3,1.6021865365134536
+waterbirds,group_dro,Slot ranking,qwen_eta10_wd0,3,1.5960428577185384
+celeba,group_dro,Slot ranking,qwen_eta0.001_wd0,3,1.776222812528184
+celeba,group_dro,Slot ranking,qwen_eta0.01_wd0,3,1.7663546716188974
+celeba,group_dro,Slot ranking,qwen_eta0.1_wd0,3,1.762938732908732
+celeba,group_dro,Slot ranking,qwen_eta1_wd0,3,1.7740055467314422
+celeba,group_dro,Slot ranking,qwen_eta3_wd0,3,1.7854893215724992
+celeba,group_dro,Slot ranking,qwen_eta10_wd0,3,1.0320235918157061
+metashift,group_dro,Slot ranking,qwen_eta0.001_wd0,3,1.8784280476196444
+metashift,group_dro,Slot ranking,qwen_eta0.01_wd0,3,1.8764653714233994
+metashift,group_dro,Slot ranking,qwen_eta0.1_wd0,3,1.8745086504879236
+metashift,group_dro,Slot ranking,qwen_eta1_wd0,3,1.8745094646825935
+metashift,group_dro,Slot ranking,qwen_eta3_wd0,3,1.8803913511543318
+metashift,group_dro,Slot ranking,qwen_eta10_wd0,3,1.872518618297924
+nicopp_autumn_rock,group_dro,Slot ranking,qwen_eta0.001_wd0,3,1.484441223572966
+nicopp_autumn_rock,group_dro,Slot ranking,qwen_eta0.01_wd0,3,1.487680614266049
+nicopp_autumn_rock,group_dro,Slot ranking,qwen_eta0.1_wd0,3,1.489054587994545
+nicopp_autumn_rock,group_dro,Slot ranking,qwen_eta1_wd0,3,1.489779632043305
+nicopp_autumn_rock,group_dro,Slot ranking,qwen_eta3_wd0,3,1.4870849994789666
+nicopp_autumn_rock,group_dro,Slot ranking,qwen_eta10_wd0,3,1.4245674408223579
+nicopp_dim_grass,group_dro,Slot ranking,qwen_eta0.001_wd0,3,1.469714067682694
+nicopp_dim_grass,group_dro,Slot ranking,qwen_eta0.01_wd0,3,1.4724012896170446
+nicopp_dim_grass,group_dro,Slot ranking,qwen_eta0.1_wd0,3,1.471546403596643
+nicopp_dim_grass,group_dro,Slot ranking,qwen_eta1_wd0,3,1.4724523490297006
+nicopp_dim_grass,group_dro,Slot ranking,qwen_eta3_wd0,3,1.471585117427501
+nicopp_dim_grass,group_dro,Slot ranking,qwen_eta10_wd0,3,1.2206843956415714
+nicopp_outdoor_water,group_dro,Slot ranking,qwen_eta0.001_wd0,3,1.4981034652022875
+nicopp_outdoor_water,group_dro,Slot ranking,qwen_eta0.01_wd0,3,1.5051915209816673
+nicopp_outdoor_water,group_dro,Slot ranking,qwen_eta0.1_wd0,3,1.5053427292880805
+nicopp_outdoor_water,group_dro,Slot ranking,qwen_eta1_wd0,3,1.5059537729341386
+nicopp_outdoor_water,group_dro,Slot ranking,qwen_eta3_wd0,3,1.5055067418060748
+nicopp_outdoor_water,group_dro,Slot ranking,qwen_eta10_wd0,3,1.426295968150722
+waterbirds,group_dro,Slot ranking + slot corruption,qwen_eta0.001_wd0,3,1.6517536428669672
+waterbirds,group_dro,Slot ranking + slot corruption,qwen_eta0.01_wd0,3,1.6578727547913772
+waterbirds,group_dro,Slot ranking + slot corruption,qwen_eta0.1_wd0,3,1.653820530439984
+waterbirds,group_dro,Slot ranking + slot corruption,qwen_eta1_wd0,3,1.712000115360061
+waterbirds,group_dro,Slot ranking + slot corruption,qwen_eta3_wd0,3,1.7249329801081028
+waterbirds,group_dro,Slot ranking + slot corruption,qwen_eta10_wd0,3,1.7198052931624759
+celeba,group_dro,Slot ranking + slot corruption,qwen_eta0.001_wd0,3,1.7771232355671707
+celeba,group_dro,Slot ranking + slot corruption,qwen_eta0.01_wd0,3,1.7697167566186156
+celeba,group_dro,Slot ranking + slot corruption,qwen_eta0.1_wd0,3,1.7704817992595696
+celeba,group_dro,Slot ranking + slot corruption,qwen_eta1_wd0,3,1.7862326337743433
+celeba,group_dro,Slot ranking + slot corruption,qwen_eta3_wd0,3,1.799474729986695
+celeba,group_dro,Slot ranking + slot corruption,qwen_eta10_wd0,3,1.2641776173449761
+metashift,group_dro,Slot ranking + slot corruption,qwen_eta0.001_wd0,3,1.935290020665458
+metashift,group_dro,Slot ranking + slot corruption,qwen_eta0.01_wd0,3,1.9333299405455981
+metashift,group_dro,Slot ranking + slot corruption,qwen_eta0.1_wd0,3,1.9372517465733867
+metashift,group_dro,Slot ranking + slot corruption,qwen_eta1_wd0,3,1.943131104918714
+metashift,group_dro,Slot ranking + slot corruption,qwen_eta3_wd0,3,1.9333299405455981
+metashift,group_dro,Slot ranking + slot corruption,qwen_eta10_wd0,3,1.9097907540477044
+nicopp_autumn_rock,group_dro,Slot ranking + slot corruption,qwen_eta0.001_wd0,3,1.538835726999375
+nicopp_autumn_rock,group_dro,Slot ranking + slot corruption,qwen_eta0.01_wd0,3,1.5386140860598951
+nicopp_autumn_rock,group_dro,Slot ranking + slot corruption,qwen_eta0.1_wd0,3,1.5419720283257987
+nicopp_autumn_rock,group_dro,Slot ranking + slot corruption,qwen_eta1_wd0,3,1.5422546459482167
+nicopp_autumn_rock,group_dro,Slot ranking + slot corruption,qwen_eta3_wd0,3,1.54023267498145
+nicopp_autumn_rock,group_dro,Slot ranking + slot corruption,qwen_eta10_wd0,3,1.3335116728820662
+nicopp_dim_grass,group_dro,Slot ranking + slot corruption,qwen_eta0.001_wd0,3,1.5273021040844845
+nicopp_dim_grass,group_dro,Slot ranking + slot corruption,qwen_eta0.01_wd0,3,1.5286178753300235
+nicopp_dim_grass,group_dro,Slot ranking + slot corruption,qwen_eta0.1_wd0,3,1.5278141111286985
+nicopp_dim_grass,group_dro,Slot ranking + slot corruption,qwen_eta1_wd0,3,1.5286381206096384
+nicopp_dim_grass,group_dro,Slot ranking + slot corruption,qwen_eta3_wd0,3,1.526834414168211
+nicopp_dim_grass,group_dro,Slot ranking + slot corruption,qwen_eta10_wd0,3,1.416698654743615
+nicopp_outdoor_water,group_dro,Slot ranking + slot corruption,qwen_eta0.001_wd0,3,1.5625746110398806
+nicopp_outdoor_water,group_dro,Slot ranking + slot corruption,qwen_eta0.01_wd0,3,1.5615321472330566
+nicopp_outdoor_water,group_dro,Slot ranking + slot corruption,qwen_eta0.1_wd0,3,1.5617261768440833
+nicopp_outdoor_water,group_dro,Slot ranking + slot corruption,qwen_eta1_wd0,3,1.5624860349780407
+nicopp_outdoor_water,group_dro,Slot ranking + slot corruption,qwen_eta3_wd0,3,1.5609199730144576
+nicopp_outdoor_water,group_dro,Slot ranking + slot corruption,qwen_eta10_wd0,3,1.4522208365145233
+waterbirds,jtt,Original slot order,T1_u1.5,3,1.354125584540669
+waterbirds,jtt,Original slot order,T1_u2,3,1.3605995133324214
+waterbirds,jtt,Original slot order,T1_u5,3,1.3819227009489274
+waterbirds,jtt,Original slot order,T1_u20,3,1.4378473098098574
+waterbirds,jtt,Original slot order,T1_u100,3,1.4568075359261714
+waterbirds,jtt,Original slot order,T1_u300,3,1.4614604520062298
+waterbirds,jtt,Original slot order,T5_u1.5,3,1.3440364537260374
+waterbirds,jtt,Original slot order,T5_u2,3,1.3680378823212163
+waterbirds,jtt,Original slot order,T5_u5,3,1.3878294342368225
+waterbirds,jtt,Original slot order,T5_u20,3,1.44966734825764
+waterbirds,jtt,Original slot order,T5_u100,3,1.4827028189296418
+waterbirds,jtt,Original slot order,T5_u300,3,1.4751505033359293
+waterbirds,jtt,Original slot order,T10_u1.5,3,1.3394957249426878
+waterbirds,jtt,Original slot order,T10_u2,3,1.348006679279937
+waterbirds,jtt,Original slot order,T10_u5,3,1.3781562815960913
+waterbirds,jtt,Original slot order,T10_u20,3,1.4247278255931815
+waterbirds,jtt,Original slot order,T10_u100,3,1.4697617690021125
+waterbirds,jtt,Original slot order,T10_u300,3,1.4535247459781047
+waterbirds,jtt,Original slot order,T50_u1.5,3,1.3407558680668037
+waterbirds,jtt,Original slot order,T50_u2,3,1.3314653694361118
+waterbirds,jtt,Original slot order,T50_u5,3,1.35716516123457
+waterbirds,jtt,Original slot order,T50_u20,3,1.3377548155054917
+waterbirds,jtt,Original slot order,T50_u100,3,1.3563739322741404
+waterbirds,jtt,Original slot order,T50_u300,3,1.3332367640935905
+waterbirds,jtt,Original slot order,T100_u1.5,3,1.3292201242027002
+waterbirds,jtt,Original slot order,T100_u2,3,1.3292201242027002
+waterbirds,jtt,Original slot order,T100_u5,3,1.3361737976707015
+waterbirds,jtt,Original slot order,T100_u20,3,1.3361737976707015
+waterbirds,jtt,Original slot order,T100_u100,3,1.3273002653864452
+waterbirds,jtt,Original slot order,T100_u300,3,1.3292201242027002
+waterbirds,jtt,Original slot order,T200_u1.5,3,1.3391345719670866
+waterbirds,jtt,Original slot order,T200_u2,3,1.3458314876360513
+waterbirds,jtt,Original slot order,T200_u5,3,1.3385872358357667
+waterbirds,jtt,Original slot order,T200_u20,3,1.3331388778877207
+waterbirds,jtt,Original slot order,T200_u100,3,1.3395512451880494
+waterbirds,jtt,Original slot order,T200_u300,3,1.3343920718788749
+celeba,jtt,Original slot order,T1_u1.5,3,1.7704124031007835
+celeba,jtt,Original slot order,T1_u2,3,1.764181623826518
+celeba,jtt,Original slot order,T1_u5,3,1.7261486047516013
+celeba,jtt,Original slot order,T1_u20,3,1.7116140268284663
+celeba,jtt,Original slot order,T1_u100,3,1.7014717133540274
+celeba,jtt,Original slot order,T1_u300,3,1.691584775850269
+celeba,jtt,Original slot order,T5_u1.5,3,1.7693283586205018
+celeba,jtt,Original slot order,T5_u2,3,1.7683424698235097
+celeba,jtt,Original slot order,T5_u5,3,1.741344854521211
+celeba,jtt,Original slot order,T5_u20,3,1.7073406541813003
+celeba,jtt,Original slot order,T5_u100,3,1.6986062288205932
+celeba,jtt,Original slot order,T5_u300,3,1.6844089171246444
+celeba,jtt,Original slot order,T10_u1.5,3,1.7696147609871238
+celeba,jtt,Original slot order,T10_u2,3,1.7681371504192418
+celeba,jtt,Original slot order,T10_u5,3,1.7273438597431554
+celeba,jtt,Original slot order,T10_u20,3,1.7154583180128402
+celeba,jtt,Original slot order,T10_u100,3,1.7007017921069423
+celeba,jtt,Original slot order,T10_u300,3,1.6866530930562849
+celeba,jtt,Original slot order,T50_u1.5,3,1.772096112150189
+celeba,jtt,Original slot order,T50_u2,3,1.7704973704109273
+celeba,jtt,Original slot order,T50_u5,3,1.7537036464822613
+celeba,jtt,Original slot order,T50_u20,3,1.7248310841425016
+celeba,jtt,Original slot order,T50_u100,3,1.7122514474545756
+celeba,jtt,Original slot order,T50_u300,3,1.714069326660389
+celeba,jtt,Original slot order,T100_u1.5,3,1.7750170858862504
+celeba,jtt,Original slot order,T100_u2,3,1.7723207347789873
+celeba,jtt,Original slot order,T100_u5,3,1.7724367735395343
+celeba,jtt,Original slot order,T100_u20,3,1.7619215512324293
+celeba,jtt,Original slot order,T100_u100,3,1.7532751918810903
+celeba,jtt,Original slot order,T100_u300,3,1.7445505780121164
+celeba,jtt,Original slot order,T200_u1.5,3,1.7747258095698264
+celeba,jtt,Original slot order,T200_u2,3,1.7757785490748181
+celeba,jtt,Original slot order,T200_u5,3,1.7718995177267456
+celeba,jtt,Original slot order,T200_u20,3,1.768023483981465
+celeba,jtt,Original slot order,T200_u100,3,1.767952664302238
+celeba,jtt,Original slot order,T200_u300,3,1.7689641206780309
+metashift,jtt,Original slot order,T1_u1.5,3,1.8627277905015012
+metashift,jtt,Original slot order,T1_u2,3,1.8607712231537417
+metashift,jtt,Original slot order,T1_u5,3,1.8392097320053509
+metashift,jtt,Original slot order,T1_u20,3,1.8078362500010805
+metashift,jtt,Original slot order,T1_u100,3,1.788182231783452
+metashift,jtt,Original slot order,T1_u300,3,1.7686247369981594
+metashift,jtt,Original slot order,T5_u1.5,3,1.8607538431660586
+metashift,jtt,Original slot order,T5_u2,3,1.8568285159165658
+metashift,jtt,Original slot order,T5_u5,3,1.8392024002650693
+metashift,jtt,Original slot order,T5_u20,3,1.8078190405995134
+metashift,jtt,Original slot order,T5_u100,3,1.7490076650815365
+metashift,jtt,Original slot order,T5_u300,3,1.7234651434224253
+metashift,jtt,Original slot order,T10_u1.5,3,1.8588015225707333
+metashift,jtt,Original slot order,T10_u2,3,1.8529282910366864
+metashift,jtt,Original slot order,T10_u5,3,1.8411588097871234
+metashift,jtt,Original slot order,T10_u20,3,1.8097868285340486
+metashift,jtt,Original slot order,T10_u100,3,1.7666600084308446
+metashift,jtt,Original slot order,T10_u300,3,1.7392024792453336
+metashift,jtt,Original slot order,T50_u1.5,3,1.8646749491256147
+metashift,jtt,Original slot order,T50_u2,3,1.8705485551810694
+metashift,jtt,Original slot order,T50_u5,3,1.8627186939216598
+metashift,jtt,Original slot order,T50_u20,3,1.8627074054677009
+metashift,jtt,Original slot order,T50_u100,3,1.862709211869932
+metashift,jtt,Original slot order,T50_u300,3,1.8646873777522284
+metashift,jtt,Original slot order,T100_u1.5,3,1.8666408236435579
+metashift,jtt,Original slot order,T100_u2,3,1.8666408236435579
+metashift,jtt,Original slot order,T100_u5,3,1.8666408236435579
+metashift,jtt,Original slot order,T100_u20,3,1.8666408236435579
+metashift,jtt,Original slot order,T100_u100,3,1.8666408236435579
+metashift,jtt,Original slot order,T100_u300,3,1.8666408236435579
+metashift,jtt,Original slot order,T200_u1.5,3,1.8685874422027962
+metashift,jtt,Original slot order,T200_u2,3,1.8685874422027962
+metashift,jtt,Original slot order,T200_u5,3,1.8685874422027962
+metashift,jtt,Original slot order,T200_u20,3,1.8685874422027962
+metashift,jtt,Original slot order,T200_u100,3,1.8685874422027962
+metashift,jtt,Original slot order,T200_u300,3,1.8685874422027962
+nicopp_autumn_rock,jtt,Original slot order,T1_u1.5,3,1.4556382996662667
+nicopp_autumn_rock,jtt,Original slot order,T1_u2,3,1.450967338395629
+nicopp_autumn_rock,jtt,Original slot order,T1_u5,3,1.4251189025489583
+nicopp_autumn_rock,jtt,Original slot order,T1_u20,3,1.398655907344871
+nicopp_autumn_rock,jtt,Original slot order,T1_u100,3,1.3795402495603912
+nicopp_autumn_rock,jtt,Original slot order,T1_u300,3,1.3170787450847012
+nicopp_autumn_rock,jtt,Original slot order,T5_u1.5,3,1.453267974516356
+nicopp_autumn_rock,jtt,Original slot order,T5_u2,3,1.4421557805014213
+nicopp_autumn_rock,jtt,Original slot order,T5_u5,3,1.4071073868623116
+nicopp_autumn_rock,jtt,Original slot order,T5_u20,3,1.3827339110251682
+nicopp_autumn_rock,jtt,Original slot order,T5_u100,3,1.3530921813657864
+nicopp_autumn_rock,jtt,Original slot order,T5_u300,3,1.322579526707694
+nicopp_autumn_rock,jtt,Original slot order,T10_u1.5,3,1.4520847500484457
+nicopp_autumn_rock,jtt,Original slot order,T10_u2,3,1.4382639829787849
+nicopp_autumn_rock,jtt,Original slot order,T10_u5,3,1.4012516544853275
+nicopp_autumn_rock,jtt,Original slot order,T10_u20,3,1.3778656844593395
+nicopp_autumn_rock,jtt,Original slot order,T10_u100,3,1.3505281448595399
+nicopp_autumn_rock,jtt,Original slot order,T10_u300,3,1.3190940982832335
+nicopp_autumn_rock,jtt,Original slot order,T50_u1.5,3,1.449772086840273
+nicopp_autumn_rock,jtt,Original slot order,T50_u2,3,1.4377792144651653
+nicopp_autumn_rock,jtt,Original slot order,T50_u5,3,1.4083105715869542
+nicopp_autumn_rock,jtt,Original slot order,T50_u20,3,1.3794523771896616
+nicopp_autumn_rock,jtt,Original slot order,T50_u100,3,1.3604903076712809
+nicopp_autumn_rock,jtt,Original slot order,T50_u300,3,1.3279790433392646
+nicopp_autumn_rock,jtt,Original slot order,T100_u1.5,3,1.4556955719523679
+nicopp_autumn_rock,jtt,Original slot order,T100_u2,3,1.4481353429907358
+nicopp_autumn_rock,jtt,Original slot order,T100_u5,3,1.4299220483485542
+nicopp_autumn_rock,jtt,Original slot order,T100_u20,3,1.4060278080776847
+nicopp_autumn_rock,jtt,Original slot order,T100_u100,3,1.3862672969674623
+nicopp_autumn_rock,jtt,Original slot order,T100_u300,3,1.3734468433300517
+nicopp_autumn_rock,jtt,Original slot order,T200_u1.5,3,1.4616036458311488
+nicopp_autumn_rock,jtt,Original slot order,T200_u2,3,1.4584837542274347
+nicopp_autumn_rock,jtt,Original slot order,T200_u5,3,1.4563871608352261
+nicopp_autumn_rock,jtt,Original slot order,T200_u20,3,1.4547772679069124
+nicopp_autumn_rock,jtt,Original slot order,T200_u100,3,1.4467377654872824
+nicopp_autumn_rock,jtt,Original slot order,T200_u300,3,1.4282112759109153
+nicopp_dim_grass,jtt,Original slot order,T1_u1.5,3,1.4197317323273184
+nicopp_dim_grass,jtt,Original slot order,T1_u2,3,1.4168095459536085
+nicopp_dim_grass,jtt,Original slot order,T1_u5,3,1.3974541282351993
+nicopp_dim_grass,jtt,Original slot order,T1_u20,3,1.3648555429587101
+nicopp_dim_grass,jtt,Original slot order,T1_u100,3,1.3342467040234087
+nicopp_dim_grass,jtt,Original slot order,T1_u300,3,1.3124379507098825
+nicopp_dim_grass,jtt,Original slot order,T5_u1.5,3,1.4199642101935206
+nicopp_dim_grass,jtt,Original slot order,T5_u2,3,1.4119661715083538
+nicopp_dim_grass,jtt,Original slot order,T5_u5,3,1.371765827646124
+nicopp_dim_grass,jtt,Original slot order,T5_u20,3,1.3519108061908345
+nicopp_dim_grass,jtt,Original slot order,T5_u100,3,1.3281401845221854
+nicopp_dim_grass,jtt,Original slot order,T5_u300,3,1.3039923598001055
+nicopp_dim_grass,jtt,Original slot order,T10_u1.5,3,1.4129960836596993
+nicopp_dim_grass,jtt,Original slot order,T10_u2,3,1.4053684468149557
+nicopp_dim_grass,jtt,Original slot order,T10_u5,3,1.3692975772493332
+nicopp_dim_grass,jtt,Original slot order,T10_u20,3,1.347878965564248
+nicopp_dim_grass,jtt,Original slot order,T10_u100,3,1.3179292941578986
+nicopp_dim_grass,jtt,Original slot order,T10_u300,3,1.297478547330283
+nicopp_dim_grass,jtt,Original slot order,T50_u1.5,3,1.4087616581418931
+nicopp_dim_grass,jtt,Original slot order,T50_u2,3,1.396871631113297
+nicopp_dim_grass,jtt,Original slot order,T50_u5,3,1.3728797007236093
+nicopp_dim_grass,jtt,Original slot order,T50_u20,3,1.3525722567760845
+nicopp_dim_grass,jtt,Original slot order,T50_u100,3,1.3229556844090806
+nicopp_dim_grass,jtt,Original slot order,T50_u300,3,1.30028136359054
+nicopp_dim_grass,jtt,Original slot order,T100_u1.5,3,1.4195185323723496
+nicopp_dim_grass,jtt,Original slot order,T100_u2,3,1.4139070018934452
+nicopp_dim_grass,jtt,Original slot order,T100_u5,3,1.4049736558628834
+nicopp_dim_grass,jtt,Original slot order,T100_u20,3,1.3868607327210147
+nicopp_dim_grass,jtt,Original slot order,T100_u100,3,1.3583508061354879
+nicopp_dim_grass,jtt,Original slot order,T100_u300,3,1.3470416778861019
+nicopp_dim_grass,jtt,Original slot order,T200_u1.5,3,1.4203699632165254
+nicopp_dim_grass,jtt,Original slot order,T200_u2,3,1.4193289810870588
+nicopp_dim_grass,jtt,Original slot order,T200_u5,3,1.4205822415730156
+nicopp_dim_grass,jtt,Original slot order,T200_u20,3,1.4174968223249493
+nicopp_dim_grass,jtt,Original slot order,T200_u100,3,1.4152301639045952
+nicopp_dim_grass,jtt,Original slot order,T200_u300,3,1.3979846979031656
+nicopp_outdoor_water,jtt,Original slot order,T1_u1.5,3,1.4758444647240274
+nicopp_outdoor_water,jtt,Original slot order,T1_u2,3,1.467922195983472
+nicopp_outdoor_water,jtt,Original slot order,T1_u5,3,1.4473372821078463
+nicopp_outdoor_water,jtt,Original slot order,T1_u20,3,1.424991913550226
+nicopp_outdoor_water,jtt,Original slot order,T1_u100,3,1.401733544263239
+nicopp_outdoor_water,jtt,Original slot order,T1_u300,3,1.37293997521449
+nicopp_outdoor_water,jtt,Original slot order,T5_u1.5,3,1.4718375757173645
+nicopp_outdoor_water,jtt,Original slot order,T5_u2,3,1.4597580431738946
+nicopp_outdoor_water,jtt,Original slot order,T5_u5,3,1.4296958059476477
+nicopp_outdoor_water,jtt,Original slot order,T5_u20,3,1.412538535320418
+nicopp_outdoor_water,jtt,Original slot order,T5_u100,3,1.3812991485830777
+nicopp_outdoor_water,jtt,Original slot order,T5_u300,3,1.3594246788070634
+nicopp_outdoor_water,jtt,Original slot order,T10_u1.5,3,1.467660782090295
+nicopp_outdoor_water,jtt,Original slot order,T10_u2,3,1.4574904311804655
+nicopp_outdoor_water,jtt,Original slot order,T10_u5,3,1.4227502951082087
+nicopp_outdoor_water,jtt,Original slot order,T10_u20,3,1.397815134125113
+nicopp_outdoor_water,jtt,Original slot order,T10_u100,3,1.371565183293458
+nicopp_outdoor_water,jtt,Original slot order,T10_u300,3,1.3407338808797575
+nicopp_outdoor_water,jtt,Original slot order,T50_u1.5,3,1.4657635735459786
+nicopp_outdoor_water,jtt,Original slot order,T50_u2,3,1.4568447167294007
+nicopp_outdoor_water,jtt,Original slot order,T50_u5,3,1.4312793887971118
+nicopp_outdoor_water,jtt,Original slot order,T50_u20,3,1.407794112392833
+nicopp_outdoor_water,jtt,Original slot order,T50_u100,3,1.380970628244732
+nicopp_outdoor_water,jtt,Original slot order,T50_u300,3,1.3592318740166247
+nicopp_outdoor_water,jtt,Original slot order,T100_u1.5,3,1.472450094767206
+nicopp_outdoor_water,jtt,Original slot order,T100_u2,3,1.4720962218514424
+nicopp_outdoor_water,jtt,Original slot order,T100_u5,3,1.4612538096244816
+nicopp_outdoor_water,jtt,Original slot order,T100_u20,3,1.4502323517771478
+nicopp_outdoor_water,jtt,Original slot order,T100_u100,3,1.4230619780399334
+nicopp_outdoor_water,jtt,Original slot order,T100_u300,3,1.4064324800801635
+nicopp_outdoor_water,jtt,Original slot order,T200_u1.5,3,1.4758665436217975
+nicopp_outdoor_water,jtt,Original slot order,T200_u2,3,1.4726615573505952
+nicopp_outdoor_water,jtt,Original slot order,T200_u5,3,1.4715387203628574
+nicopp_outdoor_water,jtt,Original slot order,T200_u20,3,1.4705622427029421
+nicopp_outdoor_water,jtt,Original slot order,T200_u100,3,1.4633231997210443
+nicopp_outdoor_water,jtt,Original slot order,T200_u300,3,1.4542310128555591
+waterbirds,jtt,Slot ranking,T1_u1.5,3,1.4254999975738443
+waterbirds,jtt,Slot ranking,T1_u2,3,1.4341194630471346
+waterbirds,jtt,Slot ranking,T1_u5,3,1.4724376861592716
+waterbirds,jtt,Slot ranking,T1_u20,3,1.556536356035762
+waterbirds,jtt,Slot ranking,T1_u100,3,1.5621149138468258
+waterbirds,jtt,Slot ranking,T1_u300,3,1.5517782464109722
+waterbirds,jtt,Slot ranking,T5_u1.5,3,1.4248280899951578
+waterbirds,jtt,Slot ranking,T5_u2,3,1.4354027739819137
+waterbirds,jtt,Slot ranking,T5_u5,3,1.4749417314114235
+waterbirds,jtt,Slot ranking,T5_u20,3,1.5384733720221975
+waterbirds,jtt,Slot ranking,T5_u100,3,1.562633684513057
+waterbirds,jtt,Slot ranking,T5_u300,3,1.5390491666769874
+waterbirds,jtt,Slot ranking,T10_u1.5,3,1.422730888557514
+waterbirds,jtt,Slot ranking,T10_u2,3,1.431465284989755
+waterbirds,jtt,Slot ranking,T10_u5,3,1.4653499385243964
+waterbirds,jtt,Slot ranking,T10_u20,3,1.5088181067258983
+waterbirds,jtt,Slot ranking,T10_u100,3,1.5267729713342602
+waterbirds,jtt,Slot ranking,T10_u300,3,1.5101841817110582
+waterbirds,jtt,Slot ranking,T50_u1.5,3,1.4129020294181618
+waterbirds,jtt,Slot ranking,T50_u2,3,1.4143374490163438
+waterbirds,jtt,Slot ranking,T50_u5,3,1.412836071626848
+waterbirds,jtt,Slot ranking,T50_u20,3,1.424282477087683
+waterbirds,jtt,Slot ranking,T50_u100,3,1.4178714536250603
+waterbirds,jtt,Slot ranking,T50_u300,3,1.4209505375264329
+waterbirds,jtt,Slot ranking,T100_u1.5,3,1.4144101364963486
+waterbirds,jtt,Slot ranking,T100_u2,3,1.413986402461531
+waterbirds,jtt,Slot ranking,T100_u5,3,1.4181799469142007
+waterbirds,jtt,Slot ranking,T100_u20,3,1.4173122473889597
+waterbirds,jtt,Slot ranking,T100_u100,3,1.4184214177257577
+waterbirds,jtt,Slot ranking,T100_u300,3,1.4170840093007644
+waterbirds,jtt,Slot ranking,T200_u1.5,3,1.413332997064818
+waterbirds,jtt,Slot ranking,T200_u2,3,1.4152762461373385
+waterbirds,jtt,Slot ranking,T200_u5,3,1.4127196807235622
+waterbirds,jtt,Slot ranking,T200_u20,3,1.4147145062791695
+waterbirds,jtt,Slot ranking,T200_u100,3,1.4168550518157879
+waterbirds,jtt,Slot ranking,T200_u300,3,1.414658468831868
+celeba,jtt,Slot ranking,T1_u1.5,3,1.7661223911683848
+celeba,jtt,Slot ranking,T1_u2,3,1.7620174867975884
+celeba,jtt,Slot ranking,T1_u5,3,1.7236126855270435
+celeba,jtt,Slot ranking,T1_u20,3,1.713205437374573
+celeba,jtt,Slot ranking,T1_u100,3,1.6977693983356332
+celeba,jtt,Slot ranking,T1_u300,3,1.68600943851996
+celeba,jtt,Slot ranking,T5_u1.5,3,1.7633971314247205
+celeba,jtt,Slot ranking,T5_u2,3,1.761422912604641
+celeba,jtt,Slot ranking,T5_u5,3,1.734161753037661
+celeba,jtt,Slot ranking,T5_u20,3,1.7032464213850063
+celeba,jtt,Slot ranking,T5_u100,3,1.696474926787139
+celeba,jtt,Slot ranking,T5_u300,3,1.6935675807569603
+celeba,jtt,Slot ranking,T10_u1.5,3,1.7656487655129984
+celeba,jtt,Slot ranking,T10_u2,3,1.764854796705779
+celeba,jtt,Slot ranking,T10_u5,3,1.7274472948745887
+celeba,jtt,Slot ranking,T10_u20,3,1.7088751419598607
+celeba,jtt,Slot ranking,T10_u100,3,1.6968526931554189
+celeba,jtt,Slot ranking,T10_u300,3,1.6905349131475906
+celeba,jtt,Slot ranking,T50_u1.5,3,1.7739603058132143
+celeba,jtt,Slot ranking,T50_u2,3,1.7692752680247246
+celeba,jtt,Slot ranking,T50_u5,3,1.7546726834297548
+celeba,jtt,Slot ranking,T50_u20,3,1.7238782293476635
+celeba,jtt,Slot ranking,T50_u100,3,1.7191296028469722
+celeba,jtt,Slot ranking,T50_u300,3,1.7117325639319276
+celeba,jtt,Slot ranking,T100_u1.5,3,1.7707583063948817
+celeba,jtt,Slot ranking,T100_u2,3,1.773160104940289
+celeba,jtt,Slot ranking,T100_u5,3,1.770082536609929
+celeba,jtt,Slot ranking,T100_u20,3,1.7598215358547071
+celeba,jtt,Slot ranking,T100_u100,3,1.7527662692510535
+celeba,jtt,Slot ranking,T100_u300,3,1.7487507427588458
+celeba,jtt,Slot ranking,T200_u1.5,3,1.770966432261048
+celeba,jtt,Slot ranking,T200_u2,3,1.770896820163746
+celeba,jtt,Slot ranking,T200_u5,3,1.7706899278500534
+celeba,jtt,Slot ranking,T200_u20,3,1.7725662540760296
+celeba,jtt,Slot ranking,T200_u100,3,1.7650930865301697
+celeba,jtt,Slot ranking,T200_u300,3,1.7664825888206288
+metashift,jtt,Slot ranking,T1_u1.5,3,1.9039192530396865
+metashift,jtt,Slot ranking,T1_u2,3,1.9019587996618295
+metashift,jtt,Slot ranking,T1_u5,3,1.8960705675648455
+metashift,jtt,Slot ranking,T1_u20,3,1.866648523895105
+metashift,jtt,Slot ranking,T1_u100,3,1.8548897265371984
+metashift,jtt,Slot ranking,T1_u300,3,1.8392101052280985
+metashift,jtt,Slot ranking,T5_u1.5,3,1.9078392780364741
+metashift,jtt,Slot ranking,T5_u2,3,1.9039187102432396
+metashift,jtt,Slot ranking,T5_u5,3,1.892153342770924
+metashift,jtt,Slot ranking,T5_u20,3,1.868625695297195
+metashift,jtt,Slot ranking,T5_u100,3,1.8529354847029984
+metashift,jtt,Slot ranking,T5_u300,3,1.8352885699891066
+metashift,jtt,Slot ranking,T10_u1.5,3,1.9039192530396865
+metashift,jtt,Slot ranking,T10_u2,3,1.9039199995573857
+metashift,jtt,Slot ranking,T10_u5,3,1.8921518159313846
+metashift,jtt,Slot ranking,T10_u20,3,1.8666659203215528
+metashift,jtt,Slot ranking,T10_u100,3,1.862741739340925
+metashift,jtt,Slot ranking,T10_u300,3,1.843120538503315
+metashift,jtt,Slot ranking,T50_u1.5,3,1.9039197281521194
+metashift,jtt,Slot ranking,T50_u2,3,1.9039197281521194
+metashift,jtt,Slot ranking,T50_u5,3,1.9039197281521194
+metashift,jtt,Slot ranking,T50_u20,3,1.9039197281521194
+metashift,jtt,Slot ranking,T50_u100,3,1.9039197281521194
+metashift,jtt,Slot ranking,T50_u300,3,1.9039197281521194
+metashift,jtt,Slot ranking,T100_u1.5,3,1.9019587996618295
+metashift,jtt,Slot ranking,T100_u2,3,1.9019587996618295
+metashift,jtt,Slot ranking,T100_u5,3,1.9019587996618295
+metashift,jtt,Slot ranking,T100_u20,3,1.9019587996618295
+metashift,jtt,Slot ranking,T100_u100,3,1.9019587996618295
+metashift,jtt,Slot ranking,T100_u300,3,1.9019587996618295
+metashift,jtt,Slot ranking,T200_u1.5,3,1.90391871024324
+metashift,jtt,Slot ranking,T200_u2,3,1.90391871024324
+metashift,jtt,Slot ranking,T200_u5,3,1.90391871024324
+metashift,jtt,Slot ranking,T200_u20,3,1.90391871024324
+metashift,jtt,Slot ranking,T200_u100,3,1.90391871024324
+metashift,jtt,Slot ranking,T200_u300,3,1.90391871024324
+nicopp_autumn_rock,jtt,Slot ranking,T1_u1.5,3,1.4871030342242528
+nicopp_autumn_rock,jtt,Slot ranking,T1_u2,3,1.48596201272062
+nicopp_autumn_rock,jtt,Slot ranking,T1_u5,3,1.457906141546226
+nicopp_autumn_rock,jtt,Slot ranking,T1_u20,3,1.3992646267449775
+nicopp_autumn_rock,jtt,Slot ranking,T1_u100,3,1.3649773701417318
+nicopp_autumn_rock,jtt,Slot ranking,T1_u300,3,1.3206090362669887
+nicopp_autumn_rock,jtt,Slot ranking,T5_u1.5,3,1.4822480639029767
+nicopp_autumn_rock,jtt,Slot ranking,T5_u2,3,1.4771798092572521
+nicopp_autumn_rock,jtt,Slot ranking,T5_u5,3,1.4213422774211522
+nicopp_autumn_rock,jtt,Slot ranking,T5_u20,3,1.384696383891708
+nicopp_autumn_rock,jtt,Slot ranking,T5_u100,3,1.3594908778728605
+nicopp_autumn_rock,jtt,Slot ranking,T5_u300,3,1.3321377185630363
+nicopp_autumn_rock,jtt,Slot ranking,T10_u1.5,3,1.4830196738738763
+nicopp_autumn_rock,jtt,Slot ranking,T10_u2,3,1.4695865613552208
+nicopp_autumn_rock,jtt,Slot ranking,T10_u5,3,1.4047099884974756
+nicopp_autumn_rock,jtt,Slot ranking,T10_u20,3,1.3748799595426913
+nicopp_autumn_rock,jtt,Slot ranking,T10_u100,3,1.3430153882702134
+nicopp_autumn_rock,jtt,Slot ranking,T10_u300,3,1.313879450553143
+nicopp_autumn_rock,jtt,Slot ranking,T50_u1.5,3,1.4818857397361913
+nicopp_autumn_rock,jtt,Slot ranking,T50_u2,3,1.4695507589954626
+nicopp_autumn_rock,jtt,Slot ranking,T50_u5,3,1.4048265345060154
+nicopp_autumn_rock,jtt,Slot ranking,T50_u20,3,1.377263632416236
+nicopp_autumn_rock,jtt,Slot ranking,T50_u100,3,1.3589669853943018
+nicopp_autumn_rock,jtt,Slot ranking,T50_u300,3,1.345778699565929
+nicopp_autumn_rock,jtt,Slot ranking,T100_u1.5,3,1.4875385591099342
+nicopp_autumn_rock,jtt,Slot ranking,T100_u2,3,1.4836180733659345
+nicopp_autumn_rock,jtt,Slot ranking,T100_u5,3,1.465795638988068
+nicopp_autumn_rock,jtt,Slot ranking,T100_u20,3,1.4345316858937724
+nicopp_autumn_rock,jtt,Slot ranking,T100_u100,3,1.3995270556871862
+nicopp_autumn_rock,jtt,Slot ranking,T100_u300,3,1.3857257744206202
+nicopp_autumn_rock,jtt,Slot ranking,T200_u1.5,3,1.4893920422523859
+nicopp_autumn_rock,jtt,Slot ranking,T200_u2,3,1.4891782541370417
+nicopp_autumn_rock,jtt,Slot ranking,T200_u5,3,1.4879094860124098
+nicopp_autumn_rock,jtt,Slot ranking,T200_u20,3,1.4860013029617394
+nicopp_autumn_rock,jtt,Slot ranking,T200_u100,3,1.4791085487324278
+nicopp_autumn_rock,jtt,Slot ranking,T200_u300,3,1.47084506322087
+nicopp_dim_grass,jtt,Slot ranking,T1_u1.5,3,1.4773996969622198
+nicopp_dim_grass,jtt,Slot ranking,T1_u2,3,1.4724327920056346
+nicopp_dim_grass,jtt,Slot ranking,T1_u5,3,1.4510989211103542
+nicopp_dim_grass,jtt,Slot ranking,T1_u20,3,1.4004523886116782
+nicopp_dim_grass,jtt,Slot ranking,T1_u100,3,1.3673098667634462
+nicopp_dim_grass,jtt,Slot ranking,T1_u300,3,1.3391700141617566
+nicopp_dim_grass,jtt,Slot ranking,T5_u1.5,3,1.4705966776522796
+nicopp_dim_grass,jtt,Slot ranking,T5_u2,3,1.4636174924906349
+nicopp_dim_grass,jtt,Slot ranking,T5_u5,3,1.4096978774314506
+nicopp_dim_grass,jtt,Slot ranking,T5_u20,3,1.3783609351335802
+nicopp_dim_grass,jtt,Slot ranking,T5_u100,3,1.358054832782983
+nicopp_dim_grass,jtt,Slot ranking,T5_u300,3,1.3300394001238356
+nicopp_dim_grass,jtt,Slot ranking,T10_u1.5,3,1.4682954988440942
+nicopp_dim_grass,jtt,Slot ranking,T10_u2,3,1.4600487368116344
+nicopp_dim_grass,jtt,Slot ranking,T10_u5,3,1.3948536809525545
+nicopp_dim_grass,jtt,Slot ranking,T10_u20,3,1.3708562432617242
+nicopp_dim_grass,jtt,Slot ranking,T10_u100,3,1.3439296532678664
+nicopp_dim_grass,jtt,Slot ranking,T10_u300,3,1.3184771135130864
+nicopp_dim_grass,jtt,Slot ranking,T50_u1.5,3,1.4643266007153326
+nicopp_dim_grass,jtt,Slot ranking,T50_u2,3,1.4537349607499799
+nicopp_dim_grass,jtt,Slot ranking,T50_u5,3,1.4022737913428507
+nicopp_dim_grass,jtt,Slot ranking,T50_u20,3,1.370730961030824
+nicopp_dim_grass,jtt,Slot ranking,T50_u100,3,1.3467052008474019
+nicopp_dim_grass,jtt,Slot ranking,T50_u300,3,1.3280444046091564
+nicopp_dim_grass,jtt,Slot ranking,T100_u1.5,3,1.4757079450156445
+nicopp_dim_grass,jtt,Slot ranking,T100_u2,3,1.4715033718676622
+nicopp_dim_grass,jtt,Slot ranking,T100_u5,3,1.4600829213537139
+nicopp_dim_grass,jtt,Slot ranking,T100_u20,3,1.4447564643198227
+nicopp_dim_grass,jtt,Slot ranking,T100_u100,3,1.4195118613236597
+nicopp_dim_grass,jtt,Slot ranking,T100_u300,3,1.3961599687022304
+nicopp_dim_grass,jtt,Slot ranking,T200_u1.5,3,1.476928774872139
+nicopp_dim_grass,jtt,Slot ranking,T200_u2,3,1.4781444503379164
+nicopp_dim_grass,jtt,Slot ranking,T200_u5,3,1.475367589762002
+nicopp_dim_grass,jtt,Slot ranking,T200_u20,3,1.4746632067828276
+nicopp_dim_grass,jtt,Slot ranking,T200_u100,3,1.471627721733335
+nicopp_dim_grass,jtt,Slot ranking,T200_u300,3,1.4609757821300449
+nicopp_outdoor_water,jtt,Slot ranking,T1_u1.5,3,1.5058138533881362
+nicopp_outdoor_water,jtt,Slot ranking,T1_u2,3,1.499989402220929
+nicopp_outdoor_water,jtt,Slot ranking,T1_u5,3,1.4759787422530348
+nicopp_outdoor_water,jtt,Slot ranking,T1_u20,3,1.4351478722973976
+nicopp_outdoor_water,jtt,Slot ranking,T1_u100,3,1.422377777388605
+nicopp_outdoor_water,jtt,Slot ranking,T1_u300,3,1.376779529770231
+nicopp_outdoor_water,jtt,Slot ranking,T5_u1.5,3,1.5052259103544652
+nicopp_outdoor_water,jtt,Slot ranking,T5_u2,3,1.4974201230906485
+nicopp_outdoor_water,jtt,Slot ranking,T5_u5,3,1.444961422710411
+nicopp_outdoor_water,jtt,Slot ranking,T5_u20,3,1.4286463049542324
+nicopp_outdoor_water,jtt,Slot ranking,T5_u100,3,1.3971045531907766
+nicopp_outdoor_water,jtt,Slot ranking,T5_u300,3,1.386588284296214
+nicopp_outdoor_water,jtt,Slot ranking,T10_u1.5,3,1.5013049605556847
+nicopp_outdoor_water,jtt,Slot ranking,T10_u2,3,1.4939500049204097
+nicopp_outdoor_water,jtt,Slot ranking,T10_u5,3,1.4385294706951957
+nicopp_outdoor_water,jtt,Slot ranking,T10_u20,3,1.416631113423783
+nicopp_outdoor_water,jtt,Slot ranking,T10_u100,3,1.3952025727490864
+nicopp_outdoor_water,jtt,Slot ranking,T10_u300,3,1.3717580081215683
+nicopp_outdoor_water,jtt,Slot ranking,T50_u1.5,3,1.4980255786604684
+nicopp_outdoor_water,jtt,Slot ranking,T50_u2,3,1.4884493561073147
+nicopp_outdoor_water,jtt,Slot ranking,T50_u5,3,1.4458690563176606
+nicopp_outdoor_water,jtt,Slot ranking,T50_u20,3,1.4238085541676195
+nicopp_outdoor_water,jtt,Slot ranking,T50_u100,3,1.400690104106691
+nicopp_outdoor_water,jtt,Slot ranking,T50_u300,3,1.3887382269611834
+nicopp_outdoor_water,jtt,Slot ranking,T100_u1.5,3,1.5048245941543446
+nicopp_outdoor_water,jtt,Slot ranking,T100_u2,3,1.5047268547147954
+nicopp_outdoor_water,jtt,Slot ranking,T100_u5,3,1.500555347752985
+nicopp_outdoor_water,jtt,Slot ranking,T100_u20,3,1.4915253719261035
+nicopp_outdoor_water,jtt,Slot ranking,T100_u100,3,1.4743098173295321
+nicopp_outdoor_water,jtt,Slot ranking,T100_u300,3,1.4537085708111988
+nicopp_outdoor_water,jtt,Slot ranking,T200_u1.5,3,1.5092183130462937
+nicopp_outdoor_water,jtt,Slot ranking,T200_u2,3,1.507130450346845
+nicopp_outdoor_water,jtt,Slot ranking,T200_u5,3,1.5061832233055217
+nicopp_outdoor_water,jtt,Slot ranking,T200_u20,3,1.5069327401040555
+nicopp_outdoor_water,jtt,Slot ranking,T200_u100,3,1.5031691311153448
+nicopp_outdoor_water,jtt,Slot ranking,T200_u300,3,1.5004577243708832
+waterbirds,jtt,Slot ranking + slot corruption,T1_u1.5,3,1.628465192856891
+waterbirds,jtt,Slot ranking + slot corruption,T1_u2,3,1.6284409925069523
+waterbirds,jtt,Slot ranking + slot corruption,T1_u5,3,1.6384481294463884
+waterbirds,jtt,Slot ranking + slot corruption,T1_u20,3,1.670830560726505
+waterbirds,jtt,Slot ranking + slot corruption,T1_u100,3,1.6808250863736298
+waterbirds,jtt,Slot ranking + slot corruption,T1_u300,3,1.6878664742017975
+waterbirds,jtt,Slot ranking + slot corruption,T5_u1.5,3,1.6382233781938311
+waterbirds,jtt,Slot ranking + slot corruption,T5_u2,3,1.6219642380050636
+waterbirds,jtt,Slot ranking + slot corruption,T5_u5,3,1.6461478531095803
+waterbirds,jtt,Slot ranking + slot corruption,T5_u20,3,1.6895128788499754
+waterbirds,jtt,Slot ranking + slot corruption,T5_u100,3,1.6998090787893279
+waterbirds,jtt,Slot ranking + slot corruption,T5_u300,3,1.703178886710108
+waterbirds,jtt,Slot ranking + slot corruption,T10_u1.5,3,1.6237503303262046
+waterbirds,jtt,Slot ranking + slot corruption,T10_u2,3,1.6367389881141838
+waterbirds,jtt,Slot ranking + slot corruption,T10_u5,3,1.6326263800942697
+waterbirds,jtt,Slot ranking + slot corruption,T10_u20,3,1.6765871613529137
+waterbirds,jtt,Slot ranking + slot corruption,T10_u100,3,1.6944690962674451
+waterbirds,jtt,Slot ranking + slot corruption,T10_u300,3,1.692843867419772
+waterbirds,jtt,Slot ranking + slot corruption,T50_u1.5,3,1.6236699525718021
+waterbirds,jtt,Slot ranking + slot corruption,T50_u2,3,1.6314882344379944
+waterbirds,jtt,Slot ranking + slot corruption,T50_u5,3,1.6273898470838313
+waterbirds,jtt,Slot ranking + slot corruption,T50_u20,3,1.6286940756764758
+waterbirds,jtt,Slot ranking + slot corruption,T50_u100,3,1.6315709281285644
+waterbirds,jtt,Slot ranking + slot corruption,T50_u300,3,1.6248469454454737
+waterbirds,jtt,Slot ranking + slot corruption,T100_u1.5,3,1.6132955362028627
+waterbirds,jtt,Slot ranking + slot corruption,T100_u2,3,1.6157135900993975
+waterbirds,jtt,Slot ranking + slot corruption,T100_u5,3,1.6180891451119912
+waterbirds,jtt,Slot ranking + slot corruption,T100_u20,3,1.618338478974905
+waterbirds,jtt,Slot ranking + slot corruption,T100_u100,3,1.6179948461698774
+waterbirds,jtt,Slot ranking + slot corruption,T100_u300,3,1.6184780484882229
+waterbirds,jtt,Slot ranking + slot corruption,T200_u1.5,3,1.618666248328971
+waterbirds,jtt,Slot ranking + slot corruption,T200_u2,3,1.6236599474345832
+waterbirds,jtt,Slot ranking + slot corruption,T200_u5,3,1.6273786952661613
+waterbirds,jtt,Slot ranking + slot corruption,T200_u20,3,1.627976805095952
+waterbirds,jtt,Slot ranking + slot corruption,T200_u100,3,1.6252204016266372
+waterbirds,jtt,Slot ranking + slot corruption,T200_u300,3,1.6232769671800602
+celeba,jtt,Slot ranking + slot corruption,T1_u1.5,3,1.780473745017413
+celeba,jtt,Slot ranking + slot corruption,T1_u2,3,1.7774413426642246
+celeba,jtt,Slot ranking + slot corruption,T1_u5,3,1.7461002416368065
+celeba,jtt,Slot ranking + slot corruption,T1_u20,3,1.608344486752151
+celeba,jtt,Slot ranking + slot corruption,T1_u100,3,1.4807108323664575
+celeba,jtt,Slot ranking + slot corruption,T1_u300,3,1.3681961223478278
+celeba,jtt,Slot ranking + slot corruption,T5_u1.5,3,1.7822427328055792
+celeba,jtt,Slot ranking + slot corruption,T5_u2,3,1.7803024120221884
+celeba,jtt,Slot ranking + slot corruption,T5_u5,3,1.7589130373408939
+celeba,jtt,Slot ranking + slot corruption,T5_u20,3,1.5933193952964322
+celeba,jtt,Slot ranking + slot corruption,T5_u100,3,1.451823745955857
+celeba,jtt,Slot ranking + slot corruption,T5_u300,3,1.3584466374599231
+celeba,jtt,Slot ranking + slot corruption,T10_u1.5,3,1.7819827798877093
+celeba,jtt,Slot ranking + slot corruption,T10_u2,3,1.7781167845562766
+celeba,jtt,Slot ranking + slot corruption,T10_u5,3,1.750406406683379
+celeba,jtt,Slot ranking + slot corruption,T10_u20,3,1.6002611861926308
+celeba,jtt,Slot ranking + slot corruption,T10_u100,3,1.4776682957993887
+celeba,jtt,Slot ranking + slot corruption,T10_u300,3,1.3396918781492004
+celeba,jtt,Slot ranking + slot corruption,T50_u1.5,3,1.7831201491108253
+celeba,jtt,Slot ranking + slot corruption,T50_u2,3,1.7812842890495133
+celeba,jtt,Slot ranking + slot corruption,T50_u5,3,1.7708961006769428
+celeba,jtt,Slot ranking + slot corruption,T50_u20,3,1.7166045831489736
+celeba,jtt,Slot ranking + slot corruption,T50_u100,3,1.6709087548206665
+celeba,jtt,Slot ranking + slot corruption,T50_u300,3,1.6375850685513818
+celeba,jtt,Slot ranking + slot corruption,T100_u1.5,3,1.7838172153977971
+celeba,jtt,Slot ranking + slot corruption,T100_u2,3,1.7831686323344336
+celeba,jtt,Slot ranking + slot corruption,T100_u5,3,1.7813885801749147
+celeba,jtt,Slot ranking + slot corruption,T100_u20,3,1.7724308155808342
+celeba,jtt,Slot ranking + slot corruption,T100_u100,3,1.7618204828055595
+celeba,jtt,Slot ranking + slot corruption,T100_u300,3,1.7496497781027902
+celeba,jtt,Slot ranking + slot corruption,T200_u1.5,3,1.7828281960927528
+celeba,jtt,Slot ranking + slot corruption,T200_u2,3,1.7838594045649627
+celeba,jtt,Slot ranking + slot corruption,T200_u5,3,1.7831592639677547
+celeba,jtt,Slot ranking + slot corruption,T200_u20,3,1.7790377018242662
+celeba,jtt,Slot ranking + slot corruption,T200_u100,3,1.775087452762684
+celeba,jtt,Slot ranking + slot corruption,T200_u300,3,1.7695103272405408
+metashift,jtt,Slot ranking + slot corruption,T1_u1.5,3,1.9372514751047152
+metashift,jtt,Slot ranking + slot corruption,T1_u2,3,1.9333301441840838
+metashift,jtt,Slot ranking + slot corruption,T1_u5,3,1.929408185371937
+metashift,jtt,Slot ranking + slot corruption,T1_u20,3,1.9372536297477143
+metashift,jtt,Slot ranking + slot corruption,T1_u100,3,1.9254873292185322
+metashift,jtt,Slot ranking + slot corruption,T1_u300,3,1.9333292787319492
+metashift,jtt,Slot ranking + slot corruption,T5_u1.5,3,1.9411723991922354
+metashift,jtt,Slot ranking + slot corruption,T5_u2,3,1.9411683255409262
+metashift,jtt,Slot ranking + slot corruption,T5_u5,3,1.941171889831734
+metashift,jtt,Slot ranking + slot corruption,T5_u20,3,1.9313709799689136
+metashift,jtt,Slot ranking + slot corruption,T5_u100,3,1.9215643184538231
+metashift,jtt,Slot ranking + slot corruption,T5_u300,3,1.9058796387335295
+metashift,jtt,Slot ranking + slot corruption,T10_u1.5,3,1.9372517805994491
+metashift,jtt,Slot ranking + slot corruption,T10_u2,3,1.9333294650632034
+metashift,jtt,Slot ranking + slot corruption,T10_u5,3,1.9392110116458738
+metashift,jtt,Slot ranking + slot corruption,T10_u20,3,1.933331246886853
+metashift,jtt,Slot ranking + slot corruption,T10_u100,3,1.9196001997274772
+metashift,jtt,Slot ranking + slot corruption,T10_u300,3,1.9039129923862335
+metashift,jtt,Slot ranking + slot corruption,T50_u1.5,3,1.933331246886853
+metashift,jtt,Slot ranking + slot corruption,T50_u2,3,1.933331246886853
+metashift,jtt,Slot ranking + slot corruption,T50_u5,3,1.933331246886853
+metashift,jtt,Slot ranking + slot corruption,T50_u20,3,1.933331246886853
+metashift,jtt,Slot ranking + slot corruption,T50_u100,3,1.933331246886853
+metashift,jtt,Slot ranking + slot corruption,T50_u300,3,1.933331246886853
+metashift,jtt,Slot ranking + slot corruption,T100_u1.5,3,1.93137164153422
+metashift,jtt,Slot ranking + slot corruption,T100_u2,3,1.93137164153422
+metashift,jtt,Slot ranking + slot corruption,T100_u5,3,1.93137164153422
+metashift,jtt,Slot ranking + slot corruption,T100_u20,3,1.93137164153422
+metashift,jtt,Slot ranking + slot corruption,T100_u100,3,1.93137164153422
+metashift,jtt,Slot ranking + slot corruption,T100_u300,3,1.93137164153422
+metashift,jtt,Slot ranking + slot corruption,T200_u1.5,3,1.9392111817763313
+metashift,jtt,Slot ranking + slot corruption,T200_u2,3,1.9352905631835455
+metashift,jtt,Slot ranking + slot corruption,T200_u5,3,1.9352905631835455
+metashift,jtt,Slot ranking + slot corruption,T200_u20,3,1.9352905631835455
+metashift,jtt,Slot ranking + slot corruption,T200_u100,3,1.9392111817763313
+metashift,jtt,Slot ranking + slot corruption,T200_u300,3,1.9352905631835455
+nicopp_autumn_rock,jtt,Slot ranking + slot corruption,T1_u1.5,3,1.5425623218290951
+nicopp_autumn_rock,jtt,Slot ranking + slot corruption,T1_u2,3,1.5369879707801444
+nicopp_autumn_rock,jtt,Slot ranking + slot corruption,T1_u5,3,1.5165681065105316
+nicopp_autumn_rock,jtt,Slot ranking + slot corruption,T1_u20,3,1.4734659642695311
+nicopp_autumn_rock,jtt,Slot ranking + slot corruption,T1_u100,3,1.4324412475815247
+nicopp_autumn_rock,jtt,Slot ranking + slot corruption,T1_u300,3,1.423737687661261
+nicopp_autumn_rock,jtt,Slot ranking + slot corruption,T5_u1.5,3,1.5379864615496146
+nicopp_autumn_rock,jtt,Slot ranking + slot corruption,T5_u2,3,1.52849580607504
+nicopp_autumn_rock,jtt,Slot ranking + slot corruption,T5_u5,3,1.48601029818816
+nicopp_autumn_rock,jtt,Slot ranking + slot corruption,T5_u20,3,1.371270059375019
+nicopp_autumn_rock,jtt,Slot ranking + slot corruption,T5_u100,3,1.2246289359485476
+nicopp_autumn_rock,jtt,Slot ranking + slot corruption,T5_u300,3,1.1624276131529163
+nicopp_autumn_rock,jtt,Slot ranking + slot corruption,T10_u1.5,3,1.532543991224937
+nicopp_autumn_rock,jtt,Slot ranking + slot corruption,T10_u2,3,1.5231347634011894
+nicopp_autumn_rock,jtt,Slot ranking + slot corruption,T10_u5,3,1.473201435193338
+nicopp_autumn_rock,jtt,Slot ranking + slot corruption,T10_u20,3,1.3373563164253415
+nicopp_autumn_rock,jtt,Slot ranking + slot corruption,T10_u100,3,1.1436068224362101
+nicopp_autumn_rock,jtt,Slot ranking + slot corruption,T10_u300,3,1.0293744054740748
+nicopp_autumn_rock,jtt,Slot ranking + slot corruption,T50_u1.5,3,1.5355214524633525
+nicopp_autumn_rock,jtt,Slot ranking + slot corruption,T50_u2,3,1.5246146070330668
+nicopp_autumn_rock,jtt,Slot ranking + slot corruption,T50_u5,3,1.4727439482965565
+nicopp_autumn_rock,jtt,Slot ranking + slot corruption,T50_u20,3,1.4003414168306243
+nicopp_autumn_rock,jtt,Slot ranking + slot corruption,T50_u100,3,1.2691852191560413
+nicopp_autumn_rock,jtt,Slot ranking + slot corruption,T50_u300,3,1.182869617917368
+nicopp_autumn_rock,jtt,Slot ranking + slot corruption,T100_u1.5,3,1.541893179893535
+nicopp_autumn_rock,jtt,Slot ranking + slot corruption,T100_u2,3,1.537628320819488
+nicopp_autumn_rock,jtt,Slot ranking + slot corruption,T100_u5,3,1.5230904406464527
+nicopp_autumn_rock,jtt,Slot ranking + slot corruption,T100_u20,3,1.4945101836942414
+nicopp_autumn_rock,jtt,Slot ranking + slot corruption,T100_u100,3,1.4606808400875366
+nicopp_autumn_rock,jtt,Slot ranking + slot corruption,T100_u300,3,1.4351620363141802
+nicopp_autumn_rock,jtt,Slot ranking + slot corruption,T200_u1.5,3,1.5443244016434068
+nicopp_autumn_rock,jtt,Slot ranking + slot corruption,T200_u2,3,1.5458373574100708
+nicopp_autumn_rock,jtt,Slot ranking + slot corruption,T200_u5,3,1.5443330024727533
+nicopp_autumn_rock,jtt,Slot ranking + slot corruption,T200_u20,3,1.5425336691680684
+nicopp_autumn_rock,jtt,Slot ranking + slot corruption,T200_u100,3,1.537582019324595
+nicopp_autumn_rock,jtt,Slot ranking + slot corruption,T200_u300,3,1.534584810997428
+nicopp_dim_grass,jtt,Slot ranking + slot corruption,T1_u1.5,3,1.5336791476318439
+nicopp_dim_grass,jtt,Slot ranking + slot corruption,T1_u2,3,1.529153196745941
+nicopp_dim_grass,jtt,Slot ranking + slot corruption,T1_u5,3,1.5123611938481483
+nicopp_dim_grass,jtt,Slot ranking + slot corruption,T1_u20,3,1.4769880129425825
+nicopp_dim_grass,jtt,Slot ranking + slot corruption,T1_u100,3,1.4411542206005785
+nicopp_dim_grass,jtt,Slot ranking + slot corruption,T1_u300,3,1.4328156827301601
+nicopp_dim_grass,jtt,Slot ranking + slot corruption,T5_u1.5,3,1.5268304240621864
+nicopp_dim_grass,jtt,Slot ranking + slot corruption,T5_u2,3,1.5179648109638098
+nicopp_dim_grass,jtt,Slot ranking + slot corruption,T5_u5,3,1.4759123318510472
+nicopp_dim_grass,jtt,Slot ranking + slot corruption,T5_u20,3,1.3726907549205414
+nicopp_dim_grass,jtt,Slot ranking + slot corruption,T5_u100,3,1.2133455414186347
+nicopp_dim_grass,jtt,Slot ranking + slot corruption,T5_u300,3,1.1514012083852518
+nicopp_dim_grass,jtt,Slot ranking + slot corruption,T10_u1.5,3,1.5235730270229322
+nicopp_dim_grass,jtt,Slot ranking + slot corruption,T10_u2,3,1.5139837479295395
+nicopp_dim_grass,jtt,Slot ranking + slot corruption,T10_u5,3,1.4631044072623904
+nicopp_dim_grass,jtt,Slot ranking + slot corruption,T10_u20,3,1.345213952254147
+nicopp_dim_grass,jtt,Slot ranking + slot corruption,T10_u100,3,1.156893545040328
+nicopp_dim_grass,jtt,Slot ranking + slot corruption,T10_u300,3,1.0318860616973746
+nicopp_dim_grass,jtt,Slot ranking + slot corruption,T50_u1.5,3,1.5224087603255756
+nicopp_dim_grass,jtt,Slot ranking + slot corruption,T50_u2,3,1.5129671015931783
+nicopp_dim_grass,jtt,Slot ranking + slot corruption,T50_u5,3,1.4705102049039969
+nicopp_dim_grass,jtt,Slot ranking + slot corruption,T50_u20,3,1.408811035310474
+nicopp_dim_grass,jtt,Slot ranking + slot corruption,T50_u100,3,1.2968129277998135
+nicopp_dim_grass,jtt,Slot ranking + slot corruption,T50_u300,3,1.2315305906466705
+nicopp_dim_grass,jtt,Slot ranking + slot corruption,T100_u1.5,3,1.5335470629221823
+nicopp_dim_grass,jtt,Slot ranking + slot corruption,T100_u2,3,1.5285995794581952
+nicopp_dim_grass,jtt,Slot ranking + slot corruption,T100_u5,3,1.5204381896947403
+nicopp_dim_grass,jtt,Slot ranking + slot corruption,T100_u20,3,1.5058875134460177
+nicopp_dim_grass,jtt,Slot ranking + slot corruption,T100_u100,3,1.4873143026787572
+nicopp_dim_grass,jtt,Slot ranking + slot corruption,T100_u300,3,1.4683559018116201
+nicopp_dim_grass,jtt,Slot ranking + slot corruption,T200_u1.5,3,1.5346876320167195
+nicopp_dim_grass,jtt,Slot ranking + slot corruption,T200_u2,3,1.5338550144504766
+nicopp_dim_grass,jtt,Slot ranking + slot corruption,T200_u5,3,1.5334869570543235
+nicopp_dim_grass,jtt,Slot ranking + slot corruption,T200_u20,3,1.533099807437371
+nicopp_dim_grass,jtt,Slot ranking + slot corruption,T200_u100,3,1.5289811058960412
+nicopp_dim_grass,jtt,Slot ranking + slot corruption,T200_u300,3,1.5236676593634317
+nicopp_outdoor_water,jtt,Slot ranking + slot corruption,T1_u1.5,3,1.56308425543716
+nicopp_outdoor_water,jtt,Slot ranking + slot corruption,T1_u2,3,1.5606396457107217
+nicopp_outdoor_water,jtt,Slot ranking + slot corruption,T1_u5,3,1.5446217625435772
+nicopp_outdoor_water,jtt,Slot ranking + slot corruption,T1_u20,3,1.5123003417860026
+nicopp_outdoor_water,jtt,Slot ranking + slot corruption,T1_u100,3,1.4812403610406297
+nicopp_outdoor_water,jtt,Slot ranking + slot corruption,T1_u300,3,1.4735365372844715
+nicopp_outdoor_water,jtt,Slot ranking + slot corruption,T5_u1.5,3,1.5586741129848953
+nicopp_outdoor_water,jtt,Slot ranking + slot corruption,T5_u2,3,1.550978930584564
+nicopp_outdoor_water,jtt,Slot ranking + slot corruption,T5_u5,3,1.5134379228303043
+nicopp_outdoor_water,jtt,Slot ranking + slot corruption,T5_u20,3,1.421131424752515
+nicopp_outdoor_water,jtt,Slot ranking + slot corruption,T5_u100,3,1.2975896187855613
+nicopp_outdoor_water,jtt,Slot ranking + slot corruption,T5_u300,3,1.1852827753007082
+nicopp_outdoor_water,jtt,Slot ranking + slot corruption,T10_u1.5,3,1.55582639742834
+nicopp_outdoor_water,jtt,Slot ranking + slot corruption,T10_u2,3,1.5489541025483635
+nicopp_outdoor_water,jtt,Slot ranking + slot corruption,T10_u5,3,1.5052326555417885
+nicopp_outdoor_water,jtt,Slot ranking + slot corruption,T10_u20,3,1.4082458114193328
+nicopp_outdoor_water,jtt,Slot ranking + slot corruption,T10_u100,3,1.2637074143694635
+nicopp_outdoor_water,jtt,Slot ranking + slot corruption,T10_u300,3,1.1271667377842247
+nicopp_outdoor_water,jtt,Slot ranking + slot corruption,T50_u1.5,3,1.5561669784671406
+nicopp_outdoor_water,jtt,Slot ranking + slot corruption,T50_u2,3,1.5460220608191555
+nicopp_outdoor_water,jtt,Slot ranking + slot corruption,T50_u5,3,1.5126003863962445
+nicopp_outdoor_water,jtt,Slot ranking + slot corruption,T50_u20,3,1.4607911536832274
+nicopp_outdoor_water,jtt,Slot ranking + slot corruption,T50_u100,3,1.37630209901645
+nicopp_outdoor_water,jtt,Slot ranking + slot corruption,T50_u300,3,1.3139583588969503
+nicopp_outdoor_water,jtt,Slot ranking + slot corruption,T100_u1.5,3,1.5624714684583594
+nicopp_outdoor_water,jtt,Slot ranking + slot corruption,T100_u2,3,1.5604237901586682
+nicopp_outdoor_water,jtt,Slot ranking + slot corruption,T100_u5,3,1.5571424726490826
+nicopp_outdoor_water,jtt,Slot ranking + slot corruption,T100_u20,3,1.5514186842127549
+nicopp_outdoor_water,jtt,Slot ranking + slot corruption,T100_u100,3,1.5358719399188987
+nicopp_outdoor_water,jtt,Slot ranking + slot corruption,T100_u300,3,1.5236361541686267
+nicopp_outdoor_water,jtt,Slot ranking + slot corruption,T200_u1.5,3,1.5660402767149033
+nicopp_outdoor_water,jtt,Slot ranking + slot corruption,T200_u2,3,1.5633922877382656
+nicopp_outdoor_water,jtt,Slot ranking + slot corruption,T200_u5,3,1.5620885265619944
+nicopp_outdoor_water,jtt,Slot ranking + slot corruption,T200_u20,3,1.5623887566059096
+nicopp_outdoor_water,jtt,Slot ranking + slot corruption,T200_u100,3,1.5626490275739078
+nicopp_outdoor_water,jtt,Slot ranking + slot corruption,T200_u300,3,1.561316591314032
+waterbirds,rsc,Original slot order,pf0.05_pb0.02,3,1.3453245131355818
+waterbirds,rsc,Original slot order,pf0.05_pb0.05,3,1.3484897673463012
+waterbirds,rsc,Original slot order,pf0.05_pb0.1,3,1.3222398277157585
+waterbirds,rsc,Original slot order,pf0.05_pb0.333333,3,1.3699145974196227
+waterbirds,rsc,Original slot order,pf0.05_pb0.5,3,1.3726994599157056
+waterbirds,rsc,Original slot order,pf0.1_pb0.02,3,1.341901202396973
+waterbirds,rsc,Original slot order,pf0.1_pb0.05,3,1.366458265110299
+waterbirds,rsc,Original slot order,pf0.1_pb0.1,3,1.3648467225341385
+waterbirds,rsc,Original slot order,pf0.1_pb0.333333,3,1.3408509367191659
+waterbirds,rsc,Original slot order,pf0.1_pb0.5,3,1.3409371118045492
+waterbirds,rsc,Original slot order,pf0.333333_pb0.02,3,1.357015393552274
+waterbirds,rsc,Original slot order,pf0.333333_pb0.05,3,1.3637450232637558
+waterbirds,rsc,Original slot order,pf0.333333_pb0.1,3,1.375033814965101
+waterbirds,rsc,Original slot order,pf0.333333_pb0.333333,3,1.3886120106534567
+waterbirds,rsc,Original slot order,pf0.333333_pb0.5,3,1.3668056060473017
+waterbirds,rsc,Original slot order,pf0.5_pb0.02,3,1.339411924170659
+waterbirds,rsc,Original slot order,pf0.5_pb0.05,3,1.3314793692296418
+waterbirds,rsc,Original slot order,pf0.5_pb0.1,3,1.3191735901717567
+waterbirds,rsc,Original slot order,pf0.5_pb0.333333,3,1.3363832466220218
+waterbirds,rsc,Original slot order,pf0.5_pb0.5,3,1.3528202037914154
+waterbirds,rsc,Original slot order,pf0.75_pb0.02,3,1.3494538885591012
+waterbirds,rsc,Original slot order,pf0.75_pb0.05,3,1.3554277001363004
+waterbirds,rsc,Original slot order,pf0.75_pb0.1,3,1.3425794649896874
+waterbirds,rsc,Original slot order,pf0.75_pb0.333333,3,1.3478691445853717
+waterbirds,rsc,Original slot order,pf0.75_pb0.5,3,1.353423004660094
+waterbirds,rsc,Original slot order,pf0.9_pb0.02,3,1.3849477623536541
+waterbirds,rsc,Original slot order,pf0.9_pb0.05,3,1.3320515193683553
+waterbirds,rsc,Original slot order,pf0.9_pb0.1,3,1.3630042605994301
+waterbirds,rsc,Original slot order,pf0.9_pb0.333333,3,1.3488299882145227
+waterbirds,rsc,Original slot order,pf0.9_pb0.5,3,1.3453177079790695
+celeba,rsc,Original slot order,pf0.05_pb0.02,3,1.7889534125217896
+celeba,rsc,Original slot order,pf0.05_pb0.05,3,1.7910583660456831
+celeba,rsc,Original slot order,pf0.05_pb0.1,3,1.7902572359465605
+celeba,rsc,Original slot order,pf0.05_pb0.333333,3,1.789772497613071
+celeba,rsc,Original slot order,pf0.05_pb0.5,3,1.791870812697076
+celeba,rsc,Original slot order,pf0.1_pb0.02,3,1.7916154273849518
+celeba,rsc,Original slot order,pf0.1_pb0.05,3,1.7908299731842963
+celeba,rsc,Original slot order,pf0.1_pb0.1,3,1.7907233640166116
+celeba,rsc,Original slot order,pf0.1_pb0.333333,3,1.7904116685484828
+celeba,rsc,Original slot order,pf0.1_pb0.5,3,1.7884054227488437
+celeba,rsc,Original slot order,pf0.333333_pb0.02,3,1.7924637089225257
+celeba,rsc,Original slot order,pf0.333333_pb0.05,3,1.7935271197878393
+celeba,rsc,Original slot order,pf0.333333_pb0.1,3,1.7933190398720633
+celeba,rsc,Original slot order,pf0.333333_pb0.333333,3,1.791325495344967
+celeba,rsc,Original slot order,pf0.333333_pb0.5,3,1.7914077562112354
+celeba,rsc,Original slot order,pf0.5_pb0.02,3,1.7939461385139233
+celeba,rsc,Original slot order,pf0.5_pb0.05,3,1.794651531229101
+celeba,rsc,Original slot order,pf0.5_pb0.1,3,1.7967872957810742
+celeba,rsc,Original slot order,pf0.5_pb0.333333,3,1.78882945649561
+celeba,rsc,Original slot order,pf0.5_pb0.5,3,1.7904623359570795
+celeba,rsc,Original slot order,pf0.75_pb0.02,3,1.7953700915218578
+celeba,rsc,Original slot order,pf0.75_pb0.05,3,1.794952621892942
+celeba,rsc,Original slot order,pf0.75_pb0.1,3,1.797163261435565
+celeba,rsc,Original slot order,pf0.75_pb0.333333,3,1.7956928086659705
+celeba,rsc,Original slot order,pf0.75_pb0.5,3,1.7961318389440433
+celeba,rsc,Original slot order,pf0.9_pb0.02,3,1.792663206070246
+celeba,rsc,Original slot order,pf0.9_pb0.05,3,1.7930928092191252
+celeba,rsc,Original slot order,pf0.9_pb0.1,3,1.7941548262141278
+celeba,rsc,Original slot order,pf0.9_pb0.333333,3,1.7950745349082406
+celeba,rsc,Original slot order,pf0.9_pb0.5,3,1.7947791710941072
+metashift,rsc,Original slot order,pf0.05_pb0.02,3,1.858801054212975
+metashift,rsc,Original slot order,pf0.05_pb0.05,3,1.8607637550020335
+metashift,rsc,Original slot order,pf0.05_pb0.1,3,1.860760489761202
+metashift,rsc,Original slot order,pf0.05_pb0.333333,3,1.862723595274403
+metashift,rsc,Original slot order,pf0.05_pb0.5,3,1.8666459780965237
+metashift,rsc,Original slot order,pf0.1_pb0.02,3,1.8607488750277064
+metashift,rsc,Original slot order,pf0.1_pb0.05,3,1.86075071299806
+metashift,rsc,Original slot order,pf0.1_pb0.1,3,1.8607564170968978
+metashift,rsc,Original slot order,pf0.1_pb0.333333,3,1.8607548564761107
+metashift,rsc,Original slot order,pf0.1_pb0.5,3,1.8607480430827419
+metashift,rsc,Original slot order,pf0.333333_pb0.02,3,1.8607543799118644
+metashift,rsc,Original slot order,pf0.333333_pb0.05,3,1.8548756680903544
+metashift,rsc,Original slot order,pf0.333333_pb0.1,3,1.8627119516039958
+metashift,rsc,Original slot order,pf0.333333_pb0.333333,3,1.8627163156337367
+metashift,rsc,Original slot order,pf0.333333_pb0.5,3,1.8607453432848509
+metashift,rsc,Original slot order,pf0.5_pb0.02,3,1.8548726142341636
+metashift,rsc,Original slot order,pf0.5_pb0.05,3,1.8607698775975905
+metashift,rsc,Original slot order,pf0.5_pb0.1,3,1.8607712888955739
+metashift,rsc,Original slot order,pf0.5_pb0.333333,3,1.8627348505300034
+metashift,rsc,Original slot order,pf0.5_pb0.5,3,1.8627189793764714
+metashift,rsc,Original slot order,pf0.75_pb0.02,3,1.854878060456036
+metashift,rsc,Original slot order,pf0.75_pb0.05,3,1.8568370890865638
+metashift,rsc,Original slot order,pf0.75_pb0.1,3,1.8568412962063252
+metashift,rsc,Original slot order,pf0.75_pb0.333333,3,1.860758929140415
+metashift,rsc,Original slot order,pf0.75_pb0.5,3,1.8607579141565644
+metashift,rsc,Original slot order,pf0.9_pb0.02,3,1.8548717321899382
+metashift,rsc,Original slot order,pf0.9_pb0.05,3,1.8548774498382103
+metashift,rsc,Original slot order,pf0.9_pb0.1,3,1.8548745234942918
+metashift,rsc,Original slot order,pf0.9_pb0.333333,3,1.858792978344072
+metashift,rsc,Original slot order,pf0.9_pb0.5,3,1.8568279203067641
+nicopp_autumn_rock,rsc,Original slot order,pf0.05_pb0.02,3,1.4683906984112713
+nicopp_autumn_rock,rsc,Original slot order,pf0.05_pb0.05,3,1.4673885394995043
+nicopp_autumn_rock,rsc,Original slot order,pf0.05_pb0.1,3,1.4689719110575694
+nicopp_autumn_rock,rsc,Original slot order,pf0.05_pb0.333333,3,1.4643447271302739
+nicopp_autumn_rock,rsc,Original slot order,pf0.05_pb0.5,3,1.465501427263422
+nicopp_autumn_rock,rsc,Original slot order,pf0.1_pb0.02,3,1.4699687418602274
+nicopp_autumn_rock,rsc,Original slot order,pf0.1_pb0.05,3,1.468210046180717
+nicopp_autumn_rock,rsc,Original slot order,pf0.1_pb0.1,3,1.465831804830831
+nicopp_autumn_rock,rsc,Original slot order,pf0.1_pb0.333333,3,1.4617731933517824
+nicopp_autumn_rock,rsc,Original slot order,pf0.1_pb0.5,3,1.457850302412666
+nicopp_autumn_rock,rsc,Original slot order,pf0.333333_pb0.02,3,1.4712934978261896
+nicopp_autumn_rock,rsc,Original slot order,pf0.333333_pb0.05,3,1.4713571847932332
+nicopp_autumn_rock,rsc,Original slot order,pf0.333333_pb0.1,3,1.4699275123736435
+nicopp_autumn_rock,rsc,Original slot order,pf0.333333_pb0.333333,3,1.4397748427593058
+nicopp_autumn_rock,rsc,Original slot order,pf0.333333_pb0.5,3,1.4213484350850323
+nicopp_autumn_rock,rsc,Original slot order,pf0.5_pb0.02,3,1.4708954706741817
+nicopp_autumn_rock,rsc,Original slot order,pf0.5_pb0.05,3,1.4733781517084996
+nicopp_autumn_rock,rsc,Original slot order,pf0.5_pb0.1,3,1.474785837429726
+nicopp_autumn_rock,rsc,Original slot order,pf0.5_pb0.333333,3,1.4609447767491401
+nicopp_autumn_rock,rsc,Original slot order,pf0.5_pb0.5,3,1.4122498956308263
+nicopp_autumn_rock,rsc,Original slot order,pf0.75_pb0.02,3,1.4701913444668513
+nicopp_autumn_rock,rsc,Original slot order,pf0.75_pb0.05,3,1.4701475233090804
+nicopp_autumn_rock,rsc,Original slot order,pf0.75_pb0.1,3,1.4726067448606284
+nicopp_autumn_rock,rsc,Original slot order,pf0.75_pb0.333333,3,1.47282162834382
+nicopp_autumn_rock,rsc,Original slot order,pf0.75_pb0.5,3,1.4633483917884098
+nicopp_autumn_rock,rsc,Original slot order,pf0.9_pb0.02,3,1.4690378797821018
+nicopp_autumn_rock,rsc,Original slot order,pf0.9_pb0.05,3,1.4695729941938218
+nicopp_autumn_rock,rsc,Original slot order,pf0.9_pb0.1,3,1.4690564983266305
+nicopp_autumn_rock,rsc,Original slot order,pf0.9_pb0.333333,3,1.4685661272321813
+nicopp_autumn_rock,rsc,Original slot order,pf0.9_pb0.5,3,1.4565184702179519
+nicopp_dim_grass,rsc,Original slot order,pf0.05_pb0.02,3,1.4337875394487039
+nicopp_dim_grass,rsc,Original slot order,pf0.05_pb0.05,3,1.4327310973744212
+nicopp_dim_grass,rsc,Original slot order,pf0.05_pb0.1,3,1.4344573354453478
+nicopp_dim_grass,rsc,Original slot order,pf0.05_pb0.333333,3,1.4343699620946964
+nicopp_dim_grass,rsc,Original slot order,pf0.05_pb0.5,3,1.4313090311418426
+nicopp_dim_grass,rsc,Original slot order,pf0.1_pb0.02,3,1.4343765104590915
+nicopp_dim_grass,rsc,Original slot order,pf0.1_pb0.05,3,1.436299515459724
+nicopp_dim_grass,rsc,Original slot order,pf0.1_pb0.1,3,1.4341780653657088
+nicopp_dim_grass,rsc,Original slot order,pf0.1_pb0.333333,3,1.4286787997745536
+nicopp_dim_grass,rsc,Original slot order,pf0.1_pb0.5,3,1.4208477239629438
+nicopp_dim_grass,rsc,Original slot order,pf0.333333_pb0.02,3,1.4384368100011773
+nicopp_dim_grass,rsc,Original slot order,pf0.333333_pb0.05,3,1.4387244017895078
+nicopp_dim_grass,rsc,Original slot order,pf0.333333_pb0.1,3,1.4331748685969614
+nicopp_dim_grass,rsc,Original slot order,pf0.333333_pb0.333333,3,1.4047904406011034
+nicopp_dim_grass,rsc,Original slot order,pf0.333333_pb0.5,3,1.3867313698296957
+nicopp_dim_grass,rsc,Original slot order,pf0.5_pb0.02,3,1.4359936211453046
+nicopp_dim_grass,rsc,Original slot order,pf0.5_pb0.05,3,1.4402334661574725
+nicopp_dim_grass,rsc,Original slot order,pf0.5_pb0.1,3,1.4416999461382816
+nicopp_dim_grass,rsc,Original slot order,pf0.5_pb0.333333,3,1.428278143714804
+nicopp_dim_grass,rsc,Original slot order,pf0.5_pb0.5,3,1.377593922953455
+nicopp_dim_grass,rsc,Original slot order,pf0.75_pb0.02,3,1.4344251701424326
+nicopp_dim_grass,rsc,Original slot order,pf0.75_pb0.05,3,1.4356028423731229
+nicopp_dim_grass,rsc,Original slot order,pf0.75_pb0.1,3,1.437649262564098
+nicopp_dim_grass,rsc,Original slot order,pf0.75_pb0.333333,3,1.4386622453627476
+nicopp_dim_grass,rsc,Original slot order,pf0.75_pb0.5,3,1.4300325252106638
+nicopp_dim_grass,rsc,Original slot order,pf0.9_pb0.02,3,1.433552840818738
+nicopp_dim_grass,rsc,Original slot order,pf0.9_pb0.05,3,1.4349006992981883
+nicopp_dim_grass,rsc,Original slot order,pf0.9_pb0.1,3,1.435441162774561
+nicopp_dim_grass,rsc,Original slot order,pf0.9_pb0.333333,3,1.436424117128907
+nicopp_dim_grass,rsc,Original slot order,pf0.9_pb0.5,3,1.4284259413795184
+nicopp_outdoor_water,rsc,Original slot order,pf0.05_pb0.02,3,1.4863751046430804
+nicopp_outdoor_water,rsc,Original slot order,pf0.05_pb0.05,3,1.4880222925993418
+nicopp_outdoor_water,rsc,Original slot order,pf0.05_pb0.1,3,1.489197941822656
+nicopp_outdoor_water,rsc,Original slot order,pf0.05_pb0.333333,3,1.4882587353254717
+nicopp_outdoor_water,rsc,Original slot order,pf0.05_pb0.5,3,1.4876752756782698
+nicopp_outdoor_water,rsc,Original slot order,pf0.1_pb0.02,3,1.4870780401166173
+nicopp_outdoor_water,rsc,Original slot order,pf0.1_pb0.05,3,1.4887933704151841
+nicopp_outdoor_water,rsc,Original slot order,pf0.1_pb0.1,3,1.4886392107310833
+nicopp_outdoor_water,rsc,Original slot order,pf0.1_pb0.333333,3,1.486171871466236
+nicopp_outdoor_water,rsc,Original slot order,pf0.1_pb0.5,3,1.4863714910418484
+nicopp_outdoor_water,rsc,Original slot order,pf0.333333_pb0.02,3,1.4913612389345647
+nicopp_outdoor_water,rsc,Original slot order,pf0.333333_pb0.05,3,1.490168459975698
+nicopp_outdoor_water,rsc,Original slot order,pf0.333333_pb0.1,3,1.4916848947886188
+nicopp_outdoor_water,rsc,Original slot order,pf0.333333_pb0.333333,3,1.471428894262661
+nicopp_outdoor_water,rsc,Original slot order,pf0.333333_pb0.5,3,1.4518687009229536
+nicopp_outdoor_water,rsc,Original slot order,pf0.5_pb0.02,3,1.4895649035906915
+nicopp_outdoor_water,rsc,Original slot order,pf0.5_pb0.05,3,1.493747896076967
+nicopp_outdoor_water,rsc,Original slot order,pf0.5_pb0.1,3,1.4969970222693305
+nicopp_outdoor_water,rsc,Original slot order,pf0.5_pb0.333333,3,1.4857701947661945
+nicopp_outdoor_water,rsc,Original slot order,pf0.5_pb0.5,3,1.447647808585204
+nicopp_outdoor_water,rsc,Original slot order,pf0.75_pb0.02,3,1.4892903525693963
+nicopp_outdoor_water,rsc,Original slot order,pf0.75_pb0.05,3,1.4923251058771552
+nicopp_outdoor_water,rsc,Original slot order,pf0.75_pb0.1,3,1.49380144616327
+nicopp_outdoor_water,rsc,Original slot order,pf0.75_pb0.333333,3,1.4965436146968345
+nicopp_outdoor_water,rsc,Original slot order,pf0.75_pb0.5,3,1.4906521254905938
+nicopp_outdoor_water,rsc,Original slot order,pf0.9_pb0.02,3,1.4886778814825348
+nicopp_outdoor_water,rsc,Original slot order,pf0.9_pb0.05,3,1.4899379386568594
+nicopp_outdoor_water,rsc,Original slot order,pf0.9_pb0.1,3,1.4892627172290733
+nicopp_outdoor_water,rsc,Original slot order,pf0.9_pb0.333333,3,1.488007432631455
+nicopp_outdoor_water,rsc,Original slot order,pf0.9_pb0.5,3,1.4761766612163827
+waterbirds,rsc,Slot ranking,pf0.05_pb0.02,3,1.4117543606686827
+waterbirds,rsc,Slot ranking,pf0.05_pb0.05,3,1.4106992271739012
+waterbirds,rsc,Slot ranking,pf0.05_pb0.1,3,1.4113633979731472
+waterbirds,rsc,Slot ranking,pf0.05_pb0.333333,3,1.4259062382221959
+waterbirds,rsc,Slot ranking,pf0.05_pb0.5,3,1.4102768026358152
+waterbirds,rsc,Slot ranking,pf0.1_pb0.02,3,1.4203231165542662
+waterbirds,rsc,Slot ranking,pf0.1_pb0.05,3,1.4160654615920842
+waterbirds,rsc,Slot ranking,pf0.1_pb0.1,3,1.4264926671976639
+waterbirds,rsc,Slot ranking,pf0.1_pb0.333333,3,1.4172866567956657
+waterbirds,rsc,Slot ranking,pf0.1_pb0.5,3,1.4201530343029158
+waterbirds,rsc,Slot ranking,pf0.333333_pb0.02,3,1.4253675415742233
+waterbirds,rsc,Slot ranking,pf0.333333_pb0.05,3,1.42294011629523
+waterbirds,rsc,Slot ranking,pf0.333333_pb0.1,3,1.4147621898935594
+waterbirds,rsc,Slot ranking,pf0.333333_pb0.333333,3,1.4085542802136137
+waterbirds,rsc,Slot ranking,pf0.333333_pb0.5,3,1.419418760808482
+waterbirds,rsc,Slot ranking,pf0.5_pb0.02,3,1.4109095332289983
+waterbirds,rsc,Slot ranking,pf0.5_pb0.05,3,1.4251763029838111
+waterbirds,rsc,Slot ranking,pf0.5_pb0.1,3,1.4102017947211622
+waterbirds,rsc,Slot ranking,pf0.5_pb0.333333,3,1.4040276031984404
+waterbirds,rsc,Slot ranking,pf0.5_pb0.5,3,1.4005565703595655
+waterbirds,rsc,Slot ranking,pf0.75_pb0.02,3,1.417390839998913
+waterbirds,rsc,Slot ranking,pf0.75_pb0.05,3,1.42101898872664
+waterbirds,rsc,Slot ranking,pf0.75_pb0.1,3,1.4173991230247622
+waterbirds,rsc,Slot ranking,pf0.75_pb0.333333,3,1.419937422352507
+waterbirds,rsc,Slot ranking,pf0.75_pb0.5,3,1.4269104803312684
+waterbirds,rsc,Slot ranking,pf0.9_pb0.02,3,1.411586341778975
+waterbirds,rsc,Slot ranking,pf0.9_pb0.05,3,1.4187454298460054
+waterbirds,rsc,Slot ranking,pf0.9_pb0.1,3,1.417710200033831
+waterbirds,rsc,Slot ranking,pf0.9_pb0.333333,3,1.4137168273825598
+waterbirds,rsc,Slot ranking,pf0.9_pb0.5,3,1.416704864300831
+celeba,rsc,Slot ranking,pf0.05_pb0.02,3,1.7845274414254864
+celeba,rsc,Slot ranking,pf0.05_pb0.05,3,1.7853097259248054
+celeba,rsc,Slot ranking,pf0.05_pb0.1,3,1.7871066608597765
+celeba,rsc,Slot ranking,pf0.05_pb0.333333,3,1.7849227806365997
+celeba,rsc,Slot ranking,pf0.05_pb0.5,3,1.787024301902185
+celeba,rsc,Slot ranking,pf0.1_pb0.02,3,1.7857428929152597
+celeba,rsc,Slot ranking,pf0.1_pb0.05,3,1.7852282282348957
+celeba,rsc,Slot ranking,pf0.1_pb0.1,3,1.787635021385154
+celeba,rsc,Slot ranking,pf0.1_pb0.333333,3,1.7858082382847593
+celeba,rsc,Slot ranking,pf0.1_pb0.5,3,1.7841455559146926
+celeba,rsc,Slot ranking,pf0.333333_pb0.02,3,1.7891286630838872
+celeba,rsc,Slot ranking,pf0.333333_pb0.05,3,1.7880342155723639
+celeba,rsc,Slot ranking,pf0.333333_pb0.1,3,1.7892463040229378
+celeba,rsc,Slot ranking,pf0.333333_pb0.333333,3,1.7873169230283246
+celeba,rsc,Slot ranking,pf0.333333_pb0.5,3,1.7877796548537301
+celeba,rsc,Slot ranking,pf0.5_pb0.02,3,1.7880596002152729
+celeba,rsc,Slot ranking,pf0.5_pb0.05,3,1.7901192493789724
+celeba,rsc,Slot ranking,pf0.5_pb0.1,3,1.791130010970998
+celeba,rsc,Slot ranking,pf0.5_pb0.333333,3,1.7891813079076844
+celeba,rsc,Slot ranking,pf0.5_pb0.5,3,1.7849383436109505
+celeba,rsc,Slot ranking,pf0.75_pb0.02,3,1.7890992975303386
+celeba,rsc,Slot ranking,pf0.75_pb0.05,3,1.7899909592934922
+celeba,rsc,Slot ranking,pf0.75_pb0.1,3,1.7903711490152556
+celeba,rsc,Slot ranking,pf0.75_pb0.333333,3,1.78951239685832
+celeba,rsc,Slot ranking,pf0.75_pb0.5,3,1.7891015449636771
+celeba,rsc,Slot ranking,pf0.9_pb0.02,3,1.7882759779365054
+celeba,rsc,Slot ranking,pf0.9_pb0.05,3,1.7904755664390783
+celeba,rsc,Slot ranking,pf0.9_pb0.1,3,1.790081632203483
+celeba,rsc,Slot ranking,pf0.9_pb0.333333,3,1.7897688482839096
+celeba,rsc,Slot ranking,pf0.9_pb0.5,3,1.7904903918720028
+metashift,rsc,Slot ranking,pf0.05_pb0.02,3,1.8960768283785863
+metashift,rsc,Slot ranking,pf0.05_pb0.05,3,1.8980371631848225
+metashift,rsc,Slot ranking,pf0.05_pb0.1,3,1.8941167310977436
+metashift,rsc,Slot ranking,pf0.05_pb0.333333,3,1.8999998558234357
+metashift,rsc,Slot ranking,pf0.05_pb0.5,3,1.9039199995573857
+metashift,rsc,Slot ranking,pf0.1_pb0.02,3,1.8980371631848225
+metashift,rsc,Slot ranking,pf0.1_pb0.05,3,1.8960771167915869
+metashift,rsc,Slot ranking,pf0.1_pb0.1,3,1.8960771167915869
+metashift,rsc,Slot ranking,pf0.1_pb0.333333,3,1.9019593594202249
+metashift,rsc,Slot ranking,pf0.1_pb0.5,3,1.9019587487742224
+metashift,rsc,Slot ranking,pf0.333333_pb0.02,3,1.8960777274375893
+metashift,rsc,Slot ranking,pf0.333333_pb0.05,3,1.8999981595246684
+metashift,rsc,Slot ranking,pf0.333333_pb0.1,3,1.9019587996618295
+metashift,rsc,Slot ranking,pf0.333333_pb0.333333,3,1.9058803852512292
+metashift,rsc,Slot ranking,pf0.333333_pb0.5,3,1.9058787566364757
+metashift,rsc,Slot ranking,pf0.5_pb0.02,3,1.8960771167915869
+metashift,rsc,Slot ranking,pf0.5_pb0.05,3,1.8980389273331457
+metashift,rsc,Slot ranking,pf0.5_pb0.1,3,1.898038316687143
+metashift,rsc,Slot ranking,pf0.5_pb0.333333,3,1.8999995674703067
+metashift,rsc,Slot ranking,pf0.5_pb0.5,3,1.901959342458276
+metashift,rsc,Slot ranking,pf0.75_pb0.02,3,1.8980379943942696
+metashift,rsc,Slot ranking,pf0.75_pb0.05,3,1.8980379943942696
+metashift,rsc,Slot ranking,pf0.75_pb0.1,3,1.8980386050402718
+metashift,rsc,Slot ranking,pf0.75_pb0.333333,3,1.8941173417437458
+metashift,rsc,Slot ranking,pf0.75_pb0.5,3,1.892156701606585
+metashift,rsc,Slot ranking,pf0.9_pb0.02,3,1.8980371631848225
+metashift,rsc,Slot ranking,pf0.9_pb0.05,3,1.899997548878666
+metashift,rsc,Slot ranking,pf0.9_pb0.1,3,1.899997548878666
+metashift,rsc,Slot ranking,pf0.9_pb0.333333,3,1.896077981880907
+metashift,rsc,Slot ranking,pf0.9_pb0.5,3,1.8941167310977436
+nicopp_autumn_rock,rsc,Slot ranking,pf0.05_pb0.02,3,1.50232354865546
+nicopp_autumn_rock,rsc,Slot ranking,pf0.05_pb0.05,3,1.5037014467195735
+nicopp_autumn_rock,rsc,Slot ranking,pf0.05_pb0.1,3,1.5049899148843544
+nicopp_autumn_rock,rsc,Slot ranking,pf0.05_pb0.333333,3,1.5025961122143705
+nicopp_autumn_rock,rsc,Slot ranking,pf0.05_pb0.5,3,1.498466204322762
+nicopp_autumn_rock,rsc,Slot ranking,pf0.1_pb0.02,3,1.5027245054595468
+nicopp_autumn_rock,rsc,Slot ranking,pf0.1_pb0.05,3,1.5020884310820002
+nicopp_autumn_rock,rsc,Slot ranking,pf0.1_pb0.1,3,1.5023311000037582
+nicopp_autumn_rock,rsc,Slot ranking,pf0.1_pb0.333333,3,1.4972990047781078
+nicopp_autumn_rock,rsc,Slot ranking,pf0.1_pb0.5,3,1.4959572145566247
+nicopp_autumn_rock,rsc,Slot ranking,pf0.333333_pb0.02,3,1.504752334906711
+nicopp_autumn_rock,rsc,Slot ranking,pf0.333333_pb0.05,3,1.5058092884861798
+nicopp_autumn_rock,rsc,Slot ranking,pf0.333333_pb0.1,3,1.5067645804929677
+nicopp_autumn_rock,rsc,Slot ranking,pf0.333333_pb0.333333,3,1.4820147401742494
+nicopp_autumn_rock,rsc,Slot ranking,pf0.333333_pb0.5,3,1.4648417012247752
+nicopp_autumn_rock,rsc,Slot ranking,pf0.5_pb0.02,3,1.50354531738804
+nicopp_autumn_rock,rsc,Slot ranking,pf0.5_pb0.05,3,1.5062293491862577
+nicopp_autumn_rock,rsc,Slot ranking,pf0.5_pb0.1,3,1.5070903836711806
+nicopp_autumn_rock,rsc,Slot ranking,pf0.5_pb0.333333,3,1.5077885473027879
+nicopp_autumn_rock,rsc,Slot ranking,pf0.5_pb0.5,3,1.4743493225949909
+nicopp_autumn_rock,rsc,Slot ranking,pf0.75_pb0.02,3,1.502473612481644
+nicopp_autumn_rock,rsc,Slot ranking,pf0.75_pb0.05,3,1.5057803106700103
+nicopp_autumn_rock,rsc,Slot ranking,pf0.75_pb0.1,3,1.5055909473541957
+nicopp_autumn_rock,rsc,Slot ranking,pf0.75_pb0.333333,3,1.5104339078250737
+nicopp_autumn_rock,rsc,Slot ranking,pf0.75_pb0.5,3,1.5028273878499998
+nicopp_autumn_rock,rsc,Slot ranking,pf0.9_pb0.02,3,1.5022925058117185
+nicopp_autumn_rock,rsc,Slot ranking,pf0.9_pb0.05,3,1.5029201597225157
+nicopp_autumn_rock,rsc,Slot ranking,pf0.9_pb0.1,3,1.5039122892844097
+nicopp_autumn_rock,rsc,Slot ranking,pf0.9_pb0.333333,3,1.50489969571402
+nicopp_autumn_rock,rsc,Slot ranking,pf0.9_pb0.5,3,1.4974242527916581
+nicopp_dim_grass,rsc,Slot ranking,pf0.05_pb0.02,3,1.4862770066816495
+nicopp_dim_grass,rsc,Slot ranking,pf0.05_pb0.05,3,1.4859698916934743
+nicopp_dim_grass,rsc,Slot ranking,pf0.05_pb0.1,3,1.4880356603142344
+nicopp_dim_grass,rsc,Slot ranking,pf0.05_pb0.333333,3,1.486845004308378
+nicopp_dim_grass,rsc,Slot ranking,pf0.05_pb0.5,3,1.4852767696195768
+nicopp_dim_grass,rsc,Slot ranking,pf0.1_pb0.02,3,1.4885581392507332
+nicopp_dim_grass,rsc,Slot ranking,pf0.1_pb0.05,3,1.485455468679513
+nicopp_dim_grass,rsc,Slot ranking,pf0.1_pb0.1,3,1.4852208805665317
+nicopp_dim_grass,rsc,Slot ranking,pf0.1_pb0.333333,3,1.4810983332106773
+nicopp_dim_grass,rsc,Slot ranking,pf0.1_pb0.5,3,1.4772530850218741
+nicopp_dim_grass,rsc,Slot ranking,pf0.333333_pb0.02,3,1.4888483525150142
+nicopp_dim_grass,rsc,Slot ranking,pf0.333333_pb0.05,3,1.4907465388178978
+nicopp_dim_grass,rsc,Slot ranking,pf0.333333_pb0.1,3,1.4888453158963273
+nicopp_dim_grass,rsc,Slot ranking,pf0.333333_pb0.333333,3,1.4585830967246112
+nicopp_dim_grass,rsc,Slot ranking,pf0.333333_pb0.5,3,1.443853947791503
+nicopp_dim_grass,rsc,Slot ranking,pf0.5_pb0.02,3,1.4891429044167854
+nicopp_dim_grass,rsc,Slot ranking,pf0.5_pb0.05,3,1.4908439546523324
+nicopp_dim_grass,rsc,Slot ranking,pf0.5_pb0.1,3,1.4922047562325014
+nicopp_dim_grass,rsc,Slot ranking,pf0.5_pb0.333333,3,1.4849607538050293
+nicopp_dim_grass,rsc,Slot ranking,pf0.5_pb0.5,3,1.4535727530512759
+nicopp_dim_grass,rsc,Slot ranking,pf0.75_pb0.02,3,1.4883921640890432
+nicopp_dim_grass,rsc,Slot ranking,pf0.75_pb0.05,3,1.490798396926624
+nicopp_dim_grass,rsc,Slot ranking,pf0.75_pb0.1,3,1.4881673114340206
+nicopp_dim_grass,rsc,Slot ranking,pf0.75_pb0.333333,3,1.4914977969546939
+nicopp_dim_grass,rsc,Slot ranking,pf0.75_pb0.5,3,1.479693359236494
+nicopp_dim_grass,rsc,Slot ranking,pf0.9_pb0.02,3,1.4885258756814534
+nicopp_dim_grass,rsc,Slot ranking,pf0.9_pb0.05,3,1.4899954994528652
+nicopp_dim_grass,rsc,Slot ranking,pf0.9_pb0.1,3,1.4890082245701681
+nicopp_dim_grass,rsc,Slot ranking,pf0.9_pb0.333333,3,1.487802233225526
+nicopp_dim_grass,rsc,Slot ranking,pf0.9_pb0.5,3,1.4770299667036018
+nicopp_outdoor_water,rsc,Slot ranking,pf0.05_pb0.02,3,1.523781420152483
+nicopp_outdoor_water,rsc,Slot ranking,pf0.05_pb0.05,3,1.5239538426768504
+nicopp_outdoor_water,rsc,Slot ranking,pf0.05_pb0.1,3,1.52380010705164
+nicopp_outdoor_water,rsc,Slot ranking,pf0.05_pb0.333333,3,1.5228851408229882
+nicopp_outdoor_water,rsc,Slot ranking,pf0.05_pb0.5,3,1.520524262346315
+nicopp_outdoor_water,rsc,Slot ranking,pf0.1_pb0.02,3,1.5230215244276424
+nicopp_outdoor_water,rsc,Slot ranking,pf0.1_pb0.05,3,1.5260121725242837
+nicopp_outdoor_water,rsc,Slot ranking,pf0.1_pb0.1,3,1.5229037439366753
+nicopp_outdoor_water,rsc,Slot ranking,pf0.1_pb0.333333,3,1.5197826214874024
+nicopp_outdoor_water,rsc,Slot ranking,pf0.1_pb0.5,3,1.517333055301443
+nicopp_outdoor_water,rsc,Slot ranking,pf0.333333_pb0.02,3,1.527641694487869
+nicopp_outdoor_water,rsc,Slot ranking,pf0.333333_pb0.05,3,1.527482531879467
+nicopp_outdoor_water,rsc,Slot ranking,pf0.333333_pb0.1,3,1.5271116152139206
+nicopp_outdoor_water,rsc,Slot ranking,pf0.333333_pb0.333333,3,1.5081339482342713
+nicopp_outdoor_water,rsc,Slot ranking,pf0.333333_pb0.5,3,1.4915560043018286
+nicopp_outdoor_water,rsc,Slot ranking,pf0.5_pb0.02,3,1.5277950964104818
+nicopp_outdoor_water,rsc,Slot ranking,pf0.5_pb0.05,3,1.5279726227218084
+nicopp_outdoor_water,rsc,Slot ranking,pf0.5_pb0.1,3,1.5304132775493358
+nicopp_outdoor_water,rsc,Slot ranking,pf0.5_pb0.333333,3,1.528068520742586
+nicopp_outdoor_water,rsc,Slot ranking,pf0.5_pb0.5,3,1.498936028211972
+nicopp_outdoor_water,rsc,Slot ranking,pf0.75_pb0.02,3,1.5262002576239377
+nicopp_outdoor_water,rsc,Slot ranking,pf0.75_pb0.05,3,1.5268758569061365
+nicopp_outdoor_water,rsc,Slot ranking,pf0.75_pb0.1,3,1.5272530510431148
+nicopp_outdoor_water,rsc,Slot ranking,pf0.75_pb0.333333,3,1.531167311984377
+nicopp_outdoor_water,rsc,Slot ranking,pf0.75_pb0.5,3,1.5244447644693944
+nicopp_outdoor_water,rsc,Slot ranking,pf0.9_pb0.02,3,1.524778801594396
+nicopp_outdoor_water,rsc,Slot ranking,pf0.9_pb0.05,3,1.525423581067159
+nicopp_outdoor_water,rsc,Slot ranking,pf0.9_pb0.1,3,1.5251738304865263
+nicopp_outdoor_water,rsc,Slot ranking,pf0.9_pb0.333333,3,1.5280170070410295
+nicopp_outdoor_water,rsc,Slot ranking,pf0.9_pb0.5,3,1.5190924866796325
+waterbirds,rsc,Slot ranking + slot corruption,pf0.05_pb0.02,3,1.6168126069782052
+waterbirds,rsc,Slot ranking + slot corruption,pf0.05_pb0.05,3,1.6223873944608813
+waterbirds,rsc,Slot ranking + slot corruption,pf0.05_pb0.1,3,1.6118901580704312
+waterbirds,rsc,Slot ranking + slot corruption,pf0.05_pb0.333333,3,1.6117305319284145
+waterbirds,rsc,Slot ranking + slot corruption,pf0.05_pb0.5,3,1.6141967731739284
+waterbirds,rsc,Slot ranking + slot corruption,pf0.1_pb0.02,3,1.6141077860478843
+waterbirds,rsc,Slot ranking + slot corruption,pf0.1_pb0.05,3,1.6074627787911886
+waterbirds,rsc,Slot ranking + slot corruption,pf0.1_pb0.1,3,1.6101919507591609
+waterbirds,rsc,Slot ranking + slot corruption,pf0.1_pb0.333333,3,1.61218207302886
+waterbirds,rsc,Slot ranking + slot corruption,pf0.1_pb0.5,3,1.6111475604491972
+waterbirds,rsc,Slot ranking + slot corruption,pf0.333333_pb0.02,3,1.5852335503401631
+waterbirds,rsc,Slot ranking + slot corruption,pf0.333333_pb0.05,3,1.5710773651688097
+waterbirds,rsc,Slot ranking + slot corruption,pf0.333333_pb0.1,3,1.5636192509252425
+waterbirds,rsc,Slot ranking + slot corruption,pf0.333333_pb0.333333,3,1.5589038071001144
+waterbirds,rsc,Slot ranking + slot corruption,pf0.333333_pb0.5,3,1.576464197688314
+waterbirds,rsc,Slot ranking + slot corruption,pf0.5_pb0.02,3,1.5811121397906873
+waterbirds,rsc,Slot ranking + slot corruption,pf0.5_pb0.05,3,1.584375621704675
+waterbirds,rsc,Slot ranking + slot corruption,pf0.5_pb0.1,3,1.5715414816802245
+waterbirds,rsc,Slot ranking + slot corruption,pf0.5_pb0.333333,3,1.5339930917897224
+waterbirds,rsc,Slot ranking + slot corruption,pf0.5_pb0.5,3,1.5470797287117612
+waterbirds,rsc,Slot ranking + slot corruption,pf0.75_pb0.02,3,1.5913599350233387
+waterbirds,rsc,Slot ranking + slot corruption,pf0.75_pb0.05,3,1.5746576380134494
+waterbirds,rsc,Slot ranking + slot corruption,pf0.75_pb0.1,3,1.5617869297720686
+waterbirds,rsc,Slot ranking + slot corruption,pf0.75_pb0.333333,3,1.5546201696895816
+waterbirds,rsc,Slot ranking + slot corruption,pf0.75_pb0.5,3,1.5504307810189577
+waterbirds,rsc,Slot ranking + slot corruption,pf0.9_pb0.02,3,1.6004736939962283
+waterbirds,rsc,Slot ranking + slot corruption,pf0.9_pb0.05,3,1.5972396411530678
+waterbirds,rsc,Slot ranking + slot corruption,pf0.9_pb0.1,3,1.5911189759373643
+waterbirds,rsc,Slot ranking + slot corruption,pf0.9_pb0.333333,3,1.5746101189421218
+waterbirds,rsc,Slot ranking + slot corruption,pf0.9_pb0.5,3,1.5675793161906189
+celeba,rsc,Slot ranking + slot corruption,pf0.05_pb0.02,3,1.7958298633645091
+celeba,rsc,Slot ranking + slot corruption,pf0.05_pb0.05,3,1.7941217344652476
+celeba,rsc,Slot ranking + slot corruption,pf0.05_pb0.1,3,1.794083074861507
+celeba,rsc,Slot ranking + slot corruption,pf0.05_pb0.333333,3,1.7939895036495848
+celeba,rsc,Slot ranking + slot corruption,pf0.05_pb0.5,3,1.7933791054986916
+celeba,rsc,Slot ranking + slot corruption,pf0.1_pb0.02,3,1.7952649657448434
+celeba,rsc,Slot ranking + slot corruption,pf0.1_pb0.05,3,1.7953607564493088
+celeba,rsc,Slot ranking + slot corruption,pf0.1_pb0.1,3,1.7917497329678056
+celeba,rsc,Slot ranking + slot corruption,pf0.1_pb0.333333,3,1.7923805555698484
+celeba,rsc,Slot ranking + slot corruption,pf0.1_pb0.5,3,1.7911750669685003
+celeba,rsc,Slot ranking + slot corruption,pf0.333333_pb0.02,3,1.7934012058587967
+celeba,rsc,Slot ranking + slot corruption,pf0.333333_pb0.05,3,1.7925405319552563
+celeba,rsc,Slot ranking + slot corruption,pf0.333333_pb0.1,3,1.7913327602562024
+celeba,rsc,Slot ranking + slot corruption,pf0.333333_pb0.333333,3,1.789842531539123
+celeba,rsc,Slot ranking + slot corruption,pf0.333333_pb0.5,3,1.78689842309971
+celeba,rsc,Slot ranking + slot corruption,pf0.5_pb0.02,3,1.7970276843379331
+celeba,rsc,Slot ranking + slot corruption,pf0.5_pb0.05,3,1.7962023768335957
+celeba,rsc,Slot ranking + slot corruption,pf0.5_pb0.1,3,1.7960962905437023
+celeba,rsc,Slot ranking + slot corruption,pf0.5_pb0.333333,3,1.788330622076584
+celeba,rsc,Slot ranking + slot corruption,pf0.5_pb0.5,3,1.7856814321096506
+celeba,rsc,Slot ranking + slot corruption,pf0.75_pb0.02,3,1.7952674714067622
+celeba,rsc,Slot ranking + slot corruption,pf0.75_pb0.05,3,1.7945550349898554
+celeba,rsc,Slot ranking + slot corruption,pf0.75_pb0.1,3,1.794546377589804
+celeba,rsc,Slot ranking + slot corruption,pf0.75_pb0.333333,3,1.7959549012837277
+celeba,rsc,Slot ranking + slot corruption,pf0.75_pb0.5,3,1.7942821522891874
+celeba,rsc,Slot ranking + slot corruption,pf0.9_pb0.02,3,1.792975257229459
+celeba,rsc,Slot ranking + slot corruption,pf0.9_pb0.05,3,1.7937118144215916
+celeba,rsc,Slot ranking + slot corruption,pf0.9_pb0.1,3,1.7938070839635332
+celeba,rsc,Slot ranking + slot corruption,pf0.9_pb0.333333,3,1.7938422766256623
+celeba,rsc,Slot ranking + slot corruption,pf0.9_pb0.5,3,1.79344153109986
+metashift,rsc,Slot ranking + slot corruption,pf0.05_pb0.02,3,1.93725288336386
+metashift,rsc,Slot ranking + slot corruption,pf0.05_pb0.05,3,1.9333300254257881
+metashift,rsc,Slot ranking + slot corruption,pf0.05_pb0.1,3,1.9333300254257881
+metashift,rsc,Slot ranking + slot corruption,pf0.05_pb0.333333,3,1.933331246886853
+metashift,rsc,Slot ranking + slot corruption,pf0.05_pb0.5,3,1.9333300254257881
+metashift,rsc,Slot ranking + slot corruption,pf0.1_pb0.02,3,1.935291310166307
+metashift,rsc,Slot ranking + slot corruption,pf0.1_pb0.05,3,1.935291310166307
+metashift,rsc,Slot ranking + slot corruption,pf0.1_pb0.1,3,1.935291310166307
+metashift,rsc,Slot ranking + slot corruption,pf0.1_pb0.333333,3,1.935291310166307
+metashift,rsc,Slot ranking + slot corruption,pf0.1_pb0.5,3,1.9372538163678914
+metashift,rsc,Slot ranking + slot corruption,pf0.333333_pb0.02,3,1.931368452228235
+metashift,rsc,Slot ranking + slot corruption,pf0.333333_pb0.05,3,1.9352930913910498
+metashift,rsc,Slot ranking + slot corruption,pf0.333333_pb0.1,3,1.935291920840486
+metashift,rsc,Slot ranking + slot corruption,pf0.333333_pb0.333333,3,1.9431345659892838
+metashift,rsc,Slot ranking + slot corruption,pf0.333333_pb0.5,3,1.9411743331590483
+metashift,rsc,Slot ranking + slot corruption,pf0.5_pb0.02,3,1.937249540690453
+metashift,rsc,Slot ranking + slot corruption,pf0.5_pb0.05,3,1.935290292282086
+metashift,rsc,Slot ranking + slot corruption,pf0.5_pb0.1,3,1.9333299405455981
+metashift,rsc,Slot ranking + slot corruption,pf0.5_pb0.333333,3,1.935290020665458
+metashift,rsc,Slot ranking + slot corruption,pf0.5_pb0.5,3,1.935290020665458
+metashift,rsc,Slot ranking + slot corruption,pf0.75_pb0.02,3,1.939211453276698
+metashift,rsc,Slot ranking + slot corruption,pf0.75_pb0.05,3,1.935290292282086
+metashift,rsc,Slot ranking + slot corruption,pf0.75_pb0.1,3,1.9352889519147682
+metashift,rsc,Slot ranking + slot corruption,pf0.75_pb0.333333,3,1.9352898170886137
+metashift,rsc,Slot ranking + slot corruption,pf0.75_pb0.5,3,1.9333297369687539
+metashift,rsc,Slot ranking + slot corruption,pf0.9_pb0.02,3,1.9333299405455981
+metashift,rsc,Slot ranking + slot corruption,pf0.9_pb0.05,3,1.9352887992043926
+metashift,rsc,Slot ranking + slot corruption,pf0.9_pb0.1,3,1.935290292282086
+metashift,rsc,Slot ranking + slot corruption,pf0.9_pb0.333333,3,1.935290292282086
+metashift,rsc,Slot ranking + slot corruption,pf0.9_pb0.5,3,1.9372526118634934
+nicopp_autumn_rock,rsc,Slot ranking + slot corruption,pf0.05_pb0.02,3,1.5459566803456533
+nicopp_autumn_rock,rsc,Slot ranking + slot corruption,pf0.05_pb0.05,3,1.5457052913510194
+nicopp_autumn_rock,rsc,Slot ranking + slot corruption,pf0.05_pb0.1,3,1.5442845243415964
+nicopp_autumn_rock,rsc,Slot ranking + slot corruption,pf0.05_pb0.333333,3,1.536081041670031
+nicopp_autumn_rock,rsc,Slot ranking + slot corruption,pf0.05_pb0.5,3,1.5308995594528454
+nicopp_autumn_rock,rsc,Slot ranking + slot corruption,pf0.1_pb0.02,3,1.5463833802344167
+nicopp_autumn_rock,rsc,Slot ranking + slot corruption,pf0.1_pb0.05,3,1.544044355626162
+nicopp_autumn_rock,rsc,Slot ranking + slot corruption,pf0.1_pb0.1,3,1.5392575085421758
+nicopp_autumn_rock,rsc,Slot ranking + slot corruption,pf0.1_pb0.333333,3,1.527902873371356
+nicopp_autumn_rock,rsc,Slot ranking + slot corruption,pf0.1_pb0.5,3,1.5201222492699706
+nicopp_autumn_rock,rsc,Slot ranking + slot corruption,pf0.333333_pb0.02,3,1.548174858082324
+nicopp_autumn_rock,rsc,Slot ranking + slot corruption,pf0.333333_pb0.05,3,1.5447547218514595
+nicopp_autumn_rock,rsc,Slot ranking + slot corruption,pf0.333333_pb0.1,3,1.5336105139630396
+nicopp_autumn_rock,rsc,Slot ranking + slot corruption,pf0.333333_pb0.333333,3,1.4967636712027386
+nicopp_autumn_rock,rsc,Slot ranking + slot corruption,pf0.333333_pb0.5,3,1.4739860717392037
+nicopp_autumn_rock,rsc,Slot ranking + slot corruption,pf0.5_pb0.02,3,1.549026416950155
+nicopp_autumn_rock,rsc,Slot ranking + slot corruption,pf0.5_pb0.05,3,1.5482659330140895
+nicopp_autumn_rock,rsc,Slot ranking + slot corruption,pf0.5_pb0.1,3,1.5455051324577653
+nicopp_autumn_rock,rsc,Slot ranking + slot corruption,pf0.5_pb0.333333,3,1.5174610853173345
+nicopp_autumn_rock,rsc,Slot ranking + slot corruption,pf0.5_pb0.5,3,1.477078291404597
+nicopp_autumn_rock,rsc,Slot ranking + slot corruption,pf0.75_pb0.02,3,1.5501244231884865
+nicopp_autumn_rock,rsc,Slot ranking + slot corruption,pf0.75_pb0.05,3,1.5493639664433154
+nicopp_autumn_rock,rsc,Slot ranking + slot corruption,pf0.75_pb0.1,3,1.547634167890737
+nicopp_autumn_rock,rsc,Slot ranking + slot corruption,pf0.75_pb0.333333,3,1.544714563501831
+nicopp_autumn_rock,rsc,Slot ranking + slot corruption,pf0.75_pb0.5,3,1.542177856213396
+nicopp_autumn_rock,rsc,Slot ranking + slot corruption,pf0.9_pb0.02,3,1.5503244097601285
+nicopp_autumn_rock,rsc,Slot ranking + slot corruption,pf0.9_pb0.05,3,1.5488609563696383
+nicopp_autumn_rock,rsc,Slot ranking + slot corruption,pf0.9_pb0.1,3,1.5483307115955254
+nicopp_autumn_rock,rsc,Slot ranking + slot corruption,pf0.9_pb0.333333,3,1.5473819262223227
+nicopp_autumn_rock,rsc,Slot ranking + slot corruption,pf0.9_pb0.5,3,1.5452187158358932
+nicopp_dim_grass,rsc,Slot ranking + slot corruption,pf0.05_pb0.02,3,1.5347306974943418
+nicopp_dim_grass,rsc,Slot ranking + slot corruption,pf0.05_pb0.05,3,1.5327429175861387
+nicopp_dim_grass,rsc,Slot ranking + slot corruption,pf0.05_pb0.1,3,1.5301588088591769
+nicopp_dim_grass,rsc,Slot ranking + slot corruption,pf0.05_pb0.333333,3,1.5241254766541925
+nicopp_dim_grass,rsc,Slot ranking + slot corruption,pf0.05_pb0.5,3,1.5192979148186028
+nicopp_dim_grass,rsc,Slot ranking + slot corruption,pf0.1_pb0.02,3,1.5320216074349151
+nicopp_dim_grass,rsc,Slot ranking + slot corruption,pf0.1_pb0.05,3,1.5297316790254267
+nicopp_dim_grass,rsc,Slot ranking + slot corruption,pf0.1_pb0.1,3,1.5288990602772046
+nicopp_dim_grass,rsc,Slot ranking + slot corruption,pf0.1_pb0.333333,3,1.5159969343286466
+nicopp_dim_grass,rsc,Slot ranking + slot corruption,pf0.1_pb0.5,3,1.512227470519364
+nicopp_dim_grass,rsc,Slot ranking + slot corruption,pf0.333333_pb0.02,3,1.5329277220884754
+nicopp_dim_grass,rsc,Slot ranking + slot corruption,pf0.333333_pb0.05,3,1.5322143723514738
+nicopp_dim_grass,rsc,Slot ranking + slot corruption,pf0.333333_pb0.1,3,1.5182494812667173
+nicopp_dim_grass,rsc,Slot ranking + slot corruption,pf0.333333_pb0.333333,3,1.485212459492505
+nicopp_dim_grass,rsc,Slot ranking + slot corruption,pf0.333333_pb0.5,3,1.4693643659319298
+nicopp_dim_grass,rsc,Slot ranking + slot corruption,pf0.5_pb0.02,3,1.5361125010563692
+nicopp_dim_grass,rsc,Slot ranking + slot corruption,pf0.5_pb0.05,3,1.5352248410667475
+nicopp_dim_grass,rsc,Slot ranking + slot corruption,pf0.5_pb0.1,3,1.5318986402831396
+nicopp_dim_grass,rsc,Slot ranking + slot corruption,pf0.5_pb0.333333,3,1.5043479978239471
+nicopp_dim_grass,rsc,Slot ranking + slot corruption,pf0.5_pb0.5,3,1.4651796003775475
+nicopp_dim_grass,rsc,Slot ranking + slot corruption,pf0.75_pb0.02,3,1.535958962136214
+nicopp_dim_grass,rsc,Slot ranking + slot corruption,pf0.75_pb0.05,3,1.5357664130217492
+nicopp_dim_grass,rsc,Slot ranking + slot corruption,pf0.75_pb0.1,3,1.5346091845988425
+nicopp_dim_grass,rsc,Slot ranking + slot corruption,pf0.75_pb0.333333,3,1.5339660968261288
+nicopp_dim_grass,rsc,Slot ranking + slot corruption,pf0.75_pb0.5,3,1.5270193750446701
+nicopp_dim_grass,rsc,Slot ranking + slot corruption,pf0.9_pb0.02,3,1.5337917176161262
+nicopp_dim_grass,rsc,Slot ranking + slot corruption,pf0.9_pb0.05,3,1.535547438699383
+nicopp_dim_grass,rsc,Slot ranking + slot corruption,pf0.9_pb0.1,3,1.53237432574415
+nicopp_dim_grass,rsc,Slot ranking + slot corruption,pf0.9_pb0.333333,3,1.5364428836187922
+nicopp_dim_grass,rsc,Slot ranking + slot corruption,pf0.9_pb0.5,3,1.5320033940290603
+nicopp_outdoor_water,rsc,Slot ranking + slot corruption,pf0.05_pb0.02,3,1.5717812842598928
+nicopp_outdoor_water,rsc,Slot ranking + slot corruption,pf0.05_pb0.05,3,1.572489643033007
+nicopp_outdoor_water,rsc,Slot ranking + slot corruption,pf0.05_pb0.1,3,1.5708372991410056
+nicopp_outdoor_water,rsc,Slot ranking + slot corruption,pf0.05_pb0.333333,3,1.5686928590417086
+nicopp_outdoor_water,rsc,Slot ranking + slot corruption,pf0.05_pb0.5,3,1.5630312280510352
+nicopp_outdoor_water,rsc,Slot ranking + slot corruption,pf0.1_pb0.02,3,1.5720980890999254
+nicopp_outdoor_water,rsc,Slot ranking + slot corruption,pf0.1_pb0.05,3,1.5711619594305766
+nicopp_outdoor_water,rsc,Slot ranking + slot corruption,pf0.1_pb0.1,3,1.567403309445017
+nicopp_outdoor_water,rsc,Slot ranking + slot corruption,pf0.1_pb0.333333,3,1.5596726532292748
+nicopp_outdoor_water,rsc,Slot ranking + slot corruption,pf0.1_pb0.5,3,1.5518191597020852
+nicopp_outdoor_water,rsc,Slot ranking + slot corruption,pf0.333333_pb0.02,3,1.574798144466798
+nicopp_outdoor_water,rsc,Slot ranking + slot corruption,pf0.333333_pb0.05,3,1.569961384127826
+nicopp_outdoor_water,rsc,Slot ranking + slot corruption,pf0.333333_pb0.1,3,1.5632211233249353
+nicopp_outdoor_water,rsc,Slot ranking + slot corruption,pf0.333333_pb0.333333,3,1.525758309811738
+nicopp_outdoor_water,rsc,Slot ranking + slot corruption,pf0.333333_pb0.5,3,1.5079257955569416
+nicopp_outdoor_water,rsc,Slot ranking + slot corruption,pf0.5_pb0.02,3,1.5743657212083153
+nicopp_outdoor_water,rsc,Slot ranking + slot corruption,pf0.5_pb0.05,3,1.5742532919995924
+nicopp_outdoor_water,rsc,Slot ranking + slot corruption,pf0.5_pb0.1,3,1.5723874902127981
+nicopp_outdoor_water,rsc,Slot ranking + slot corruption,pf0.5_pb0.333333,3,1.552724871097615
+nicopp_outdoor_water,rsc,Slot ranking + slot corruption,pf0.5_pb0.5,3,1.5066610241872762
+nicopp_outdoor_water,rsc,Slot ranking + slot corruption,pf0.75_pb0.02,3,1.5726682790304813
+nicopp_outdoor_water,rsc,Slot ranking + slot corruption,pf0.75_pb0.05,3,1.5751759223513921
+nicopp_outdoor_water,rsc,Slot ranking + slot corruption,pf0.75_pb0.1,3,1.5751052601016609
+nicopp_outdoor_water,rsc,Slot ranking + slot corruption,pf0.75_pb0.333333,3,1.5750328496198545
+nicopp_outdoor_water,rsc,Slot ranking + slot corruption,pf0.75_pb0.5,3,1.5699375725872045
+nicopp_outdoor_water,rsc,Slot ranking + slot corruption,pf0.9_pb0.02,3,1.5728823276515227
+nicopp_outdoor_water,rsc,Slot ranking + slot corruption,pf0.9_pb0.05,3,1.5731929562229638
+nicopp_outdoor_water,rsc,Slot ranking + slot corruption,pf0.9_pb0.1,3,1.5733954181154852
+nicopp_outdoor_water,rsc,Slot ranking + slot corruption,pf0.9_pb0.333333,3,1.575622913550643
+nicopp_outdoor_water,rsc,Slot ranking + slot corruption,pf0.9_pb0.5,3,1.5717048202643211
+waterbirds,coral,Original slot order,qwen_lambda0.003,3,1.4059683963832044
+waterbirds,coral,Original slot order,qwen_lambda0.01,3,1.441111594275635
+waterbirds,coral,Original slot order,qwen_lambda0.1,3,1.444909662948722
+waterbirds,coral,Original slot order,qwen_lambda1,3,1.4499904472575078
+waterbirds,coral,Original slot order,qwen_lambda10,3,1.474737820276198
+waterbirds,coral,Original slot order,qwen_lambda100,3,1.462021056661601
+waterbirds,coral,Original slot order,qwen_lambda300,3,1.4806836910603216
+celeba,coral,Original slot order,qwen_lambda0.003,3,1.7731415538765853
+celeba,coral,Original slot order,qwen_lambda0.01,3,1.771304613063574
+celeba,coral,Original slot order,qwen_lambda0.1,3,1.7691588071839892
+celeba,coral,Original slot order,qwen_lambda1,3,1.7620990183699625
+celeba,coral,Original slot order,qwen_lambda10,3,1.754558488007233
+celeba,coral,Original slot order,qwen_lambda100,3,1.7480846389778841
+celeba,coral,Original slot order,qwen_lambda300,3,1.7396590691888587
+metashift,coral,Original slot order,qwen_lambda0.003,3,1.8568282330797874
+metashift,coral,Original slot order,qwen_lambda0.01,3,1.8568282330797876
+metashift,coral,Original slot order,qwen_lambda0.1,3,1.8548671005001092
+metashift,coral,Original slot order,qwen_lambda1,3,1.8274005744638233
+metashift,coral,Original slot order,qwen_lambda10,3,1.5920770619135614
+metashift,coral,Original slot order,qwen_lambda100,3,1.4646850405923137
+metashift,coral,Original slot order,qwen_lambda300,3,1.3764568992013195
+nicopp_autumn_rock,coral,Original slot order,qwen_lambda0.003,3,1.4433168905565879
+nicopp_autumn_rock,coral,Original slot order,qwen_lambda0.01,3,1.443929969140995
+nicopp_autumn_rock,coral,Original slot order,qwen_lambda0.1,3,1.442099412788129
+nicopp_autumn_rock,coral,Original slot order,qwen_lambda1,3,1.4385151144646793
+nicopp_autumn_rock,coral,Original slot order,qwen_lambda10,3,1.4417456158051625
+nicopp_autumn_rock,coral,Original slot order,qwen_lambda100,3,1.4418744097492324
+nicopp_autumn_rock,coral,Original slot order,qwen_lambda300,3,1.4365255692607057
+nicopp_dim_grass,coral,Original slot order,qwen_lambda0.003,3,1.411424510605581
+nicopp_dim_grass,coral,Original slot order,qwen_lambda0.01,3,1.4095031296932745
+nicopp_dim_grass,coral,Original slot order,qwen_lambda0.1,3,1.4103775988141212
+nicopp_dim_grass,coral,Original slot order,qwen_lambda1,3,1.404434414284055
+nicopp_dim_grass,coral,Original slot order,qwen_lambda10,3,1.4105517969825314
+nicopp_dim_grass,coral,Original slot order,qwen_lambda100,3,1.409667753696113
+nicopp_dim_grass,coral,Original slot order,qwen_lambda300,3,1.393063295347852
+nicopp_outdoor_water,coral,Original slot order,qwen_lambda0.003,3,1.4573532040932475
+nicopp_outdoor_water,coral,Original slot order,qwen_lambda0.01,3,1.4569302353717652
+nicopp_outdoor_water,coral,Original slot order,qwen_lambda0.1,3,1.4559789041948186
+nicopp_outdoor_water,coral,Original slot order,qwen_lambda1,3,1.4512789039224432
+nicopp_outdoor_water,coral,Original slot order,qwen_lambda10,3,1.4600157433534957
+nicopp_outdoor_water,coral,Original slot order,qwen_lambda100,3,1.4517238274101885
+nicopp_outdoor_water,coral,Original slot order,qwen_lambda300,3,1.4356688696776558
+waterbirds,coral,Slot ranking,qwen_lambda0.003,3,1.4221127751670537
+waterbirds,coral,Slot ranking,qwen_lambda0.01,3,1.4209595690907753
+waterbirds,coral,Slot ranking,qwen_lambda0.1,3,1.5117568412498172
+waterbirds,coral,Slot ranking,qwen_lambda1,3,1.511415431958534
+waterbirds,coral,Slot ranking,qwen_lambda10,3,1.5764033724991233
+waterbirds,coral,Slot ranking,qwen_lambda100,3,1.559320791651211
+waterbirds,coral,Slot ranking,qwen_lambda300,3,1.5558463358541061
+celeba,coral,Slot ranking,qwen_lambda0.003,3,1.771675208851061
+celeba,coral,Slot ranking,qwen_lambda0.01,3,1.7717510001892702
+celeba,coral,Slot ranking,qwen_lambda0.1,3,1.768788023601159
+celeba,coral,Slot ranking,qwen_lambda1,3,1.7593105774786713
+celeba,coral,Slot ranking,qwen_lambda10,3,1.7522221918297844
+celeba,coral,Slot ranking,qwen_lambda100,3,1.7387230020451652
+celeba,coral,Slot ranking,qwen_lambda300,3,1.737714416177904
+metashift,coral,Slot ranking,qwen_lambda0.003,3,1.8960754881768331
+metashift,coral,Slot ranking,qwen_lambda0.01,3,1.892156701606585
+metashift,coral,Slot ranking,qwen_lambda0.1,3,1.8882335214936317
+metashift,coral,Slot ranking,qwen_lambda1,3,1.835284193172355
+metashift,coral,Slot ranking,qwen_lambda10,3,1.5685050121459152
+metashift,coral,Slot ranking,qwen_lambda100,3,1.4705647218592681
+metashift,coral,Slot ranking,qwen_lambda300,3,1.366596185929338
+nicopp_autumn_rock,coral,Slot ranking,qwen_lambda0.003,3,1.4737724747530783
+nicopp_autumn_rock,coral,Slot ranking,qwen_lambda0.01,3,1.4738130503436127
+nicopp_autumn_rock,coral,Slot ranking,qwen_lambda0.1,3,1.473479917403682
+nicopp_autumn_rock,coral,Slot ranking,qwen_lambda1,3,1.4691888983351806
+nicopp_autumn_rock,coral,Slot ranking,qwen_lambda10,3,1.4780329674608215
+nicopp_autumn_rock,coral,Slot ranking,qwen_lambda100,3,1.4736819311206393
+nicopp_autumn_rock,coral,Slot ranking,qwen_lambda300,3,1.4604127163886982
+nicopp_dim_grass,coral,Slot ranking,qwen_lambda0.003,3,1.4535162578187395
+nicopp_dim_grass,coral,Slot ranking,qwen_lambda0.01,3,1.4536062422818044
+nicopp_dim_grass,coral,Slot ranking,qwen_lambda0.1,3,1.4525030341317262
+nicopp_dim_grass,coral,Slot ranking,qwen_lambda1,3,1.44757681631428
+nicopp_dim_grass,coral,Slot ranking,qwen_lambda10,3,1.454120111228007
+nicopp_dim_grass,coral,Slot ranking,qwen_lambda100,3,1.4530375173761536
+nicopp_dim_grass,coral,Slot ranking,qwen_lambda300,3,1.4401022263114527
+nicopp_outdoor_water,coral,Slot ranking,qwen_lambda0.003,3,1.485809289202711
+nicopp_outdoor_water,coral,Slot ranking,qwen_lambda0.01,3,1.4861225751904896
+nicopp_outdoor_water,coral,Slot ranking,qwen_lambda0.1,3,1.486685637238133
+nicopp_outdoor_water,coral,Slot ranking,qwen_lambda1,3,1.481763017629678
+nicopp_outdoor_water,coral,Slot ranking,qwen_lambda10,3,1.4943017929806464
+nicopp_outdoor_water,coral,Slot ranking,qwen_lambda100,3,1.4883221046001172
+nicopp_outdoor_water,coral,Slot ranking,qwen_lambda300,3,1.4689580275308474
+waterbirds,coral,Slot ranking + slot corruption,qwen_lambda0.003,3,1.6340910860308195
+waterbirds,coral,Slot ranking + slot corruption,qwen_lambda0.01,3,1.63255392703497
+waterbirds,coral,Slot ranking + slot corruption,qwen_lambda0.1,3,1.6292718518998814
+waterbirds,coral,Slot ranking + slot corruption,qwen_lambda1,3,1.6488618652362739
+waterbirds,coral,Slot ranking + slot corruption,qwen_lambda10,3,1.6625176253320502
+waterbirds,coral,Slot ranking + slot corruption,qwen_lambda100,3,1.651793820704872
+waterbirds,coral,Slot ranking + slot corruption,qwen_lambda300,3,1.6512069044482567
+celeba,coral,Slot ranking + slot corruption,qwen_lambda0.003,3,1.7838346319380556
+celeba,coral,Slot ranking + slot corruption,qwen_lambda0.01,3,1.782027764195032
+celeba,coral,Slot ranking + slot corruption,qwen_lambda0.1,3,1.7811173116179708
+celeba,coral,Slot ranking + slot corruption,qwen_lambda1,3,1.777974159458938
+celeba,coral,Slot ranking + slot corruption,qwen_lambda10,3,1.7765382333984825
+celeba,coral,Slot ranking + slot corruption,qwen_lambda100,3,1.7723905338844956
+celeba,coral,Slot ranking + slot corruption,qwen_lambda300,3,1.7716808051100605
+metashift,coral,Slot ranking + slot corruption,qwen_lambda0.003,3,1.9392124205270196
+metashift,coral,Slot ranking + slot corruption,qwen_lambda0.01,3,1.9352910386659403
+metashift,coral,Slot ranking + slot corruption,qwen_lambda0.1,3,1.9470558801100122
+metashift,coral,Slot ranking + slot corruption,qwen_lambda1,3,1.9235276729536388
+metashift,coral,Slot ranking + slot corruption,qwen_lambda10,3,1.821559966130487
+metashift,coral,Slot ranking + slot corruption,qwen_lambda100,3,1.698034924054389
+metashift,coral,Slot ranking + slot corruption,qwen_lambda300,3,1.36227936842364
+nicopp_autumn_rock,coral,Slot ranking + slot corruption,qwen_lambda0.003,3,1.537308585267749
+nicopp_autumn_rock,coral,Slot ranking + slot corruption,qwen_lambda0.01,3,1.53678771389419
+nicopp_autumn_rock,coral,Slot ranking + slot corruption,qwen_lambda0.1,3,1.5381424685091565
+nicopp_autumn_rock,coral,Slot ranking + slot corruption,qwen_lambda1,3,1.53966923668302
+nicopp_autumn_rock,coral,Slot ranking + slot corruption,qwen_lambda10,3,1.5363290571784045
+nicopp_autumn_rock,coral,Slot ranking + slot corruption,qwen_lambda100,3,1.539422869159379
+nicopp_autumn_rock,coral,Slot ranking + slot corruption,qwen_lambda300,3,1.5331114487329636
+nicopp_dim_grass,coral,Slot ranking + slot corruption,qwen_lambda0.003,3,1.517707474373833
+nicopp_dim_grass,coral,Slot ranking + slot corruption,qwen_lambda0.01,3,1.517335252732934
+nicopp_dim_grass,coral,Slot ranking + slot corruption,qwen_lambda0.1,3,1.517404880939571
+nicopp_dim_grass,coral,Slot ranking + slot corruption,qwen_lambda1,3,1.5192935240601504
+nicopp_dim_grass,coral,Slot ranking + slot corruption,qwen_lambda10,3,1.5218053608605
+nicopp_dim_grass,coral,Slot ranking + slot corruption,qwen_lambda100,3,1.522293423164
+nicopp_dim_grass,coral,Slot ranking + slot corruption,qwen_lambda300,3,1.51453901707928
+nicopp_outdoor_water,coral,Slot ranking + slot corruption,qwen_lambda0.003,3,1.5494428990209113
+nicopp_outdoor_water,coral,Slot ranking + slot corruption,qwen_lambda0.01,3,1.548147589614418
+nicopp_outdoor_water,coral,Slot ranking + slot corruption,qwen_lambda0.1,3,1.5497451572306262
+nicopp_outdoor_water,coral,Slot ranking + slot corruption,qwen_lambda1,3,1.5495222428447983
+nicopp_outdoor_water,coral,Slot ranking + slot corruption,qwen_lambda10,3,1.5514805691111144
+nicopp_outdoor_water,coral,Slot ranking + slot corruption,qwen_lambda100,3,1.5529980448448821
+nicopp_outdoor_water,coral,Slot ranking + slot corruption,qwen_lambda300,3,1.5529858346488379
+waterbirds,mixup,Original slot order,alpha0.03,3,1.342321365355625
+waterbirds,mixup,Original slot order,alpha0.1,3,1.3070500252544244
+waterbirds,mixup,Original slot order,alpha0.2,3,1.305188085643551
+waterbirds,mixup,Original slot order,alpha0.5,3,1.3078218560244377
+waterbirds,mixup,Original slot order,alpha1,3,1.3144005340967253
+waterbirds,mixup,Original slot order,alpha2,3,1.3083610965026995
+waterbirds,mixup,Original slot order,alpha5,3,1.3059259815553244
+celeba,mixup,Original slot order,alpha0.03,3,1.787187860663061
+celeba,mixup,Original slot order,alpha0.1,3,1.7806928554239958
+celeba,mixup,Original slot order,alpha0.2,3,1.7749352348532021
+celeba,mixup,Original slot order,alpha0.5,3,1.7593478415756445
+celeba,mixup,Original slot order,alpha1,3,1.7467750418088723
+celeba,mixup,Original slot order,alpha2,3,1.7387712134119762
+celeba,mixup,Original slot order,alpha5,3,1.7282589882171286
+metashift,mixup,Original slot order,alpha0.03,3,1.8744934302052974
+metashift,mixup,Original slot order,alpha0.1,3,1.8725376091743866
+metashift,mixup,Original slot order,alpha0.2,3,1.8686156510618825
+metashift,mixup,Original slot order,alpha0.5,3,1.8686197239163944
+metashift,mixup,Original slot order,alpha1,3,1.8627344591401094
+metashift,mixup,Original slot order,alpha2,3,1.866653058545942
+metashift,mixup,Original slot order,alpha5,3,1.8627327432291658
+nicopp_autumn_rock,mixup,Original slot order,alpha0.03,3,1.468666802254394
+nicopp_autumn_rock,mixup,Original slot order,alpha0.1,3,1.465077032616619
+nicopp_autumn_rock,mixup,Original slot order,alpha0.2,3,1.4626385948197138
+nicopp_autumn_rock,mixup,Original slot order,alpha0.5,3,1.4723202856226614
+nicopp_autumn_rock,mixup,Original slot order,alpha1,3,1.4767855452521854
+nicopp_autumn_rock,mixup,Original slot order,alpha2,3,1.4737029329098192
+nicopp_autumn_rock,mixup,Original slot order,alpha5,3,1.462850377986868
+nicopp_dim_grass,mixup,Original slot order,alpha0.03,3,1.4323321944422036
+nicopp_dim_grass,mixup,Original slot order,alpha0.1,3,1.4327921522882938
+nicopp_dim_grass,mixup,Original slot order,alpha0.2,3,1.4296073212597615
+nicopp_dim_grass,mixup,Original slot order,alpha0.5,3,1.4327441431843226
+nicopp_dim_grass,mixup,Original slot order,alpha1,3,1.4361646690203527
+nicopp_dim_grass,mixup,Original slot order,alpha2,3,1.4374568658243454
+nicopp_dim_grass,mixup,Original slot order,alpha5,3,1.4295356776733283
+nicopp_outdoor_water,mixup,Original slot order,alpha0.03,3,1.486431260455123
+nicopp_outdoor_water,mixup,Original slot order,alpha0.1,3,1.4839597141638994
+nicopp_outdoor_water,mixup,Original slot order,alpha0.2,3,1.4822001597417314
+nicopp_outdoor_water,mixup,Original slot order,alpha0.5,3,1.4797750476253295
+nicopp_outdoor_water,mixup,Original slot order,alpha1,3,1.4839617762797461
+nicopp_outdoor_water,mixup,Original slot order,alpha2,3,1.4856233842307267
+nicopp_outdoor_water,mixup,Original slot order,alpha5,3,1.4799797056556148
+waterbirds,mixup,Slot ranking,alpha0.03,3,1.4016585409579336
+waterbirds,mixup,Slot ranking,alpha0.1,3,1.3907574249114385
+waterbirds,mixup,Slot ranking,alpha0.2,3,1.3673030916751252
+waterbirds,mixup,Slot ranking,alpha0.5,3,1.3714784266604443
+waterbirds,mixup,Slot ranking,alpha1,3,1.3796586946254858
+waterbirds,mixup,Slot ranking,alpha2,3,1.386870394576282
+waterbirds,mixup,Slot ranking,alpha5,3,1.3775041821753897
+celeba,mixup,Slot ranking,alpha0.03,3,1.7828642751524366
+celeba,mixup,Slot ranking,alpha0.1,3,1.7756852908725265
+celeba,mixup,Slot ranking,alpha0.2,3,1.767426775378535
+celeba,mixup,Slot ranking,alpha0.5,3,1.7527830756364555
+celeba,mixup,Slot ranking,alpha1,3,1.742477264784063
+celeba,mixup,Slot ranking,alpha2,3,1.7337096459237686
+celeba,mixup,Slot ranking,alpha5,3,1.7232210350190318
+metashift,mixup,Slot ranking,alpha0.03,3,1.905879011100927
+metashift,mixup,Slot ranking,alpha0.1,3,1.8999968189741827
+metashift,mixup,Slot ranking,alpha0.2,3,1.899996530909915
+metashift,mixup,Slot ranking,alpha0.5,3,1.8999987532685936
+metashift,mixup,Slot ranking,alpha1,3,1.8980386728898277
+metashift,mixup,Slot ranking,alpha2,3,1.8941155267078156
+metashift,mixup,Slot ranking,alpha5,3,1.8941143899983768
+nicopp_autumn_rock,mixup,Slot ranking,alpha0.03,3,1.4998855102199578
+nicopp_autumn_rock,mixup,Slot ranking,alpha0.1,3,1.4993513145206203
+nicopp_autumn_rock,mixup,Slot ranking,alpha0.2,3,1.498713989156979
+nicopp_autumn_rock,mixup,Slot ranking,alpha0.5,3,1.4979284885996265
+nicopp_autumn_rock,mixup,Slot ranking,alpha1,3,1.4985628657447279
+nicopp_autumn_rock,mixup,Slot ranking,alpha2,3,1.4986664023185374
+nicopp_autumn_rock,mixup,Slot ranking,alpha5,3,1.493846379982437
+nicopp_dim_grass,mixup,Slot ranking,alpha0.03,3,1.4886759339272426
+nicopp_dim_grass,mixup,Slot ranking,alpha0.1,3,1.4854684719814262
+nicopp_dim_grass,mixup,Slot ranking,alpha0.2,3,1.4879279819456865
+nicopp_dim_grass,mixup,Slot ranking,alpha0.5,3,1.4842801361464932
+nicopp_dim_grass,mixup,Slot ranking,alpha1,3,1.4847084705801343
+nicopp_dim_grass,mixup,Slot ranking,alpha2,3,1.4847309795319834
+nicopp_dim_grass,mixup,Slot ranking,alpha5,3,1.4832613243731847
+nicopp_outdoor_water,mixup,Slot ranking,alpha0.03,3,1.5238889082360345
+nicopp_outdoor_water,mixup,Slot ranking,alpha0.1,3,1.5232133314401508
+nicopp_outdoor_water,mixup,Slot ranking,alpha0.2,3,1.5233701809043463
+nicopp_outdoor_water,mixup,Slot ranking,alpha0.5,3,1.5204446086728094
+nicopp_outdoor_water,mixup,Slot ranking,alpha1,3,1.5214263566233186
+nicopp_outdoor_water,mixup,Slot ranking,alpha2,3,1.5203343315459936
+nicopp_outdoor_water,mixup,Slot ranking,alpha5,3,1.5168821778135122
+waterbirds,mixup,Slot ranking + slot corruption,alpha0.03,3,1.6021920728659758
+waterbirds,mixup,Slot ranking + slot corruption,alpha0.1,3,1.5899681820630043
+waterbirds,mixup,Slot ranking + slot corruption,alpha0.2,3,1.5750679491527542
+waterbirds,mixup,Slot ranking + slot corruption,alpha0.5,3,1.5604070714308438
+waterbirds,mixup,Slot ranking + slot corruption,alpha1,3,1.5509079538641124
+waterbirds,mixup,Slot ranking + slot corruption,alpha2,3,1.534357817671479
+waterbirds,mixup,Slot ranking + slot corruption,alpha5,3,1.5365560059795706
+celeba,mixup,Slot ranking + slot corruption,alpha0.03,3,1.7914963889889046
+celeba,mixup,Slot ranking + slot corruption,alpha0.1,3,1.788999685991205
+celeba,mixup,Slot ranking + slot corruption,alpha0.2,3,1.7891671600029013
+celeba,mixup,Slot ranking + slot corruption,alpha0.5,3,1.7771211426732922
+celeba,mixup,Slot ranking + slot corruption,alpha1,3,1.7638089558907295
+celeba,mixup,Slot ranking + slot corruption,alpha2,3,1.7444516965888395
+celeba,mixup,Slot ranking + slot corruption,alpha5,3,1.7297790519508525
+metashift,mixup,Slot ranking + slot corruption,alpha0.03,3,1.9352932780112269
+metashift,mixup,Slot ranking + slot corruption,alpha0.1,3,1.9392136421395614
+metashift,mixup,Slot ranking + slot corruption,alpha0.2,3,1.9411731115817217
+metashift,mixup,Slot ranking + slot corruption,alpha0.5,3,1.943135889399934
+metashift,mixup,Slot ranking + slot corruption,alpha1,3,1.9431347866971649
+metashift,mixup,Slot ranking + slot corruption,alpha2,3,1.9333325191386634
+metashift,mixup,Slot ranking + slot corruption,alpha5,3,1.9352927860566027
+nicopp_autumn_rock,mixup,Slot ranking + slot corruption,alpha0.03,3,1.551191109960279
+nicopp_autumn_rock,mixup,Slot ranking + slot corruption,alpha0.1,3,1.5603762473512814
+nicopp_autumn_rock,mixup,Slot ranking + slot corruption,alpha0.2,3,1.5626723502006659
+nicopp_autumn_rock,mixup,Slot ranking + slot corruption,alpha0.5,3,1.5578517459942083
+nicopp_autumn_rock,mixup,Slot ranking + slot corruption,alpha1,3,1.5479770451431591
+nicopp_autumn_rock,mixup,Slot ranking + slot corruption,alpha2,3,1.5358069137081518
+nicopp_autumn_rock,mixup,Slot ranking + slot corruption,alpha5,3,1.523760795864711
+nicopp_dim_grass,mixup,Slot ranking + slot corruption,alpha0.03,3,1.5381220629376837
+nicopp_dim_grass,mixup,Slot ranking + slot corruption,alpha0.1,3,1.5430176513249194
+nicopp_dim_grass,mixup,Slot ranking + slot corruption,alpha0.2,3,1.5461492233934855
+nicopp_dim_grass,mixup,Slot ranking + slot corruption,alpha0.5,3,1.5417857263963832
+nicopp_dim_grass,mixup,Slot ranking + slot corruption,alpha1,3,1.533130362634288
+nicopp_dim_grass,mixup,Slot ranking + slot corruption,alpha2,3,1.5245607777852577
+nicopp_dim_grass,mixup,Slot ranking + slot corruption,alpha5,3,1.5147309137943434
+nicopp_outdoor_water,mixup,Slot ranking + slot corruption,alpha0.03,3,1.5715574821024612
+nicopp_outdoor_water,mixup,Slot ranking + slot corruption,alpha0.1,3,1.5782730798746503
+nicopp_outdoor_water,mixup,Slot ranking + slot corruption,alpha0.2,3,1.580483197327671
+nicopp_outdoor_water,mixup,Slot ranking + slot corruption,alpha0.5,3,1.581364818817308
+nicopp_outdoor_water,mixup,Slot ranking + slot corruption,alpha1,3,1.5715980889009131
+nicopp_outdoor_water,mixup,Slot ranking + slot corruption,alpha2,3,1.5624515366161802
+nicopp_outdoor_water,mixup,Slot ranking + slot corruption,alpha5,3,1.5461127425388532
+waterbirds,elrep,Original slot order,n0.0001_f1e-05,3,1.339359811655746
+waterbirds,elrep,Original slot order,n0.0001_f3e-05,3,1.3396372578722169
+waterbirds,elrep,Original slot order,n0.0001_f0.0001,3,1.3332398738341842
+waterbirds,elrep,Original slot order,n0.0003_f1e-05,3,1.3447128028066249
+waterbirds,elrep,Original slot order,n0.0003_f3e-05,3,1.3388840563189728
+waterbirds,elrep,Original slot order,n0.0003_f0.0001,3,1.337500566730646
+waterbirds,elrep,Original slot order,n0.001_f1e-05,3,1.3565174578958015
+waterbirds,elrep,Original slot order,n0.001_f3e-05,3,1.372070442805832
+waterbirds,elrep,Original slot order,n0.001_f0.0001,3,1.3524761198107058
+celeba,elrep,Original slot order,n0.0001_f1e-05,3,1.7894969244630363
+celeba,elrep,Original slot order,n0.0001_f3e-05,3,1.7888737439744125
+celeba,elrep,Original slot order,n0.0001_f0.0001,3,1.7900855428642901
+celeba,elrep,Original slot order,n0.0003_f1e-05,3,1.7900246861365599
+celeba,elrep,Original slot order,n0.0003_f3e-05,3,1.7903431149920017
+celeba,elrep,Original slot order,n0.0003_f0.0001,3,1.7903525846380157
+celeba,elrep,Original slot order,n0.001_f1e-05,3,1.7912543707764723
+celeba,elrep,Original slot order,n0.001_f3e-05,3,1.7906760440133855
+celeba,elrep,Original slot order,n0.001_f0.0001,3,1.7903720207484646
+metashift,elrep,Original slot order,n0.0001_f1e-05,3,1.8587835959637105
+metashift,elrep,Original slot order,n0.0001_f3e-05,3,1.856824839721394
+metashift,elrep,Original slot order,n0.0001_f0.0001,3,1.8548774498382103
+metashift,elrep,Original slot order,n0.0003_f1e-05,3,1.8568197479217974
+metashift,elrep,Original slot order,n0.0003_f3e-05,3,1.8568372078448598
+metashift,elrep,Original slot order,n0.0003_f0.0001,3,1.8548774498382103
+metashift,elrep,Original slot order,n0.001_f1e-05,3,1.856833814486466
+metashift,elrep,Original slot order,n0.001_f3e-05,3,1.8568372078448598
+metashift,elrep,Original slot order,n0.001_f0.0001,3,1.8548774498382103
+nicopp_autumn_rock,elrep,Original slot order,n0.0001_f1e-05,3,1.4681824671715082
+nicopp_autumn_rock,elrep,Original slot order,n0.0001_f3e-05,3,1.4672869941947733
+nicopp_autumn_rock,elrep,Original slot order,n0.0001_f0.0001,3,1.4677258418202168
+nicopp_autumn_rock,elrep,Original slot order,n0.0003_f1e-05,3,1.4678193780767839
+nicopp_autumn_rock,elrep,Original slot order,n0.0003_f3e-05,3,1.4683655974047092
+nicopp_autumn_rock,elrep,Original slot order,n0.0003_f0.0001,3,1.4673555408184793
+nicopp_autumn_rock,elrep,Original slot order,n0.001_f1e-05,3,1.46804528937868
+nicopp_autumn_rock,elrep,Original slot order,n0.001_f3e-05,3,1.467676274208392
+nicopp_autumn_rock,elrep,Original slot order,n0.001_f0.0001,3,1.4675725205843042
+nicopp_dim_grass,elrep,Original slot order,n0.0001_f1e-05,3,1.4329408427308372
+nicopp_dim_grass,elrep,Original slot order,n0.0001_f3e-05,3,1.433971738611124
+nicopp_dim_grass,elrep,Original slot order,n0.0001_f0.0001,3,1.433252086422321
+nicopp_dim_grass,elrep,Original slot order,n0.0003_f1e-05,3,1.4346017068412111
+nicopp_dim_grass,elrep,Original slot order,n0.0003_f3e-05,3,1.433376639671631
+nicopp_dim_grass,elrep,Original slot order,n0.0003_f0.0001,3,1.4342033240506502
+nicopp_dim_grass,elrep,Original slot order,n0.001_f1e-05,3,1.4338223047794652
+nicopp_dim_grass,elrep,Original slot order,n0.001_f3e-05,3,1.4327075946068923
+nicopp_dim_grass,elrep,Original slot order,n0.001_f0.0001,3,1.4335133588968103
+nicopp_outdoor_water,elrep,Original slot order,n0.0001_f1e-05,3,1.487985334151796
+nicopp_outdoor_water,elrep,Original slot order,n0.0001_f3e-05,3,1.4870591840670613
+nicopp_outdoor_water,elrep,Original slot order,n0.0001_f0.0001,3,1.4873801607484494
+nicopp_outdoor_water,elrep,Original slot order,n0.0003_f1e-05,3,1.4865046859308435
+nicopp_outdoor_water,elrep,Original slot order,n0.0003_f3e-05,3,1.486603532254107
+nicopp_outdoor_water,elrep,Original slot order,n0.0003_f0.0001,3,1.4863082600824693
+nicopp_outdoor_water,elrep,Original slot order,n0.001_f1e-05,3,1.4868080122919327
+nicopp_outdoor_water,elrep,Original slot order,n0.001_f3e-05,3,1.4873020516671576
+nicopp_outdoor_water,elrep,Original slot order,n0.001_f0.0001,3,1.4878901553682187
+waterbirds,elrep,Slot ranking,n0.0001_f1e-05,3,1.4036085302960384
+waterbirds,elrep,Slot ranking,n0.0001_f3e-05,3,1.4044889417904385
+waterbirds,elrep,Slot ranking,n0.0001_f0.0001,3,1.401500408678113
+waterbirds,elrep,Slot ranking,n0.0003_f1e-05,3,1.4079060790791589
+waterbirds,elrep,Slot ranking,n0.0003_f3e-05,3,1.4079316036611973
+waterbirds,elrep,Slot ranking,n0.0003_f0.0001,3,1.4008489193017393
+waterbirds,elrep,Slot ranking,n0.001_f1e-05,3,1.4204109241327398
+waterbirds,elrep,Slot ranking,n0.001_f3e-05,3,1.422338086785941
+waterbirds,elrep,Slot ranking,n0.001_f0.0001,3,1.4104968104985531
+celeba,elrep,Slot ranking,n0.0001_f1e-05,3,1.78321435724802
+celeba,elrep,Slot ranking,n0.0001_f3e-05,3,1.7851591651168404
+celeba,elrep,Slot ranking,n0.0001_f0.0001,3,1.7830125838721855
+celeba,elrep,Slot ranking,n0.0003_f1e-05,3,1.7834148368448517
+celeba,elrep,Slot ranking,n0.0003_f3e-05,3,1.7840114060141612
+celeba,elrep,Slot ranking,n0.0003_f0.0001,3,1.7855473501581585
+celeba,elrep,Slot ranking,n0.001_f1e-05,3,1.7847107962615745
+celeba,elrep,Slot ranking,n0.001_f3e-05,3,1.783862660351577
+celeba,elrep,Slot ranking,n0.001_f0.0001,3,1.7857128419040993
+metashift,elrep,Slot ranking,n0.0001_f1e-05,3,1.8980371631848225
+metashift,elrep,Slot ranking,n0.0001_f3e-05,3,1.8941167310977436
+metashift,elrep,Slot ranking,n0.0001_f0.0001,3,1.8941167310977436
+metashift,elrep,Slot ranking,n0.0003_f1e-05,3,1.8980371631848225
+metashift,elrep,Slot ranking,n0.0003_f3e-05,3,1.8980371631848225
+metashift,elrep,Slot ranking,n0.0003_f0.0001,3,1.8941167310977436
+metashift,elrep,Slot ranking,n0.001_f1e-05,3,1.8941167310977436
+metashift,elrep,Slot ranking,n0.001_f3e-05,3,1.8941167310977436
+metashift,elrep,Slot ranking,n0.001_f0.0001,3,1.8941167310977436
+nicopp_autumn_rock,elrep,Slot ranking,n0.0001_f1e-05,3,1.5019100067040092
+nicopp_autumn_rock,elrep,Slot ranking,n0.0001_f3e-05,3,1.5019370644105996
+nicopp_autumn_rock,elrep,Slot ranking,n0.0001_f0.0001,3,1.5021491803444593
+nicopp_autumn_rock,elrep,Slot ranking,n0.0003_f1e-05,3,1.5013070793587941
+nicopp_autumn_rock,elrep,Slot ranking,n0.0003_f3e-05,3,1.5019129485487446
+nicopp_autumn_rock,elrep,Slot ranking,n0.0003_f0.0001,3,1.5007641006203265
+nicopp_autumn_rock,elrep,Slot ranking,n0.001_f1e-05,3,1.5015193066018089
+nicopp_autumn_rock,elrep,Slot ranking,n0.001_f3e-05,3,1.502241470653327
+nicopp_autumn_rock,elrep,Slot ranking,n0.001_f0.0001,3,1.5014164738927587
+nicopp_dim_grass,elrep,Slot ranking,n0.0001_f1e-05,3,1.4865393193836507
+nicopp_dim_grass,elrep,Slot ranking,n0.0001_f3e-05,3,1.4870316864377429
+nicopp_dim_grass,elrep,Slot ranking,n0.0001_f0.0001,3,1.488421930300398
+nicopp_dim_grass,elrep,Slot ranking,n0.0003_f1e-05,3,1.4867021978321198
+nicopp_dim_grass,elrep,Slot ranking,n0.0003_f3e-05,3,1.4875002042732
+nicopp_dim_grass,elrep,Slot ranking,n0.0003_f0.0001,3,1.4888338533413534
+nicopp_dim_grass,elrep,Slot ranking,n0.001_f1e-05,3,1.4880369668832518
+nicopp_dim_grass,elrep,Slot ranking,n0.001_f3e-05,3,1.487246954271929
+nicopp_dim_grass,elrep,Slot ranking,n0.001_f0.0001,3,1.4876815128685659
+nicopp_outdoor_water,elrep,Slot ranking,n0.0001_f1e-05,3,1.5247569526779554
+nicopp_outdoor_water,elrep,Slot ranking,n0.0001_f3e-05,3,1.5243242286529182
+nicopp_outdoor_water,elrep,Slot ranking,n0.0001_f0.0001,3,1.5248043601794474
+nicopp_outdoor_water,elrep,Slot ranking,n0.0003_f1e-05,3,1.5255690900725034
+nicopp_outdoor_water,elrep,Slot ranking,n0.0003_f3e-05,3,1.525291683232071
+nicopp_outdoor_water,elrep,Slot ranking,n0.0003_f0.0001,3,1.5257263979575513
+nicopp_outdoor_water,elrep,Slot ranking,n0.001_f1e-05,3,1.5249085436904675
+nicopp_outdoor_water,elrep,Slot ranking,n0.001_f3e-05,3,1.5239379730059996
+nicopp_outdoor_water,elrep,Slot ranking,n0.001_f0.0001,3,1.5251332700508584
+waterbirds,elrep,Slot ranking + slot corruption,n0.0001_f1e-05,3,1.608977643394111
+waterbirds,elrep,Slot ranking + slot corruption,n0.0001_f3e-05,3,1.6143232138378523
+waterbirds,elrep,Slot ranking + slot corruption,n0.0001_f0.0001,3,1.6257572555980444
+waterbirds,elrep,Slot ranking + slot corruption,n0.0003_f1e-05,3,1.6198366789521688
+waterbirds,elrep,Slot ranking + slot corruption,n0.0003_f3e-05,3,1.627126360247515
+waterbirds,elrep,Slot ranking + slot corruption,n0.0003_f0.0001,3,1.6213054604508823
+waterbirds,elrep,Slot ranking + slot corruption,n0.001_f1e-05,3,1.6104961355763887
+waterbirds,elrep,Slot ranking + slot corruption,n0.001_f3e-05,3,1.6198678429918718
+waterbirds,elrep,Slot ranking + slot corruption,n0.001_f0.0001,3,1.61951251032091
+celeba,elrep,Slot ranking + slot corruption,n0.0001_f1e-05,3,1.7946209921419236
+celeba,elrep,Slot ranking + slot corruption,n0.0001_f3e-05,3,1.7938837104415732
+celeba,elrep,Slot ranking + slot corruption,n0.0001_f0.0001,3,1.7927763944768902
+celeba,elrep,Slot ranking + slot corruption,n0.0003_f1e-05,3,1.7933659698464244
+celeba,elrep,Slot ranking + slot corruption,n0.0003_f3e-05,3,1.7944089218545927
+celeba,elrep,Slot ranking + slot corruption,n0.0003_f0.0001,3,1.7948221229711498
+celeba,elrep,Slot ranking + slot corruption,n0.001_f1e-05,3,1.7931814356076579
+celeba,elrep,Slot ranking + slot corruption,n0.001_f3e-05,3,1.7949390356927681
+celeba,elrep,Slot ranking + slot corruption,n0.001_f0.0001,3,1.7945365871085477
+metashift,elrep,Slot ranking + slot corruption,n0.0001_f1e-05,3,1.9313696736893
+metashift,elrep,Slot ranking + slot corruption,n0.0001_f3e-05,3,1.9313696736893
+metashift,elrep,Slot ranking + slot corruption,n0.0001_f0.0001,3,1.9333297538091598
+metashift,elrep,Slot ranking + slot corruption,n0.0003_f1e-05,3,1.9333300254257881
+metashift,elrep,Slot ranking + slot corruption,n0.0003_f3e-05,3,1.9313696736893
+metashift,elrep,Slot ranking + slot corruption,n0.0003_f0.0001,3,1.931368452228235
+metashift,elrep,Slot ranking + slot corruption,n0.001_f1e-05,3,1.9313696736893
+metashift,elrep,Slot ranking + slot corruption,n0.001_f3e-05,3,1.9313696736893
+metashift,elrep,Slot ranking + slot corruption,n0.001_f0.0001,3,1.9352915137431512
+nicopp_autumn_rock,elrep,Slot ranking + slot corruption,n0.0001_f1e-05,3,1.5458924795434663
+nicopp_autumn_rock,elrep,Slot ranking + slot corruption,n0.0001_f3e-05,3,1.5460866765809638
+nicopp_autumn_rock,elrep,Slot ranking + slot corruption,n0.0001_f0.0001,3,1.546675003482475
+nicopp_autumn_rock,elrep,Slot ranking + slot corruption,n0.0003_f1e-05,3,1.5458737793208446
+nicopp_autumn_rock,elrep,Slot ranking + slot corruption,n0.0003_f3e-05,3,1.5465069453474038
+nicopp_autumn_rock,elrep,Slot ranking + slot corruption,n0.0003_f0.0001,3,1.5459649404460265
+nicopp_autumn_rock,elrep,Slot ranking + slot corruption,n0.001_f1e-05,3,1.5458036315735824
+nicopp_autumn_rock,elrep,Slot ranking + slot corruption,n0.001_f3e-05,3,1.5459002650845308
+nicopp_autumn_rock,elrep,Slot ranking + slot corruption,n0.001_f0.0001,3,1.5473119326328926
+nicopp_dim_grass,elrep,Slot ranking + slot corruption,n0.0001_f1e-05,3,1.5311111177612418
+nicopp_dim_grass,elrep,Slot ranking + slot corruption,n0.0001_f3e-05,3,1.531412093756457
+nicopp_dim_grass,elrep,Slot ranking + slot corruption,n0.0001_f0.0001,3,1.532195424376911
+nicopp_dim_grass,elrep,Slot ranking + slot corruption,n0.0003_f1e-05,3,1.5306411509534381
+nicopp_dim_grass,elrep,Slot ranking + slot corruption,n0.0003_f3e-05,3,1.5318669289735543
+nicopp_dim_grass,elrep,Slot ranking + slot corruption,n0.0003_f0.0001,3,1.5328274396887
+nicopp_dim_grass,elrep,Slot ranking + slot corruption,n0.001_f1e-05,3,1.532456104932925
+nicopp_dim_grass,elrep,Slot ranking + slot corruption,n0.001_f3e-05,3,1.5319270943796124
+nicopp_dim_grass,elrep,Slot ranking + slot corruption,n0.001_f0.0001,3,1.5326757418212302
+nicopp_outdoor_water,elrep,Slot ranking + slot corruption,n0.0001_f1e-05,3,1.5680156864406747
+nicopp_outdoor_water,elrep,Slot ranking + slot corruption,n0.0001_f3e-05,3,1.5694417202910704
+nicopp_outdoor_water,elrep,Slot ranking + slot corruption,n0.0001_f0.0001,3,1.5707559712492174
+nicopp_outdoor_water,elrep,Slot ranking + slot corruption,n0.0003_f1e-05,3,1.5694640268337416
+nicopp_outdoor_water,elrep,Slot ranking + slot corruption,n0.0003_f3e-05,3,1.5695696775077217
+nicopp_outdoor_water,elrep,Slot ranking + slot corruption,n0.0003_f0.0001,3,1.5707702683853
+nicopp_outdoor_water,elrep,Slot ranking + slot corruption,n0.001_f1e-05,3,1.5685979202623397
+nicopp_outdoor_water,elrep,Slot ranking + slot corruption,n0.001_f3e-05,3,1.5703594008508261
+nicopp_outdoor_water,elrep,Slot ranking + slot corruption,n0.001_f0.0001,3,1.568801176597536
+waterbirds,sagm,Original slot order,alpha0.0005,3,1.35156482673216
+waterbirds,sagm,Original slot order,alpha0.001,3,1.3471032571176924
+celeba,sagm,Original slot order,alpha0.0005,3,1.7913602972846772
+celeba,sagm,Original slot order,alpha0.001,3,1.7925947589521611
+metashift,sagm,Original slot order,alpha0.0005,3,1.8587925707287827
+metashift,sagm,Original slot order,alpha0.001,3,1.8587925707287827
+nicopp_autumn_rock,sagm,Original slot order,alpha0.0005,3,1.4742920069988787
+nicopp_autumn_rock,sagm,Original slot order,alpha0.001,3,1.4744891957531703
+nicopp_dim_grass,sagm,Original slot order,alpha0.0005,3,1.443913523058405
+nicopp_dim_grass,sagm,Original slot order,alpha0.001,3,1.4429872517514364
+nicopp_outdoor_water,sagm,Original slot order,alpha0.0005,3,1.4927056222739115
+nicopp_outdoor_water,sagm,Original slot order,alpha0.001,3,1.4927828905800318
+waterbirds,sagm,Slot ranking,alpha0.0005,3,1.4197501142500275
+waterbirds,sagm,Slot ranking,alpha0.001,3,1.4262143868922479
+celeba,sagm,Slot ranking,alpha0.0005,3,1.7874827431140148
+celeba,sagm,Slot ranking,alpha0.001,3,1.789010180223875
+metashift,sagm,Slot ranking,alpha0.0005,3,1.8901957731162948
+metashift,sagm,Slot ranking,alpha0.001,3,1.8921563962915073
+nicopp_autumn_rock,sagm,Slot ranking,alpha0.0005,3,1.5140637496594567
+nicopp_autumn_rock,sagm,Slot ranking,alpha0.001,3,1.513525560393072
+nicopp_dim_grass,sagm,Slot ranking,alpha0.0005,3,1.4976857571212177
+nicopp_dim_grass,sagm,Slot ranking,alpha0.001,3,1.4973293350527772
+nicopp_outdoor_water,sagm,Slot ranking,alpha0.0005,3,1.5351391774203984
+nicopp_outdoor_water,sagm,Slot ranking,alpha0.001,3,1.5352427735893552
+waterbirds,sagm,Slot ranking + slot corruption,alpha0.0005,3,1.6164148660466748
+waterbirds,sagm,Slot ranking + slot corruption,alpha0.001,3,1.6089864214073242
+celeba,sagm,Slot ranking + slot corruption,alpha0.0005,3,1.7944536806921318
+celeba,sagm,Slot ranking + slot corruption,alpha0.001,3,1.7950742894106682
+metashift,sagm,Slot ranking + slot corruption,alpha0.0005,3,1.9294083041302326
+metashift,sagm,Slot ranking + slot corruption,alpha0.001,3,1.9294083041302326
+nicopp_autumn_rock,sagm,Slot ranking + slot corruption,alpha0.0005,3,1.5585434803591494
+nicopp_autumn_rock,sagm,Slot ranking + slot corruption,alpha0.001,3,1.558137301488007
+nicopp_dim_grass,sagm,Slot ranking + slot corruption,alpha0.0005,3,1.544873090961086
+nicopp_dim_grass,sagm,Slot ranking + slot corruption,alpha0.001,3,1.5441989529550713
+nicopp_outdoor_water,sagm,Slot ranking + slot corruption,alpha0.0005,3,1.5801040724569537
+nicopp_outdoor_water,sagm,Slot ranking + slot corruption,alpha0.001,3,1.5797594296576236
+waterbirds,swad,Original slot order,tolerance0.2,3,1.226599556205645
+waterbirds,swad,Original slot order,tolerance0.3,3,1.2385079966828656
+celeba,swad,Original slot order,tolerance0.2,3,1.785263960056971
+celeba,swad,Original slot order,tolerance0.3,3,1.784707371248916
+metashift,swad,Original slot order,tolerance0.2,3,1.8332635049304207
+metashift,swad,Original slot order,tolerance0.3,3,1.8332635049304207
+nicopp_autumn_rock,swad,Original slot order,tolerance0.2,3,1.4731948726893265
+nicopp_autumn_rock,swad,Original slot order,tolerance0.3,3,1.472647329798195
+nicopp_dim_grass,swad,Original slot order,tolerance0.2,3,1.4360262696887662
+nicopp_dim_grass,swad,Original slot order,tolerance0.3,3,1.4370731444215696
+nicopp_outdoor_water,swad,Original slot order,tolerance0.2,3,1.4884371058034647
+nicopp_outdoor_water,swad,Original slot order,tolerance0.3,3,1.4852012718422387
+waterbirds,swad,Slot ranking,tolerance0.2,3,1.310867107872731
+waterbirds,swad,Slot ranking,tolerance0.3,3,1.3298735462725213
+celeba,swad,Slot ranking,tolerance0.2,3,1.778742803015339
+celeba,swad,Slot ranking,tolerance0.3,3,1.7795171569417423
+metashift,swad,Slot ranking,tolerance0.2,3,1.888235132979134
+metashift,swad,Slot ranking,tolerance0.3,3,1.888235132979134
+nicopp_autumn_rock,swad,Slot ranking,tolerance0.2,3,1.4948504452943785
+nicopp_autumn_rock,swad,Slot ranking,tolerance0.3,3,1.4897601073745232
+nicopp_dim_grass,swad,Slot ranking,tolerance0.2,3,1.4823815420453321
+nicopp_dim_grass,swad,Slot ranking,tolerance0.3,3,1.4785757796757986
+nicopp_outdoor_water,swad,Slot ranking,tolerance0.2,3,1.5167249750213492
+nicopp_outdoor_water,swad,Slot ranking,tolerance0.3,3,1.5143212515500382
+waterbirds,swad,Slot ranking + slot corruption,tolerance0.2,3,1.5170544959172299
+waterbirds,swad,Slot ranking + slot corruption,tolerance0.3,3,1.5271341470731226
+celeba,swad,Slot ranking + slot corruption,tolerance0.2,3,1.7900082519497038
+celeba,swad,Slot ranking + slot corruption,tolerance0.3,3,1.7889222742369204
+metashift,swad,Slot ranking + slot corruption,tolerance0.2,3,1.917641256938907
+metashift,swad,Slot ranking + slot corruption,tolerance0.3,3,1.917641256938907
+nicopp_autumn_rock,swad,Slot ranking + slot corruption,tolerance0.2,3,1.555083281591072
+nicopp_autumn_rock,swad,Slot ranking + slot corruption,tolerance0.3,3,1.5551938090711648
+nicopp_dim_grass,swad,Slot ranking + slot corruption,tolerance0.2,3,1.5407583761228665
+nicopp_dim_grass,swad,Slot ranking + slot corruption,tolerance0.3,3,1.5405788532742453
+nicopp_outdoor_water,swad,Slot ranking + slot corruption,tolerance0.2,3,1.5754199981866488
+nicopp_outdoor_water,swad,Slot ranking + slot corruption,tolerance0.3,3,1.5769848984707566
+waterbirds,scer,Original slot order,spur0.1_core0.1,3,1.3126599723155454
+waterbirds,scer,Original slot order,spur0.1_core0.5,3,1.3063608371877609
+waterbirds,scer,Original slot order,spur0.1_core1,3,1.3234793432976797
+waterbirds,scer,Original slot order,spur0.5_core0.1,3,1.317405223764925
+waterbirds,scer,Original slot order,spur0.5_core0.5,3,1.3515887348147633
+waterbirds,scer,Original slot order,spur0.5_core1,3,1.349042763251435
+waterbirds,scer,Original slot order,spur1_core0.1,3,1.3241298816318496
+waterbirds,scer,Original slot order,spur1_core0.5,3,1.3336994317205502
+waterbirds,scer,Original slot order,spur1_core1,3,1.3652952839067662
+celeba,scer,Original slot order,spur0.1_core0.1,3,1.789033796739723
+celeba,scer,Original slot order,spur0.1_core0.5,3,1.7867572624065116
+celeba,scer,Original slot order,spur0.1_core1,3,1.7877837935019096
+celeba,scer,Original slot order,spur0.5_core0.1,3,1.789465156321456
+celeba,scer,Original slot order,spur0.5_core0.5,3,1.7867433335754879
+celeba,scer,Original slot order,spur0.5_core1,3,1.7878494995125447
+celeba,scer,Original slot order,spur1_core0.1,3,1.7886468378950156
+celeba,scer,Original slot order,spur1_core0.5,3,1.7855580944909857
+celeba,scer,Original slot order,spur1_core1,3,1.787022129227978
+metashift,scer,Original slot order,spur0.1_core0.1,3,1.868606653065047
+metashift,scer,Original slot order,spur0.1_core0.5,3,1.8529285449797888
+metashift,scer,Original slot order,spur0.1_core1,3,1.8588121283191903
+metashift,scer,Original slot order,spur0.5_core0.1,3,1.8627310469022236
+metashift,scer,Original slot order,spur0.5_core0.5,3,1.8607473167485196
+metashift,scer,Original slot order,spur0.5_core1,3,1.8627345267535869
+metashift,scer,Original slot order,spur1_core0.1,3,1.8686123225043014
+metashift,scer,Original slot order,spur1_core0.5,3,1.8587971797875145
+metashift,scer,Original slot order,spur1_core1,3,1.8588064255777528
+nicopp_autumn_rock,scer,Original slot order,spur0.1_core0.1,3,1.4688691054297978
+nicopp_autumn_rock,scer,Original slot order,spur0.1_core0.5,3,1.4679630930928969
+nicopp_autumn_rock,scer,Original slot order,spur0.1_core1,3,1.4679480541271623
+nicopp_autumn_rock,scer,Original slot order,spur0.5_core0.1,3,1.467226175849735
+nicopp_autumn_rock,scer,Original slot order,spur0.5_core0.5,3,1.4680004227239911
+nicopp_autumn_rock,scer,Original slot order,spur0.5_core1,3,1.4682460921104796
+nicopp_autumn_rock,scer,Original slot order,spur1_core0.1,3,1.4673349401071238
+nicopp_autumn_rock,scer,Original slot order,spur1_core0.5,3,1.4683362770656687
+nicopp_autumn_rock,scer,Original slot order,spur1_core1,3,1.4675227140473648
+nicopp_dim_grass,scer,Original slot order,spur0.1_core0.1,3,1.4333588529761183
+nicopp_dim_grass,scer,Original slot order,spur0.1_core0.5,3,1.4324741063691533
+nicopp_dim_grass,scer,Original slot order,spur0.1_core1,3,1.4331410490659502
+nicopp_dim_grass,scer,Original slot order,spur0.5_core0.1,3,1.4327190530564176
+nicopp_dim_grass,scer,Original slot order,spur0.5_core0.5,3,1.433498320649883
+nicopp_dim_grass,scer,Original slot order,spur0.5_core1,3,1.4336744351138655
+nicopp_dim_grass,scer,Original slot order,spur1_core0.1,3,1.4324492386088856
+nicopp_dim_grass,scer,Original slot order,spur1_core0.5,3,1.4331774307534138
+nicopp_dim_grass,scer,Original slot order,spur1_core1,3,1.4330827290742656
+nicopp_outdoor_water,scer,Original slot order,spur0.1_core0.1,3,1.4869575702262814
+nicopp_outdoor_water,scer,Original slot order,spur0.1_core0.5,3,1.486871339173555
+nicopp_outdoor_water,scer,Original slot order,spur0.1_core1,3,1.486524694646618
+nicopp_outdoor_water,scer,Original slot order,spur0.5_core0.1,3,1.4870336793018797
+nicopp_outdoor_water,scer,Original slot order,spur0.5_core0.5,3,1.4881447486778114
+nicopp_outdoor_water,scer,Original slot order,spur0.5_core1,3,1.4875770294333523
+nicopp_outdoor_water,scer,Original slot order,spur1_core0.1,3,1.486301091807334
+nicopp_outdoor_water,scer,Original slot order,spur1_core0.5,3,1.4868623006037975
+nicopp_outdoor_water,scer,Original slot order,spur1_core1,3,1.4870624438084343
+waterbirds,scer,Slot ranking,spur0.1_core0.1,3,1.4085737797487816
+waterbirds,scer,Slot ranking,spur0.1_core0.5,3,1.3506948199440474
+waterbirds,scer,Slot ranking,spur0.1_core1,3,1.4050084373362743
+waterbirds,scer,Slot ranking,spur0.5_core0.1,3,1.405674374573952
+waterbirds,scer,Slot ranking,spur0.5_core0.5,3,1.4296082859779007
+waterbirds,scer,Slot ranking,spur0.5_core1,3,1.4562716505951812
+waterbirds,scer,Slot ranking,spur1_core0.1,3,1.4130254403577982
+waterbirds,scer,Slot ranking,spur1_core0.5,3,1.3974706939560566
+waterbirds,scer,Slot ranking,spur1_core1,3,1.4344559116753282
+celeba,scer,Slot ranking,spur0.1_core0.1,3,1.7822749553711255
+celeba,scer,Slot ranking,spur0.1_core0.5,3,1.7824147142964175
+celeba,scer,Slot ranking,spur0.1_core1,3,1.7817558144504277
+celeba,scer,Slot ranking,spur0.5_core0.1,3,1.7811800959991242
+celeba,scer,Slot ranking,spur0.5_core0.5,3,1.7825167963830146
+celeba,scer,Slot ranking,spur0.5_core1,3,1.7828996995578201
+celeba,scer,Slot ranking,spur1_core0.1,3,1.7826992587851567
+celeba,scer,Slot ranking,spur1_core0.5,3,1.7831810206554568
+celeba,scer,Slot ranking,spur1_core1,3,1.7802768299212293
+metashift,scer,Slot ranking,spur0.1_core0.1,3,1.8960771167915869
+metashift,scer,Slot ranking,spur0.1_core0.5,3,1.8960776765499823
+metashift,scer,Slot ranking,spur0.1_core1,3,1.8980372140724295
+metashift,scer,Slot ranking,spur0.5_core0.1,3,1.896077981880907
+metashift,scer,Slot ranking,spur0.5_core0.5,3,1.8980389273331457
+metashift,scer,Slot ranking,spur0.5_core1,3,1.8999998727853844
+metashift,scer,Slot ranking,spur1_core0.1,3,1.899999838861487
+metashift,scer,Slot ranking,spur1_core0.5,3,1.896077981880907
+metashift,scer,Slot ranking,spur1_core1,3,1.8999998558234354
+nicopp_autumn_rock,scer,Slot ranking,spur0.1_core0.1,3,1.5016393340380834
+nicopp_autumn_rock,scer,Slot ranking,spur0.1_core0.5,3,1.5010145799108667
+nicopp_autumn_rock,scer,Slot ranking,spur0.1_core1,3,1.502833310799419
+nicopp_autumn_rock,scer,Slot ranking,spur0.5_core0.1,3,1.5028043855715583
+nicopp_autumn_rock,scer,Slot ranking,spur0.5_core0.5,3,1.5034396899212037
+nicopp_autumn_rock,scer,Slot ranking,spur0.5_core1,3,1.5031553573001375
+nicopp_autumn_rock,scer,Slot ranking,spur1_core0.1,3,1.5025621144610473
+nicopp_autumn_rock,scer,Slot ranking,spur1_core0.5,3,1.5034348180011914
+nicopp_autumn_rock,scer,Slot ranking,spur1_core1,3,1.5030439208340052
+nicopp_dim_grass,scer,Slot ranking,spur0.1_core0.1,3,1.4875860355900956
+nicopp_dim_grass,scer,Slot ranking,spur0.1_core0.5,3,1.486742126447033
+nicopp_dim_grass,scer,Slot ranking,spur0.1_core1,3,1.485689825398871
+nicopp_dim_grass,scer,Slot ranking,spur0.5_core0.1,3,1.4874226587211536
+nicopp_dim_grass,scer,Slot ranking,spur0.5_core0.5,3,1.486383495710512
+nicopp_dim_grass,scer,Slot ranking,spur0.5_core1,3,1.4861347061941785
+nicopp_dim_grass,scer,Slot ranking,spur1_core0.1,3,1.4867973184954317
+nicopp_dim_grass,scer,Slot ranking,spur1_core0.5,3,1.4863877813079698
+nicopp_dim_grass,scer,Slot ranking,spur1_core1,3,1.4864663487848173
+nicopp_outdoor_water,scer,Slot ranking,spur0.1_core0.1,3,1.5249139479722054
+nicopp_outdoor_water,scer,Slot ranking,spur0.1_core0.5,3,1.524630022933018
+nicopp_outdoor_water,scer,Slot ranking,spur0.1_core1,3,1.5243972028138444
+nicopp_outdoor_water,scer,Slot ranking,spur0.5_core0.1,3,1.52548405958124
+nicopp_outdoor_water,scer,Slot ranking,spur0.5_core0.5,3,1.5264600668882988
+nicopp_outdoor_water,scer,Slot ranking,spur0.5_core1,3,1.5252569245817462
+nicopp_outdoor_water,scer,Slot ranking,spur1_core0.1,3,1.5273552830490233
+nicopp_outdoor_water,scer,Slot ranking,spur1_core0.5,3,1.5262090054978676
+nicopp_outdoor_water,scer,Slot ranking,spur1_core1,3,1.5268290528510091
+waterbirds,scer,Slot ranking + slot corruption,spur0.1_core0.1,3,1.61844090211516
+waterbirds,scer,Slot ranking + slot corruption,spur0.1_core0.5,3,1.6167489135940427
+waterbirds,scer,Slot ranking + slot corruption,spur0.1_core1,3,1.6065592932142623
+waterbirds,scer,Slot ranking + slot corruption,spur0.5_core0.1,3,1.6236266067466378
+waterbirds,scer,Slot ranking + slot corruption,spur0.5_core0.5,3,1.6160254586933416
+waterbirds,scer,Slot ranking + slot corruption,spur0.5_core1,3,1.6223608156957028
+waterbirds,scer,Slot ranking + slot corruption,spur1_core0.1,3,1.619730251276079
+waterbirds,scer,Slot ranking + slot corruption,spur1_core0.5,3,1.6036672217249757
+waterbirds,scer,Slot ranking + slot corruption,spur1_core1,3,1.6210511970102546
+celeba,scer,Slot ranking + slot corruption,spur0.1_core0.1,3,1.7910198630339285
+celeba,scer,Slot ranking + slot corruption,spur0.1_core0.5,3,1.7927106715729704
+celeba,scer,Slot ranking + slot corruption,spur0.1_core1,3,1.7933627638082872
+celeba,scer,Slot ranking + slot corruption,spur0.5_core0.1,3,1.7904227538857622
+celeba,scer,Slot ranking + slot corruption,spur0.5_core0.5,3,1.7918868636393386
+celeba,scer,Slot ranking + slot corruption,spur0.5_core1,3,1.792735509559794
+celeba,scer,Slot ranking + slot corruption,spur1_core0.1,3,1.7891976567196959
+celeba,scer,Slot ranking + slot corruption,spur1_core0.5,3,1.792764571899174
+celeba,scer,Slot ranking + slot corruption,spur1_core1,3,1.7928326751035542
+metashift,scer,Slot ranking + slot corruption,spur0.1_core0.1,3,1.939210605232181
+metashift,scer,Slot ranking + slot corruption,spur0.1_core0.5,3,1.935290851929502
+metashift,scer,Slot ranking + slot corruption,spur0.1_core1,3,1.937252136670021
+metashift,scer,Slot ranking + slot corruption,spur0.5_core0.1,3,1.9392088050684826
+metashift,scer,Slot ranking + slot corruption,spur0.5_core0.5,3,1.9333307718096424
+metashift,scer,Slot ranking + slot corruption,spur0.5_core1,3,1.9333300254257881
+metashift,scer,Slot ranking + slot corruption,spur1_core0.1,3,1.9411730267631733
+metashift,scer,Slot ranking + slot corruption,spur1_core0.5,3,1.9333308905679383
+metashift,scer,Slot ranking + slot corruption,spur1_core1,3,1.933331501316084
+nicopp_autumn_rock,scer,Slot ranking + slot corruption,spur0.1_core0.1,3,1.544988906140021
+nicopp_autumn_rock,scer,Slot ranking + slot corruption,spur0.1_core0.5,3,1.5460086236859396
+nicopp_autumn_rock,scer,Slot ranking + slot corruption,spur0.1_core1,3,1.5496358230920002
+nicopp_autumn_rock,scer,Slot ranking + slot corruption,spur0.5_core0.1,3,1.5464519376941481
+nicopp_autumn_rock,scer,Slot ranking + slot corruption,spur0.5_core0.5,3,1.5471970729414188
+nicopp_autumn_rock,scer,Slot ranking + slot corruption,spur0.5_core1,3,1.5485264321417527
+nicopp_autumn_rock,scer,Slot ranking + slot corruption,spur1_core0.1,3,1.5459114200885153
+nicopp_autumn_rock,scer,Slot ranking + slot corruption,spur1_core0.5,3,1.5465022896977156
+nicopp_autumn_rock,scer,Slot ranking + slot corruption,spur1_core1,3,1.5496026805434056
+nicopp_dim_grass,scer,Slot ranking + slot corruption,spur0.1_core0.1,3,1.5320170982174526
+nicopp_dim_grass,scer,Slot ranking + slot corruption,spur0.1_core0.5,3,1.531282875177041
+nicopp_dim_grass,scer,Slot ranking + slot corruption,spur0.1_core1,3,1.5304329671041181
+nicopp_dim_grass,scer,Slot ranking + slot corruption,spur0.5_core0.1,3,1.5305182173541656
+nicopp_dim_grass,scer,Slot ranking + slot corruption,spur0.5_core0.5,3,1.5299234251154334
+nicopp_dim_grass,scer,Slot ranking + slot corruption,spur0.5_core1,3,1.531296167829766
+nicopp_dim_grass,scer,Slot ranking + slot corruption,spur1_core0.1,3,1.530193478459999
+nicopp_dim_grass,scer,Slot ranking + slot corruption,spur1_core0.5,3,1.530562182316147
+nicopp_dim_grass,scer,Slot ranking + slot corruption,spur1_core1,3,1.528796890571126
+nicopp_outdoor_water,scer,Slot ranking + slot corruption,spur0.1_core0.1,3,1.5690227769235936
+nicopp_outdoor_water,scer,Slot ranking + slot corruption,spur0.1_core0.5,3,1.5678021834350062
+nicopp_outdoor_water,scer,Slot ranking + slot corruption,spur0.1_core1,3,1.5683076501350055
+nicopp_outdoor_water,scer,Slot ranking + slot corruption,spur0.5_core0.1,3,1.568095248594333
+nicopp_outdoor_water,scer,Slot ranking + slot corruption,spur0.5_core0.5,3,1.568959936032399
+nicopp_outdoor_water,scer,Slot ranking + slot corruption,spur0.5_core1,3,1.5677052246666847
+nicopp_outdoor_water,scer,Slot ranking + slot corruption,spur1_core0.1,3,1.5681396231028935
+nicopp_outdoor_water,scer,Slot ranking + slot corruption,spur1_core0.5,3,1.5697959931509171
+nicopp_outdoor_water,scer,Slot ranking + slot corruption,spur1_core1,3,1.5689101694478147
+waterbirds,laat,Slot ranking,reg0.001,3,1.409613313130894
+waterbirds,laat,Slot ranking,reg0.01,3,1.4245263901729925
+waterbirds,laat,Slot ranking,reg0.03,3,1.4217191477861997
+waterbirds,laat,Slot ranking,reg0.1,3,1.4350231649873197
+waterbirds,laat,Slot ranking,reg0.5,3,1.4383393834458111
+waterbirds,laat,Slot ranking,reg1,3,1.4394033837759057
+waterbirds,laat,Slot ranking,reg2,3,1.429486894270946
+waterbirds,laat,Slot ranking,reg5,3,1.4270566583055624
+waterbirds,laat,Slot ranking,reg10,3,1.410918434891115
+waterbirds,laat,Slot ranking,reg100,3,1.352098866486059
+waterbirds,laat,Slot ranking,reg1000,3,1.29792930585257
+celeba,laat,Slot ranking,reg0.001,3,1.7841042320332343
+celeba,laat,Slot ranking,reg0.01,3,1.7840885833289126
+celeba,laat,Slot ranking,reg0.03,3,1.7849775415711582
+celeba,laat,Slot ranking,reg0.1,3,1.7842247646647034
+celeba,laat,Slot ranking,reg0.5,3,1.7839426376404415
+celeba,laat,Slot ranking,reg1,3,1.7844915133780528
+celeba,laat,Slot ranking,reg2,3,1.7846654132272854
+celeba,laat,Slot ranking,reg5,3,1.7840286511677899
+celeba,laat,Slot ranking,reg10,3,1.7834309864687938
+celeba,laat,Slot ranking,reg100,3,1.7797211787120226
+celeba,laat,Slot ranking,reg1000,3,1.7720769767990119
+metashift,laat,Slot ranking,reg0.001,3,1.8941167310977436
+metashift,laat,Slot ranking,reg0.01,3,1.8960770659039798
+metashift,laat,Slot ranking,reg0.03,3,1.8960770659039798
+metashift,laat,Slot ranking,reg0.1,3,1.896077676549982
+metashift,laat,Slot ranking,reg0.5,3,1.9039197281521194
+metashift,laat,Slot ranking,reg1,3,1.9039208816544402
+metashift,laat,Slot ranking,reg2,3,1.9039203388579935
+metashift,laat,Slot ranking,reg5,3,1.8999984139679862
+metashift,laat,Slot ranking,reg10,3,1.9078425181314467
+metashift,laat,Slot ranking,reg100,3,1.8901950946207366
+metashift,laat,Slot ranking,reg1000,3,1.8764704440587299
+nicopp_autumn_rock,laat,Slot ranking,reg0.001,3,1.5013741061512738
+nicopp_autumn_rock,laat,Slot ranking,reg0.01,3,1.5014286222566604
+nicopp_autumn_rock,laat,Slot ranking,reg0.03,3,1.501241804413483
+nicopp_autumn_rock,laat,Slot ranking,reg0.1,3,1.5017347730883976
+nicopp_autumn_rock,laat,Slot ranking,reg0.5,3,1.5010360522464234
+nicopp_autumn_rock,laat,Slot ranking,reg1,3,1.5012648325663545
+nicopp_autumn_rock,laat,Slot ranking,reg2,3,1.502662293381985
+nicopp_autumn_rock,laat,Slot ranking,reg5,3,1.5038737330156804
+nicopp_autumn_rock,laat,Slot ranking,reg10,3,1.5038711790345403
+nicopp_autumn_rock,laat,Slot ranking,reg100,3,1.5042680067816174
+nicopp_autumn_rock,laat,Slot ranking,reg1000,3,1.485898464041125
+nicopp_dim_grass,laat,Slot ranking,reg0.001,3,1.4879400108904217
+nicopp_dim_grass,laat,Slot ranking,reg0.01,3,1.4872991343426347
+nicopp_dim_grass,laat,Slot ranking,reg0.03,3,1.487811895829737
+nicopp_dim_grass,laat,Slot ranking,reg0.1,3,1.4870859987697231
+nicopp_dim_grass,laat,Slot ranking,reg0.5,3,1.4866431467599128
+nicopp_dim_grass,laat,Slot ranking,reg1,3,1.486898184260238
+nicopp_dim_grass,laat,Slot ranking,reg2,3,1.4861484743152154
+nicopp_dim_grass,laat,Slot ranking,reg5,3,1.4873562952832395
+nicopp_dim_grass,laat,Slot ranking,reg10,3,1.4882802836405162
+nicopp_dim_grass,laat,Slot ranking,reg100,3,1.4869767778013152
+nicopp_dim_grass,laat,Slot ranking,reg1000,3,1.4627752628755555
+nicopp_outdoor_water,laat,Slot ranking,reg0.001,3,1.5257277157567815
+nicopp_outdoor_water,laat,Slot ranking,reg0.01,3,1.5247824899590363
+nicopp_outdoor_water,laat,Slot ranking,reg0.03,3,1.5244003964443593
+nicopp_outdoor_water,laat,Slot ranking,reg0.1,3,1.5251028734704677
+nicopp_outdoor_water,laat,Slot ranking,reg0.5,3,1.5246126781918052
+nicopp_outdoor_water,laat,Slot ranking,reg1,3,1.5254242299450531
+nicopp_outdoor_water,laat,Slot ranking,reg2,3,1.5259898711670334
+nicopp_outdoor_water,laat,Slot ranking,reg5,3,1.5261120826378167
+nicopp_outdoor_water,laat,Slot ranking,reg10,3,1.5271045424548901
+nicopp_outdoor_water,laat,Slot ranking,reg100,3,1.5268090611782357
+nicopp_outdoor_water,laat,Slot ranking,reg1000,3,1.5038491336670852
+waterbirds,laat,Slot ranking + slot corruption,reg0.001,3,1.6157434066555536
+waterbirds,laat,Slot ranking + slot corruption,reg0.01,3,1.618543623125302
+waterbirds,laat,Slot ranking + slot corruption,reg0.03,3,1.6249208475766448
+waterbirds,laat,Slot ranking + slot corruption,reg0.1,3,1.6184690913211772
+waterbirds,laat,Slot ranking + slot corruption,reg0.5,3,1.6127424029071442
+waterbirds,laat,Slot ranking + slot corruption,reg1,3,1.6228965510170184
+waterbirds,laat,Slot ranking + slot corruption,reg2,3,1.6220941848898311
+waterbirds,laat,Slot ranking + slot corruption,reg5,3,1.61260443687979
+waterbirds,laat,Slot ranking + slot corruption,reg10,3,1.6172285890268217
+waterbirds,laat,Slot ranking + slot corruption,reg100,3,1.59933661908467
+waterbirds,laat,Slot ranking + slot corruption,reg1000,3,1.536263221251344
+celeba,laat,Slot ranking + slot corruption,reg0.001,3,1.7928806138717779
+celeba,laat,Slot ranking + slot corruption,reg0.01,3,1.7934009218715623
+celeba,laat,Slot ranking + slot corruption,reg0.03,3,1.7943216425067376
+celeba,laat,Slot ranking + slot corruption,reg0.1,3,1.7931874932180436
+celeba,laat,Slot ranking + slot corruption,reg0.5,3,1.794002302290951
+celeba,laat,Slot ranking + slot corruption,reg1,3,1.793048510297157
+celeba,laat,Slot ranking + slot corruption,reg2,3,1.7922924205246193
+celeba,laat,Slot ranking + slot corruption,reg5,3,1.7923445396548707
+celeba,laat,Slot ranking + slot corruption,reg10,3,1.7918784472833627
+celeba,laat,Slot ranking + slot corruption,reg100,3,1.7894116150415817
+celeba,laat,Slot ranking + slot corruption,reg1000,3,1.7754197869801789
+metashift,laat,Slot ranking + slot corruption,reg0.001,3,1.9313696736893
+metashift,laat,Slot ranking + slot corruption,reg0.01,3,1.9333285323480947
+metashift,laat,Slot ranking + slot corruption,reg0.03,3,1.9333299405455981
+metashift,laat,Slot ranking + slot corruption,reg0.1,3,1.9313696736893
+metashift,laat,Slot ranking + slot corruption,reg0.5,3,1.9313692663401023
+metashift,laat,Slot ranking + slot corruption,reg1,3,1.9294089146036146
+metashift,laat,Slot ranking + slot corruption,reg2,3,1.9372502534956932
+metashift,laat,Slot ranking + slot corruption,reg5,3,1.9254876854758056
+metashift,laat,Slot ranking + slot corruption,reg10,3,1.927448834483755
+metashift,laat,Slot ranking + slot corruption,reg100,3,1.92352792741809
+metashift,laat,Slot ranking + slot corruption,reg1000,3,1.8941127613836233
+nicopp_autumn_rock,laat,Slot ranking + slot corruption,reg0.001,3,1.5455664676640517
+nicopp_autumn_rock,laat,Slot ranking + slot corruption,reg0.01,3,1.5455383968774454
+nicopp_autumn_rock,laat,Slot ranking + slot corruption,reg0.03,3,1.5457188413480705
+nicopp_autumn_rock,laat,Slot ranking + slot corruption,reg0.1,3,1.5452247939331059
+nicopp_autumn_rock,laat,Slot ranking + slot corruption,reg0.5,3,1.5445353759014544
+nicopp_autumn_rock,laat,Slot ranking + slot corruption,reg1,3,1.5452139735009063
+nicopp_autumn_rock,laat,Slot ranking + slot corruption,reg2,3,1.5438779534225644
+nicopp_autumn_rock,laat,Slot ranking + slot corruption,reg5,3,1.5435207561328326
+nicopp_autumn_rock,laat,Slot ranking + slot corruption,reg10,3,1.5432372717666205
+nicopp_autumn_rock,laat,Slot ranking + slot corruption,reg100,3,1.5412652677233225
+nicopp_autumn_rock,laat,Slot ranking + slot corruption,reg1000,3,1.5318710144654635
+nicopp_dim_grass,laat,Slot ranking + slot corruption,reg0.001,3,1.5302073219125123
+nicopp_dim_grass,laat,Slot ranking + slot corruption,reg0.01,3,1.531607310025554
+nicopp_dim_grass,laat,Slot ranking + slot corruption,reg0.03,3,1.5315407659627762
+nicopp_dim_grass,laat,Slot ranking + slot corruption,reg0.1,3,1.5307973245036335
+nicopp_dim_grass,laat,Slot ranking + slot corruption,reg0.5,3,1.529701518563095
+nicopp_dim_grass,laat,Slot ranking + slot corruption,reg1,3,1.5292360429925183
+nicopp_dim_grass,laat,Slot ranking + slot corruption,reg2,3,1.5291956227940586
+nicopp_dim_grass,laat,Slot ranking + slot corruption,reg5,3,1.5308059557200175
+nicopp_dim_grass,laat,Slot ranking + slot corruption,reg10,3,1.5295570726204903
+nicopp_dim_grass,laat,Slot ranking + slot corruption,reg100,3,1.5296827330538967
+nicopp_dim_grass,laat,Slot ranking + slot corruption,reg1000,3,1.516924352479439
+nicopp_outdoor_water,laat,Slot ranking + slot corruption,reg0.001,3,1.569790177203214
+nicopp_outdoor_water,laat,Slot ranking + slot corruption,reg0.01,3,1.5687357115899996
+nicopp_outdoor_water,laat,Slot ranking + slot corruption,reg0.03,3,1.5698106622626644
+nicopp_outdoor_water,laat,Slot ranking + slot corruption,reg0.1,3,1.5691637465705413
+nicopp_outdoor_water,laat,Slot ranking + slot corruption,reg0.5,3,1.56929374254518
+nicopp_outdoor_water,laat,Slot ranking + slot corruption,reg1,3,1.5686898693980798
+nicopp_outdoor_water,laat,Slot ranking + slot corruption,reg2,3,1.5680217599070954
+nicopp_outdoor_water,laat,Slot ranking + slot corruption,reg5,3,1.5684523056219424
+nicopp_outdoor_water,laat,Slot ranking + slot corruption,reg10,3,1.568138957647168
+nicopp_outdoor_water,laat,Slot ranking + slot corruption,reg100,3,1.568006498227324
+nicopp_outdoor_water,laat,Slot ranking + slot corruption,reg1000,3,1.554242878135004
+waterbirds,hard_removal,Slot ranking,k1,3,1.6244969239746538
+waterbirds,hard_removal,Slot ranking,k2,3,1.5591683276635893
+waterbirds,hard_removal,Slot ranking,k3,3,1.5042325270096708
+waterbirds,hard_removal,Slot ranking,k4,3,1.46395292819824
+waterbirds,hard_removal,Slot ranking,k5,3,1.4318235518662472
+waterbirds,hard_removal,Slot ranking,k6,3,1.4266305955283822
+celeba,hard_removal,Slot ranking,k1,3,1.7803727517661796
+celeba,hard_removal,Slot ranking,k2,3,1.7932063903671989
+celeba,hard_removal,Slot ranking,k3,3,1.792878915993576
+celeba,hard_removal,Slot ranking,k4,3,1.7880221321407828
+celeba,hard_removal,Slot ranking,k5,3,1.789490611719646
+celeba,hard_removal,Slot ranking,k6,3,1.7868511247652668
+metashift,hard_removal,Slot ranking,k1,3,1.9294091862202425
+metashift,hard_removal,Slot ranking,k2,3,1.9450942052200233
+metashift,hard_removal,Slot ranking,k3,3,1.923527316826685
+metashift,hard_removal,Slot ranking,k4,3,1.9078359351428535
+metashift,hard_removal,Slot ranking,k5,3,1.9058804700697776
+metashift,hard_removal,Slot ranking,k6,3,1.8980389103711968
+nicopp_autumn_rock,hard_removal,Slot ranking,k1,3,1.5161718065200465
+nicopp_autumn_rock,hard_removal,Slot ranking,k2,3,1.5187152593503346
+nicopp_autumn_rock,hard_removal,Slot ranking,k3,3,1.5190592590420737
+nicopp_autumn_rock,hard_removal,Slot ranking,k4,3,1.5122161232538993
+nicopp_autumn_rock,hard_removal,Slot ranking,k5,3,1.5065252329548553
+nicopp_autumn_rock,hard_removal,Slot ranking,k6,3,1.5057611217401936
+nicopp_dim_grass,hard_removal,Slot ranking,k1,3,1.502084988265527
+nicopp_dim_grass,hard_removal,Slot ranking,k2,3,1.5026815784318999
+nicopp_dim_grass,hard_removal,Slot ranking,k3,3,1.5012634467655441
+nicopp_dim_grass,hard_removal,Slot ranking,k4,3,1.493254891647642
+nicopp_dim_grass,hard_removal,Slot ranking,k5,3,1.4871387076818037
+nicopp_dim_grass,hard_removal,Slot ranking,k6,3,1.4892482008752044
+nicopp_outdoor_water,hard_removal,Slot ranking,k1,3,1.538274198757713
+nicopp_outdoor_water,hard_removal,Slot ranking,k2,3,1.5410474255185707
+nicopp_outdoor_water,hard_removal,Slot ranking,k3,3,1.5436887343862278
+nicopp_outdoor_water,hard_removal,Slot ranking,k4,3,1.5409070359107304
+nicopp_outdoor_water,hard_removal,Slot ranking,k5,3,1.5285883085662675
+nicopp_outdoor_water,hard_removal,Slot ranking,k6,3,1.5303011077632938
+waterbirds,hard_removal,Slot ranking + slot corruption,k1,3,1.6244969239746538
+waterbirds,hard_removal,Slot ranking + slot corruption,k2,3,1.6405437501193436
+waterbirds,hard_removal,Slot ranking + slot corruption,k3,3,1.6274307327441029
+waterbirds,hard_removal,Slot ranking + slot corruption,k4,3,1.6127002516364481
+waterbirds,hard_removal,Slot ranking + slot corruption,k5,3,1.6209402468974192
+waterbirds,hard_removal,Slot ranking + slot corruption,k6,3,1.624114959865618
+celeba,hard_removal,Slot ranking + slot corruption,k1,3,1.7803727517661796
+celeba,hard_removal,Slot ranking + slot corruption,k2,3,1.7947699265960404
+celeba,hard_removal,Slot ranking + slot corruption,k3,3,1.7938075171212597
+celeba,hard_removal,Slot ranking + slot corruption,k4,3,1.7939520131609754
+celeba,hard_removal,Slot ranking + slot corruption,k5,3,1.7949338283400802
+celeba,hard_removal,Slot ranking + slot corruption,k6,3,1.7957765327726263
+metashift,hard_removal,Slot ranking + slot corruption,k1,3,1.9294091862202425
+metashift,hard_removal,Slot ranking + slot corruption,k2,3,1.9470531145215535
+metashift,hard_removal,Slot ranking + slot corruption,k3,3,1.9352915986233408
+metashift,hard_removal,Slot ranking + slot corruption,k4,3,1.9333282607314668
+metashift,hard_removal,Slot ranking + slot corruption,k5,3,1.9450952571303073
+metashift,hard_removal,Slot ranking + slot corruption,k6,3,1.9431338536314922
+nicopp_autumn_rock,hard_removal,Slot ranking + slot corruption,k1,3,1.5161718065200465
+nicopp_autumn_rock,hard_removal,Slot ranking + slot corruption,k2,3,1.5337618497974004
+nicopp_autumn_rock,hard_removal,Slot ranking + slot corruption,k3,3,1.5434520331449457
+nicopp_autumn_rock,hard_removal,Slot ranking + slot corruption,k4,3,1.548352622001647
+nicopp_autumn_rock,hard_removal,Slot ranking + slot corruption,k5,3,1.54382613220458
+nicopp_autumn_rock,hard_removal,Slot ranking + slot corruption,k6,3,1.5450611948664548
+nicopp_dim_grass,hard_removal,Slot ranking + slot corruption,k1,3,1.502084988265527
+nicopp_dim_grass,hard_removal,Slot ranking + slot corruption,k2,3,1.5174628170677578
+nicopp_dim_grass,hard_removal,Slot ranking + slot corruption,k3,3,1.526330866133243
+nicopp_dim_grass,hard_removal,Slot ranking + slot corruption,k4,3,1.5270188758326295
+nicopp_dim_grass,hard_removal,Slot ranking + slot corruption,k5,3,1.5391662691922763
+nicopp_dim_grass,hard_removal,Slot ranking + slot corruption,k6,3,1.534654711326741
+nicopp_outdoor_water,hard_removal,Slot ranking + slot corruption,k1,3,1.538274198757713
+nicopp_outdoor_water,hard_removal,Slot ranking + slot corruption,k2,3,1.5529883166070872
+nicopp_outdoor_water,hard_removal,Slot ranking + slot corruption,k3,3,1.5683957254568615
+nicopp_outdoor_water,hard_removal,Slot ranking + slot corruption,k4,3,1.5694730304470526
+nicopp_outdoor_water,hard_removal,Slot ranking + slot corruption,k5,3,1.5737293455174288
+nicopp_outdoor_water,hard_removal,Slot ranking + slot corruption,k6,3,1.569744767789281

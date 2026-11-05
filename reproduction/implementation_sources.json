@@ -1,0 +1,95 @@
+{
+  "exported": [
+    {
+      "source": "src/mlp.py",
+      "definitions": [
+        "MLP"
+      ]
+    },
+    {
+      "source": ".codex_tmp/image_baselines_1008/train_ce.py",
+      "definitions": [
+        "metrics"
+      ]
+    },
+    {
+      "source": "src/loss.py",
+      "definitions": [
+        "_ClassReweightedLossMixin",
+        "_present_class_indices",
+        "_mean_over_present_classes",
+        "CrossEntropyCELoss"
+      ]
+    },
+    {
+      "source": ".codex_tmp/image_concepts_1001/train_irm.py",
+      "definitions": [
+        "irm_terms",
+        "penalty_weight"
+      ]
+    },
+    {
+      "source": ".codex_tmp/image_concepts_1001/train_laat_group_a.py",
+      "definitions": [
+        "group_norms",
+        "balanced_mean",
+        "GroupLAAT"
+      ]
+    },
+    {
+      "source": ".codex_tmp/image_baselines_1008/methods.py",
+      "definitions": [
+        "balanced_batches",
+        "GroupDRO",
+        "jtt_weights",
+        "rsc_loss",
+        "class_margin",
+        "MulticlassLAAT"
+      ]
+    },
+    {
+      "source": ".codex_tmp/paper_baselines_1015/extensions.py",
+      "definitions": [
+        "coral_penalty",
+        "coral_loss",
+        "mixed_ce",
+        "mixup_loss"
+      ]
+    },
+    {
+      "source": ".codex_tmp/self_scer_1028/methods.py",
+      "definitions": [
+        "scer_terms"
+      ]
+    },
+    {
+      "source": ".codex_tmp/baseline_feasibility_1027/check.py",
+      "definitions": [
+        "balanced_ce"
+      ]
+    },
+    {
+      "source": ".codex_tmp/run_corruption_policy_0912.py",
+      "definitions": [
+        "Corruption"
+      ]
+    },
+    {
+      "source": ".codex_tmp/corrupted_ce_1011/shared_donor/corruption.py",
+      "definitions": [
+        "SharedDonorCorruption"
+      ]
+    }
+  ],
+  "official_commits": {
+    "ElRep": "5b5cf4887285a24f431764f4ec08c0e6927b8285",
+    "SAGM": "69d4d9d2a3900478e42778c27e6c549bc38dc81c",
+    "swad": "252190eb881169e736beccf51af5caaa5c5cf666",
+    "SCER": "7c18ef039f1cef7ceb6dafbf967e298881deed84"
+  },
+  "adaptations": [
+    "SWAD: return final model without hardcoded .cuda(); caller selects device.",
+    "Shared trainer retains historical method-specific batching, class weighting, model selection and regularization.",
+    "Fresh full-grid GPU retraining is not part of packaging verification."
+  ]
+}

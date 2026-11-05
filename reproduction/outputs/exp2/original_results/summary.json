@@ -1,0 +1,6004 @@
+{
+  "reference": true,
+  "completed": 6930,
+  "total": 6930,
+  "pending": [],
+  "macro": [
+    {
+      "method": "ce",
+      "condition": "Original slot order",
+      "metric": "average",
+      "mean": 71.72301175802191,
+      "std": 0.6554908726546583,
+      "seed_values": [
+        71.81003205253589,
+        72.33064589999013,
+        71.02835732153973
+      ]
+    },
+    {
+      "method": "ce",
+      "condition": "Original slot order",
+      "metric": "worst",
+      "mean": 47.76617453820162,
+      "std": 3.01661302088682,
+      "seed_values": [
+        49.548494813611825,
+        49.46681974517039,
+        44.28320905582261
+      ]
+    },
+    {
+      "method": "ce",
+      "condition": "Slot ranking",
+      "metric": "average",
+      "mean": 75.3366543631158,
+      "std": 0.17857705649403358,
+      "seed_values": [
+        75.14344707731973,
+        75.49565170475466,
+        75.370864307273
+      ]
+    },
+    {
+      "method": "ce",
+      "condition": "Slot ranking",
+      "metric": "worst",
+      "mean": 54.33311692078533,
+      "std": 0.7505253625923709,
+      "seed_values": [
+        54.98360809355651,
+        53.511953755053646,
+        54.50378891374584
+      ]
+    },
+    {
+      "method": "ce",
+      "condition": "Slot ranking + slot corruption",
+      "metric": "average",
+      "mean": 79.91488788600401,
+      "std": 0.27411382800591166,
+      "seed_values": [
+        80.1654811736713,
+        79.62213783421421,
+        79.95704465012653
+      ]
+    },
+    {
+      "method": "ce",
+      "condition": "Slot ranking + slot corruption",
+      "metric": "worst",
+      "mean": 64.21319926056124,
+      "std": 0.8978290219744901,
+      "seed_values": [
+        64.75163152936513,
+        63.176738072977,
+        64.71122817934157
+      ]
+    },
+    {
+      "method": "irm",
+      "condition": "Original slot order",
+      "metric": "average",
+      "mean": 74.07424592871475,
+      "std": 0.27398998227694377,
+      "seed_values": [
+        74.38415529744053,
+        73.86417638455785,
+        73.97440610414588
+      ]
+    },
+    {
+      "method": "irm",
+      "condition": "Original slot order",
+      "metric": "worst",
+      "mean": 57.6409095583721,
+      "std": 2.790413680588318,
+      "seed_values": [
+        60.04543388256469,
+        54.58120141063071,
+        58.296093381920905
+      ]
+    },
+    {
+      "method": "irm",
+      "condition": "Slot ranking",
+      "metric": "average",
+      "mean": 76.55834604898273,
+      "std": 0.3978391451683275,
+      "seed_values": [
+        76.72485938316238,
+        76.84587364205446,
+        76.10430512173136
+      ]
+    },
+    {
+      "method": "irm",
+      "condition": "Slot ranking",
+      "metric": "worst",
+      "mean": 59.30291044054218,
+      "std": 1.3594007123385348,
+      "seed_values": [
+        60.55947620514237,
+        59.489337418334976,
+        57.8599176981492
+      ]
+    },
+    {
+      "method": "irm",
+      "condition": "Slot ranking + slot corruption",
+      "metric": "average",
+      "mean": 80.27095311935636,
+      "std": 0.1378327034259282,
+      "seed_values": [
+        80.11890227567005,
+        80.30625680456646,
+        80.38770027783256
+      ]
+    },
+    {
+      "method": "irm",
+      "condition": "Slot ranking + slot corruption",
+      "metric": "worst",
+      "mean": 66.36059805677009,
+      "std": 1.0679976933136295,
+      "seed_values": [
+        66.64051348177004,
+        65.18051795288602,
+        67.2607627356542
+      ]
+    },
+    {
+      "method": "group_dro",
+      "condition": "Original slot order",
+      "metric": "average",
+      "mean": 73.85261756184126,
+      "std": 0.36254938921133983,
+      "seed_values": [
+        74.22778072607308,
+        73.82591329251427,
+        73.5041586669364
+      ]
+    },
+    {
+      "method": "group_dro",
+      "condition": "Original slot order",
+      "metric": "worst",
+      "mean": 53.39224947029735,
+      "std": 2.872107526297296,
+      "seed_values": [
+        55.972574773683995,
+        53.906371341383235,
+        50.29780229582484
+      ]
+    },
+    {
+      "method": "group_dro",
+      "condition": "Slot ranking",
+      "metric": "average",
+      "mean": 77.55511699061917,
+      "std": 0.2949202063416803,
+      "seed_values": [
+        77.3725689224307,
+        77.89535905520951,
+        77.39742299421728
+      ]
+    },
+    {
+      "method": "group_dro",
+      "condition": "Slot ranking",
+      "metric": "worst",
+      "mean": 60.99495790894105,
+      "std": 1.4803872728696048,
+      "seed_values": [
+        59.28924467811408,
+        61.75058665638109,
+        61.94504239232799
+      ]
+    },
+    {
+      "method": "group_dro",
+      "condition": "Slot ranking + slot corruption",
+      "metric": "average",
+      "mean": 80.68319108979381,
+      "std": 0.22030648270011446,
+      "seed_values": [
+        80.43208283807728,
+        80.77348290206382,
+        80.84400752924033
+      ]
+    },
+    {
+      "method": "group_dro",
+      "condition": "Slot ranking + slot corruption",
+      "metric": "worst",
+      "mean": 67.62133396362384,
+      "std": 0.9843445404799169,
+      "seed_values": [
+        66.52960044464969,
+        67.89329815460552,
+        68.44110329161632
+      ]
+    },
+    {
+      "method": "jtt",
+      "condition": "Original slot order",
+      "metric": "average",
+      "mean": 71.31465035762055,
+      "std": 0.6186167833319213,
+      "seed_values": [
+        70.60736514523171,
+        71.58170517095715,
+        71.75488075667279
+      ]
+    },
+    {
+      "method": "jtt",
+      "condition": "Original slot order",
+      "metric": "worst",
+      "mean": 45.62403010100194,
+      "std": 1.694205891126889,
+      "seed_values": [
+        43.687925392799706,
+        46.34927075710046,
+        46.83489415310566
+      ]
+    },
+    {
+      "method": "jtt",
+      "condition": "Slot ranking",
+      "metric": "average",
+      "mean": 75.48608263456283,
+      "std": 0.4124063913345941,
+      "seed_values": [
+        75.01020135680739,
+        75.70879866425028,
+        75.73924788263086
+      ]
+    },
+    {
+      "method": "jtt",
+      "condition": "Slot ranking",
+      "metric": "worst",
+      "mean": 52.95070035129741,
+      "std": 1.74726054807223,
+      "seed_values": [
+        51.26591220011463,
+        54.754362384887635,
+        52.831826468889986
+      ]
+    },
+    {
+      "method": "jtt",
+      "condition": "Slot ranking + slot corruption",
+      "metric": "average",
+      "mean": 78.48132586455209,
+      "std": 0.17322851551292467,
+      "seed_values": [
+        78.61260415872674,
+        78.54638723657526,
+        78.28498619835425
+      ]
+    },
+    {
+      "method": "jtt",
+      "condition": "Slot ranking + slot corruption",
+      "metric": "worst",
+      "mean": 57.73080109709256,
+      "std": 0.9799318982675299,
+      "seed_values": [
+        58.06201979083393,
+        58.50220143956848,
+        56.62818206087529
+      ]
+    },
+    {
+      "method": "rsc",
+      "condition": "Original slot order",
+      "metric": "average",
+      "mean": 72.22557665819544,
+      "std": 0.652097825692222,
+      "seed_values": [
+        72.37731375842041,
+        72.78842828436048,
+        71.5109879318054
+      ]
+    },
+    {
+      "method": "rsc",
+      "condition": "Original slot order",
+      "metric": "worst",
+      "mean": 47.141817086073445,
+      "std": 2.033439618952525,
+      "seed_values": [
+        48.299496301465226,
+        48.33207634774951,
+        44.793878609005574
+      ]
+    },
+    {
+      "method": "rsc",
+      "condition": "Slot ranking",
+      "metric": "average",
+      "mean": 75.81882035276597,
+      "std": 0.32888624618916373,
+      "seed_values": [
+        75.95332869545267,
+        76.05913209670446,
+        75.44400026614078
+      ]
+    },
+    {
+      "method": "rsc",
+      "condition": "Slot ranking",
+      "metric": "worst",
+      "mean": 54.940897805809925,
+      "std": 0.8449335781863591,
+      "seed_values": [
+        55.537558174520036,
+        55.31108093834156,
+        53.974054304568185
+      ]
+    },
+    {
+      "method": "rsc",
+      "condition": "Slot ranking + slot corruption",
+      "metric": "average",
+      "mean": 79.66396849626094,
+      "std": 0.13165290100115926,
+      "seed_values": [
+        79.76659466759548,
+        79.70978104088726,
+        79.51552978030006
+      ]
+    },
+    {
+      "method": "rsc",
+      "condition": "Slot ranking + slot corruption",
+      "metric": "worst",
+      "mean": 63.16561689055064,
+      "std": 0.34883279098164033,
+      "seed_values": [
+        63.14728164416606,
+        62.8263133095968,
+        63.52325571788906
+      ]
+    },
+    {
+      "method": "coral",
+      "condition": "Original slot order",
+      "metric": "average",
+      "mean": 70.59983778295681,
+      "std": 0.2317441799639215,
+      "seed_values": [
+        70.63562062841319,
+        70.8116092782747,
+        70.35228344218257
+      ]
+    },
+    {
+      "method": "coral",
+      "condition": "Original slot order",
+      "metric": "worst",
+      "mean": 46.532963004414654,
+      "std": 0.7532726118970414,
+      "seed_values": [
+        47.33586387243024,
+        46.42122324494105,
+        45.84180189587267
+      ]
+    },
+    {
+      "method": "coral",
+      "condition": "Slot ranking",
+      "metric": "average",
+      "mean": 74.81047789611875,
+      "std": 0.21289374543676123,
+      "seed_values": [
+        74.90731337764595,
+        74.5663795125104,
+        74.95774079819992
+      ]
+    },
+    {
+      "method": "coral",
+      "condition": "Slot ranking",
+      "metric": "worst",
+      "mean": 53.85765394976516,
+      "std": 1.3359235530596083,
+      "seed_values": [
+        54.86943516999867,
+        52.3433409026675,
+        54.3601857766293
+      ]
+    },
+    {
+      "method": "coral",
+      "condition": "Slot ranking + slot corruption",
+      "metric": "average",
+      "mean": 78.47316979372236,
+      "std": 0.23765821740635656,
+      "seed_values": [
+        78.29724950777361,
+        78.743531877598,
+        78.37872799579546
+      ]
+    },
+    {
+      "method": "coral",
+      "condition": "Slot ranking + slot corruption",
+      "metric": "worst",
+      "mean": 59.834581415712734,
+      "std": 1.1934866434879914,
+      "seed_values": [
+        59.34982933774923,
+        61.19417360896669,
+        58.95974130042228
+      ]
+    },
+    {
+      "method": "mixup",
+      "condition": "Original slot order",
+      "metric": "average",
+      "mean": 71.79033316634515,
+      "std": 0.7690486414056152,
+      "seed_values": [
+        72.50847305659661,
+        71.88363711123745,
+        70.9788893312014
+      ]
+    },
+    {
+      "method": "mixup",
+      "condition": "Original slot order",
+      "metric": "worst",
+      "mean": 47.951983221771876,
+      "std": 3.0734691897412127,
+      "seed_values": [
+        50.78582533850491,
+        48.38525593794925,
+        44.684868388861446
+      ]
+    },
+    {
+      "method": "mixup",
+      "condition": "Slot ranking",
+      "metric": "average",
+      "mean": 75.48756859288383,
+      "std": 0.05247012025834805,
+      "seed_values": [
+        75.42707638768599,
+        75.52075295221962,
+        75.51487643874589
+      ]
+    },
+    {
+      "method": "mixup",
+      "condition": "Slot ranking",
+      "metric": "worst",
+      "mean": 54.91001847344279,
+      "std": 0.17545087303458065,
+      "seed_values": [
+        54.90272356435581,
+        54.73832883243985,
+        55.0890030235327
+      ]
+    },
+    {
+      "method": "mixup",
+      "condition": "Slot ranking + slot corruption",
+      "metric": "average",
+      "mean": 79.47960052641503,
+      "std": 0.046913529794541005,
+      "seed_values": [
+        79.42543374183715,
+        79.50727456593708,
+        79.50609327147085
+      ]
+    },
+    {
+      "method": "mixup",
+      "condition": "Slot ranking + slot corruption",
+      "metric": "worst",
+      "mean": 63.025135079727725,
+      "std": 0.16853537556879236,
+      "seed_values": [
+        63.02732387895844,
+        63.19256539547056,
+        62.855515964754176
+      ]
+    },
+    {
+      "method": "elrep",
+      "condition": "Original slot order",
+      "metric": "average",
+      "mean": 71.87702562825255,
+      "std": 0.5584579741647976,
+      "seed_values": [
+        71.89070834369878,
+        72.4285165160444,
+        71.3118520250145
+      ]
+    },
+    {
+      "method": "elrep",
+      "condition": "Original slot order",
+      "metric": "worst",
+      "mean": 47.67841427873884,
+      "std": 2.1603851749278538,
+      "seed_values": [
+        48.602027373956346,
+        49.22346304275698,
+        45.20975241950318
+      ]
+    },
+    {
+      "method": "elrep",
+      "condition": "Slot ranking",
+      "metric": "average",
+      "mean": 75.23210181827572,
+      "std": 0.5379403444899206,
+      "seed_values": [
+        74.76548518070865,
+        75.82048970474675,
+        75.11033056937177
+      ]
+    },
+    {
+      "method": "elrep",
+      "condition": "Slot ranking",
+      "metric": "worst",
+      "mean": 53.65465632702865,
+      "std": 1.012070098065946,
+      "seed_values": [
+        52.800299760959746,
+        54.77237210137724,
+        53.391297118748966
+      ]
+    },
+    {
+      "method": "elrep",
+      "condition": "Slot ranking + slot corruption",
+      "metric": "average",
+      "mean": 79.46360305740193,
+      "std": 0.2258339849388161,
+      "seed_values": [
+        79.54346052921888,
+        79.63865822065709,
+        79.20869042232982
+      ]
+    },
+    {
+      "method": "elrep",
+      "condition": "Slot ranking + slot corruption",
+      "metric": "worst",
+      "mean": 62.16991197695537,
+      "std": 0.1680947412068409,
+      "seed_values": [
+        62.36400942428031,
+        62.07217207469904,
+        62.073554431886734
+      ]
+    },
+    {
+      "method": "sagm",
+      "condition": "Original slot order",
+      "metric": "average",
+      "mean": 72.05854696697146,
+      "std": 0.18960166144012477,
+      "seed_values": [
+        72.07767087123042,
+        72.23786195158992,
+        71.86010807809409
+      ]
+    },
+    {
+      "method": "sagm",
+      "condition": "Original slot order",
+      "metric": "worst",
+      "mean": 47.979124808834676,
+      "std": 1.8874816875081686,
+      "seed_values": [
+        49.52746162851161,
+        48.53333019439539,
+        45.87658260359703
+      ]
+    },
+    {
+      "method": "sagm",
+      "condition": "Slot ranking",
+      "metric": "average",
+      "mean": 75.33846178554768,
+      "std": 0.3471512698591116,
+      "seed_values": [
+        74.94611445310144,
+        75.46348995151575,
+        75.60578095202582
+      ]
+    },
+    {
+      "method": "sagm",
+      "condition": "Slot ranking",
+      "metric": "worst",
+      "mean": 53.91974506914184,
+      "std": 0.7249463442906936,
+      "seed_values": [
+        53.38976752523723,
+        53.62358318902461,
+        54.745884493163686
+      ]
+    },
+    {
+      "method": "sagm",
+      "condition": "Slot ranking + slot corruption",
+      "metric": "average",
+      "mean": 79.74462723390424,
+      "std": 0.0877778618567346,
+      "seed_values": [
+        79.84500465298149,
+        79.70661363572782,
+        79.6822634130034
+      ]
+    },
+    {
+      "method": "sagm",
+      "condition": "Slot ranking + slot corruption",
+      "metric": "worst",
+      "mean": 63.317265043748826,
+      "std": 0.4336510141600004,
+      "seed_values": [
+        63.57919990431317,
+        62.81670892492512,
+        63.55588630200819
+      ]
+    },
+    {
+      "method": "swad",
+      "condition": "Original slot order",
+      "metric": "average",
+      "mean": 71.42570937056188,
+      "std": 0.08484482418520564,
+      "seed_values": [
+        71.51837664817694,
+        71.40691163441937,
+        71.35183982908931
+      ]
+    },
+    {
+      "method": "swad",
+      "condition": "Original slot order",
+      "metric": "worst",
+      "mean": 47.524148765226904,
+      "std": 0.5373961003924291,
+      "seed_values": [
+        48.07317508016625,
+        46.99919170616432,
+        47.50007950935015
+      ]
+    },
+    {
+      "method": "swad",
+      "condition": "Slot ranking",
+      "metric": "average",
+      "mean": 74.80356461236975,
+      "std": 0.09747800234650404,
+      "seed_values": [
+        74.69651705831347,
+        74.88721440505532,
+        74.82696237374046
+      ]
+    },
+    {
+      "method": "swad",
+      "condition": "Slot ranking",
+      "metric": "worst",
+      "mean": 52.90528525028167,
+      "std": 0.14269227859284572,
+      "seed_values": [
+        52.81293491624591,
+        53.06963253001076,
+        52.833288304588336
+      ]
+    },
+    {
+      "method": "swad",
+      "condition": "Slot ranking + slot corruption",
+      "metric": "average",
+      "mean": 79.16279875735364,
+      "std": 0.18877784972515774,
+      "seed_values": [
+        79.03181906325509,
+        79.37918696869903,
+        79.07739024010682
+      ]
+    },
+    {
+      "method": "swad",
+      "condition": "Slot ranking + slot corruption",
+      "metric": "worst",
+      "mean": 61.56380710485629,
+      "std": 0.6592172265415703,
+      "seed_values": [
+        60.98320156110531,
+        62.28041992082338,
+        61.42779983264016
+      ]
+    },
+    {
+      "method": "scer",
+      "condition": "Original slot order",
+      "metric": "average",
+      "mean": 72.11584055759734,
+      "std": 0.3506898963135786,
+      "seed_values": [
+        72.18627380029372,
+        72.42596836159707,
+        71.73527951090124
+      ]
+    },
+    {
+      "method": "scer",
+      "condition": "Original slot order",
+      "metric": "worst",
+      "mean": 47.36950377057192,
+      "std": 1.9541833834670226,
+      "seed_values": [
+        48.31358168156712,
+        48.67239308677907,
+        45.12253654336956
+      ]
+    },
+    {
+      "method": "scer",
+      "condition": "Slot ranking",
+      "metric": "average",
+      "mean": 75.28556879317706,
+      "std": 0.677463668142189,
+      "seed_values": [
+        75.89641682553679,
+        74.55693616097626,
+        75.40335339301815
+      ]
+    },
+    {
+      "method": "scer",
+      "condition": "Slot ranking",
+      "metric": "worst",
+      "mean": 53.33588142831649,
+      "std": 1.7296990368439182,
+      "seed_values": [
+        54.88804676252237,
+        51.47124658537358,
+        53.64835093705352
+      ]
+    },
+    {
+      "method": "scer",
+      "condition": "Slot ranking + slot corruption",
+      "metric": "average",
+      "mean": 79.52952751703869,
+      "std": 0.1508961675623014,
+      "seed_values": [
+        79.70246337626473,
+        79.46148632968533,
+        79.42463284516602
+      ]
+    },
+    {
+      "method": "scer",
+      "condition": "Slot ranking + slot corruption",
+      "metric": "worst",
+      "mean": 62.13881701124178,
+      "std": 1.020350114189218,
+      "seed_values": [
+        62.98664353585184,
+        62.42342826767387,
+        61.00637923019963
+      ]
+    },
+    {
+      "method": "laat",
+      "condition": "Slot ranking",
+      "metric": "average",
+      "mean": 75.76951198134424,
+      "std": 0.3243527494854161,
+      "seed_values": [
+        76.10497025266662,
+        75.74602402305551,
+        75.45754166831057
+      ]
+    },
+    {
+      "method": "laat",
+      "condition": "Slot ranking",
+      "metric": "worst",
+      "mean": 54.80940751992313,
+      "std": 2.007020970064978,
+      "seed_values": [
+        57.11409277628473,
+        53.867902687482655,
+        53.446227096001984
+      ]
+    },
+    {
+      "method": "laat",
+      "condition": "Slot ranking + slot corruption",
+      "metric": "average",
+      "mean": 79.6927318698945,
+      "std": 0.10799014113439974,
+      "seed_values": [
+        79.8022028031439,
+        79.68970671812436,
+        79.58628608841525
+      ]
+    },
+    {
+      "method": "laat",
+      "condition": "Slot ranking + slot corruption",
+      "metric": "worst",
+      "mean": 63.348220028609184,
+      "std": 1.0531147893855004,
+      "seed_values": [
+        63.76997496080547,
+        62.149596217289485,
+        64.1250889077326
+      ]
+    },
+    {
+      "method": "hard_removal",
+      "condition": "Slot ranking",
+      "metric": "average",
+      "mean": 79.09167138660715,
+      "std": 0.17102753914295368,
+      "seed_values": [
+        79.26378968330052,
+        78.92175588428043,
+        79.08946859224048
+      ]
+    },
+    {
+      "method": "hard_removal",
+      "condition": "Slot ranking",
+      "metric": "worst",
+      "mean": 61.47117358371719,
+      "std": 0.25501081851393176,
+      "seed_values": [
+        61.71717969191951,
+        61.2080232370824,
+        61.48831782214964
+      ]
+    },
+    {
+      "method": "hard_removal",
+      "condition": "Slot ranking + slot corruption",
+      "metric": "average",
+      "mean": 79.3834277184223,
+      "std": 0.013990558776548158,
+      "seed_values": [
+        79.383772074208,
+        79.39724292052713,
+        79.36926816053176
+      ]
+    },
+    {
+      "method": "hard_removal",
+      "condition": "Slot ranking + slot corruption",
+      "metric": "worst",
+      "mean": 61.85748505779586,
+      "std": 0.43204058130054607,
+      "seed_values": [
+        62.2028932102144,
+        61.37304556481041,
+        61.9965163983628
+      ]
+    }
+  ],
+  "selected": [
+    {
+      "dataset": "waterbirds",
+      "method": "ce",
+      "condition": "Original slot order",
+      "variant": "clean",
+      "validation": [
+        1.3226987828968366,
+        1.3301739369169512,
+        1.3378694201173094
+      ],
+      "metrics": {
+        "average": [
+          69.23591396066891,
+          68.23690518128632,
+          69.1246520366648
+        ],
+        "worst": [
+          40.18691588785047,
+          35.202492211838006,
+          35.981308411214954
+        ]
+      }
+    },
+    {
+      "dataset": "celeba",
+      "method": "ce",
+      "condition": "Original slot order",
+      "variant": "clean",
+      "validation": [
+        1.7944251616122373,
+        1.7903892671558341,
+        1.7907416331762134
+      ],
+      "metrics": {
+        "average": [
+          83.40347024698315,
+          83.51432292090718,
+          81.26675370570543
+        ],
+        "worst": [
+          54.44444444444444,
+          53.888888888888886,
+          46.666666666666664
+        ]
+      }
+    },
+    {
+      "dataset": "metashift",
+      "method": "ce",
+      "condition": "Original slot order",
+      "variant": "clean",
+      "validation": [
+        1.8587354897613149,
+        1.8529252713415023,
+        1.8588137580613642
+      ],
+      "metrics": {
+        "average": [
+          72.91666666666666,
+          75.69444444444444,
+          71.52777777777779
+        ],
+        "worst": [
+          45.13888888888889,
+          50.0,
+          35.41666666666667
+        ]
+      }
+    },
+    {
+      "dataset": "nicopp_autumn_rock",
+      "method": "ce",
+      "condition": "Original slot order",
+      "variant": "clean",
+      "validation": [
+        1.4701517540122204,
+        1.465022574608931,
+        1.4697209794733528
+      ],
+      "metrics": {
+        "average": [
+          63.727058548647754,
+          64.30507603341186,
+          64.24878210245527
+        ],
+        "worst": [
+          62.62068965517241,
+          63.889655172413796,
+          63.393103448275866
+        ]
+      }
+    },
+    {
+      "dataset": "nicopp_dim_grass",
+      "method": "ce",
+      "condition": "Original slot order",
+      "variant": "clean",
+      "validation": [
+        1.4345252627843244,
+        1.432784586588708,
+        1.4313856233189095
+      ],
+      "metrics": {
+        "average": [
+          62.46610168227193,
+          62.7653865258611,
+          63.247103017284715
+        ],
+        "worst": [
+          59.34183463595228,
+          59.794323323735085,
+          60.30440148087207
+        ]
+      }
+    },
+    {
+      "dataset": "nicopp_outdoor_water",
+      "method": "ce",
+      "condition": "Original slot order",
+      "variant": "clean",
+      "validation": [
+        1.4851924108395713,
+        1.493235534303628,
+        1.4855815818910485
+      ],
+      "metrics": {
+        "average": [
+          58.859071776554785,
+          58.560270600694885,
+          59.086852178292816
+        ],
+        "worst": [
+          53.308665808665815,
+          52.64371514371514,
+          53.50707850707851
+        ]
+      }
+    },
+    {
+      "dataset": "waterbirds",
+      "method": "ce",
+      "condition": "Slot ranking",
+      "variant": "clean",
+      "validation": [
+        1.3960122362690353,
+        1.4112505833419333,
+        1.4197599488858268
+      ],
+      "metrics": {
+        "average": [
+          73.14427613265087,
+          73.20901630851482,
+          72.94515130792769
+        ],
+        "worst": [
+          49.312638580931264,
+          44.0809968847352,
+          46.26168224299065
+        ]
+      }
+    },
+    {
+      "dataset": "celeba",
+      "method": "ce",
+      "condition": "Slot ranking",
+      "variant": "clean",
+      "validation": [
+        1.782708058457228,
+        1.7814669671135168,
+        1.7865537421508697
+      ],
+      "metrics": {
+        "average": [
+          83.08492217318145,
+          81.65030771477969,
+          82.85662605833465
+        ],
+        "worst": [
+          51.66666666666667,
+          46.666666666666664,
+          51.11111111111111
+        ]
+      }
+    },
+    {
+      "dataset": "metashift",
+      "method": "ce",
+      "condition": "Slot ranking",
+      "variant": "clean",
+      "validation": [
+        1.8941158151208162,
+        1.8999961069633449,
+        1.8999995674703067
+      ],
+      "metrics": {
+        "average": [
+          77.25694444444444,
+          79.86111111111111,
+          78.47222222222221
+        ],
+        "worst": [
+          54.861111111111114,
+          59.02777777777778,
+          56.25
+        ]
+      }
+    },
+    {
+      "dataset": "nicopp_autumn_rock",
+      "method": "ce",
+      "condition": "Slot ranking",
+      "variant": "clean",
+      "validation": [
+        1.5014817326421528,
+        1.502095148970751,
+        1.5017297736665804
+      ],
+      "metrics": {
+        "average": [
+          69.69014973032964,
+          69.6374773652135,
+          69.57213341381258
+        ],
+        "worst": [
+          68.85517241379311,
+          68.77241379310345,
+          69.04827586206896
+        ]
+      }
+    },
+    {
+      "dataset": "nicopp_dim_grass",
+      "method": "ce",
+      "condition": "Slot ranking",
+      "variant": "clean",
+      "validation": [
+        1.4855874559305735,
+        1.4914678452172279,
+        1.4864630943572497
+      ],
+      "metrics": {
+        "average": [
+          67.66509645668361,
+          68.13236502152125,
+          68.18693067490047
+        ],
+        "worst": [
+          64.29452900041134,
+          65.06787330316742,
+          65.23241464417934
+        ]
+      }
+    },
+    {
+      "dataset": "nicopp_outdoor_water",
+      "method": "ce",
+      "condition": "Slot ranking",
+      "variant": "clean",
+      "validation": [
+        1.5222907380576434,
+        1.5266420881377747,
+        1.5275300402778647
+      ],
+      "metrics": {
+        "average": [
+          63.907690489993186,
+          64.01667266710432,
+          63.869308833109116
+        ],
+        "worst": [
+          59.13234663234663,
+          58.97683397683397,
+          58.8963963963964
+        ]
+      }
+    },
+    {
+      "dataset": "waterbirds",
+      "method": "ce",
+      "condition": "Slot ranking + slot corruption",
+      "variant": "clean",
+      "validation": [
+        1.634287036025353,
+        1.609048684963645,
+        1.6162311961654565
+      ],
+      "metrics": {
+        "average": [
+          81.8900884845722,
+          80.91877862279048,
+          81.21408983843448
+        ],
+        "worst": [
+          64.33021806853583,
+          62.46105919003115,
+          63.2398753894081
+        ]
+      }
+    },
+    {
+      "dataset": "celeba",
+      "method": "ce",
+      "condition": "Slot ranking + slot corruption",
+      "variant": "clean",
+      "validation": [
+        1.7914149539795017,
+        1.7956062248199482,
+        1.7947039206716349
+      ],
+      "metrics": {
+        "average": [
+          85.06648164475268,
+          84.42668302766674,
+          85.27594904779822
+        ],
+        "worst": [
+          59.44444444444444,
+          56.666666666666664,
+          60.55555555555555
+        ]
+      }
+    },
+    {
+      "dataset": "metashift",
+      "method": "ce",
+      "condition": "Slot ranking + slot corruption",
+      "variant": "clean",
+      "validation": [
+        1.935287119390261,
+        1.935291598623341,
+        1.9411723991922352
+      ],
+      "metrics": {
+        "average": [
+          84.02777777777779,
+          83.50694444444444,
+          83.68055555555556
+        ],
+        "worst": [
+          68.05555555555556,
+          66.66666666666666,
+          68.05555555555556
+        ]
+      }
+    },
+    {
+      "dataset": "nicopp_autumn_rock",
+      "method": "ce",
+      "condition": "Slot ranking + slot corruption",
+      "variant": "clean",
+      "validation": [
+        1.5406300066433227,
+        1.5480051863832185,
+        1.5460437526723823
+      ],
+      "metrics": {
+        "average": [
+          71.388337000331,
+          71.35414111126255,
+          71.66856571714143
+        ],
+        "worst": [
+          71.14482758620689,
+          70.85057471264368,
+          71.16321839080459
+        ]
+      }
+    },
+    {
+      "dataset": "nicopp_dim_grass",
+      "method": "ce",
+      "condition": "Slot ranking + slot corruption",
+      "variant": "clean",
+      "validation": [
+        1.5313708041714467,
+        1.5306872328527397,
+        1.5325683073893832
+      ],
+      "metrics": {
+        "average": [
+          70.73772593456489,
+          70.61458702253525,
+          70.62289345102752
+        ],
+        "worst": [
+          67.99670917317975,
+          67.23159193747429,
+          67.40436034553682
+        ]
+      }
+    },
+    {
+      "dataset": "nicopp_outdoor_water",
+      "method": "ce",
+      "condition": "Slot ranking + slot corruption",
+      "variant": "clean",
+      "validation": [
+        1.559600124950723,
+        1.5754050130367867,
+        1.572100019013352
+      ],
+      "metrics": {
+        "average": [
+          66.90666742785153,
+          66.93970759206785,
+          66.68129330798467
+        ],
+        "worst": [
+          62.387387387387385,
+          62.65551265551266,
+          62.41419991419992
+        ]
+      }
+    },
+    {
+      "dataset": "waterbirds",
+      "method": "irm",
+      "condition": "Original slot order",
+      "variant": "qwen_lambda10000",
+      "validation": [
+        1.4682416441078199,
+        1.432613874960992,
+        1.5047119619524725
+      ],
+      "metrics": {
+        "average": [
+          76.10101470598394,
+          73.49754094397358,
+          76.3775030910887
+        ],
+        "worst": [
+          63.90243902439025,
+          50.31152647975078,
+          67.13395638629284
+        ]
+      }
+    },
+    {
+      "dataset": "celeba",
+      "method": "irm",
+      "condition": "Original slot order",
+      "variant": "qwen_lambda0.1",
+      "validation": [
+        1.786751219802398,
+        1.7806830500153827,
+        1.7793060779559093
+      ],
+      "metrics": {
+        "average": [
+          83.83071031235829,
+          83.93202136823778,
+          82.52333295635037
+        ],
+        "worst": [
+          57.77777777777777,
+          57.77777777777777,
+          52.22222222222223
+        ]
+      }
+    },
+    {
+      "dataset": "metashift",
+      "method": "irm",
+      "condition": "Original slot order",
+      "variant": "qwen_lambda100",
+      "validation": [
+        1.847035001740823,
+        1.8352941176470587,
+        1.8176399597566877
+      ],
+      "metrics": {
+        "average": [
+          77.08333333333333,
+          77.43055555555556,
+          76.38888888888889
+        ],
+        "worst": [
+          61.111111111111114,
+          52.77777777777778,
+          56.25
+        ]
+      }
+    },
+    {
+      "dataset": "nicopp_autumn_rock",
+      "method": "irm",
+      "condition": "Original slot order",
+      "variant": "qwen_lambda0.1",
+      "validation": [
+        1.446382911310117,
+        1.4373310156073473,
+        1.4407394517498204
+      ],
+      "metrics": {
+        "average": [
+          63.36076637006172,
+          63.43053667971209,
+          62.68746406017771
+        ],
+        "worst": [
+          62.31724137931034,
+          62.54712643678161,
+          62.03218390804598
+        ]
+      }
+    },
+    {
+      "dataset": "nicopp_dim_grass",
+      "method": "irm",
+      "condition": "Original slot order",
+      "variant": "qwen_lambda1",
+      "validation": [
+        1.4167488127743584,
+        1.4100957092006272,
+        1.413905418754101
+      ],
+      "metrics": {
+        "average": [
+          61.52585612346668,
+          61.612565025615716,
+          61.79918956841715
+        ],
+        "worst": [
+          57.778691896338955,
+          58.32990538872892,
+          58.55203619909503
+        ]
+      }
+    },
+    {
+      "dataset": "nicopp_outdoor_water",
+      "method": "irm",
+      "condition": "Original slot order",
+      "variant": "qwen_lambda0.003",
+      "validation": [
+        1.4549352076269315,
+        1.453628256434909,
+        1.4598615475141674
+      ],
+      "metrics": {
+        "average": [
+          56.67806602073118,
+          56.74666130606558,
+          57.337044812171854
+        ],
+        "worst": [
+          52.075289575289574,
+          51.496138996138995,
+          52.15036465036466
+        ]
+      }
+    },
+    {
+      "dataset": "waterbirds",
+      "method": "irm",
+      "condition": "Slot ranking",
+      "variant": "qwen_lambda100",
+      "validation": [
+        1.5668840613698594,
+        1.5610179319223678,
+        1.5610380354489726
+      ],
+      "metrics": {
+        "average": [
+          80.5578983359927,
+          79.2803462019327,
+          79.70467151570412
+        ],
+        "worst": [
+          69.13525498891353,
+          62.46105919003115,
+          64.797507788162
+        ]
+      }
+    },
+    {
+      "dataset": "celeba",
+      "method": "irm",
+      "condition": "Slot ranking",
+      "variant": "qwen_lambda0.003",
+      "validation": [
+        1.7733410781856689,
+        1.7748484905424602,
+        1.7745707797184367
+      ],
+      "metrics": {
+        "average": [
+          80.74150128585167,
+          83.5615326220994,
+          80.91301734064618
+        ],
+        "worst": [
+          45.0,
+          55.55555555555556,
+          45.55555555555556
+        ]
+      }
+    },
+    {
+      "dataset": "metashift",
+      "method": "irm",
+      "condition": "Slot ranking",
+      "variant": "qwen_lambda0.003",
+      "validation": [
+        1.8705859962587754,
+        1.8823529411764706,
+        1.8764700539339085
+      ],
+      "metrics": {
+        "average": [
+          79.6875,
+          78.64583333333334,
+          78.29861111111111
+        ],
+        "worst": [
+          65.27777777777779,
+          56.94444444444444,
+          58.333333333333336
+        ]
+      }
+    },
+    {
+      "dataset": "nicopp_autumn_rock",
+      "method": "irm",
+      "condition": "Slot ranking",
+      "variant": "qwen_lambda1",
+      "validation": [
+        1.469708621414272,
+        1.4794047396101573,
+        1.476264511077654
+      ],
+      "metrics": {
+        "average": [
+          68.67234953951595,
+          68.89610000194708,
+          68.1487593865405
+        ],
+        "worst": [
+          67.53103448275863,
+          68.19310344827586,
+          67.31954022988505
+        ]
+      }
+    },
+    {
+      "dataset": "nicopp_dim_grass",
+      "method": "irm",
+      "condition": "Slot ranking",
+      "variant": "qwen_lambda10",
+      "validation": [
+        1.45043750576836,
+        1.461151872941024,
+        1.4638875605512163
+      ],
+      "metrics": {
+        "average": [
+          66.49968176683517,
+          66.72030429538933,
+          65.982357889352
+        ],
+        "worst": [
+          62.830111065405184,
+          63.17564788153024,
+          62.68202385849445
+        ]
+      }
+    },
+    {
+      "dataset": "nicopp_outdoor_water",
+      "method": "irm",
+      "condition": "Slot ranking",
+      "variant": "qwen_lambda10",
+      "validation": [
+        1.4914121722353757,
+        1.4918727130069127,
+        1.4909841150616265
+      ],
+      "metrics": {
+        "average": [
+          62.56558242606427,
+          62.07094293522077,
+          62.3716442824996
+        ],
+        "worst": [
+          58.11347061347061,
+          57.62012012012012,
+          58.25825825825825
+        ]
+      }
+    },
+    {
+      "dataset": "waterbirds",
+      "method": "irm",
+      "condition": "Slot ranking + slot corruption",
+      "variant": "qwen_lambda0.003",
+      "validation": [
+        1.6554228825990793,
+        1.691374837718835,
+        1.649541813296861
+      ],
+      "metrics": {
+        "average": [
+          82.82648113227097,
+          83.35295052185865,
+          83.85819673829702
+        ],
+        "worst": [
+          64.48598130841121,
+          64.95327102803739,
+          71.49532710280374
+        ]
+      }
+    },
+    {
+      "dataset": "celeba",
+      "method": "irm",
+      "condition": "Slot ranking + slot corruption",
+      "variant": "qwen_lambda0.01",
+      "validation": [
+        1.780752796261647,
+        1.7833417679310049,
+        1.783828202899993
+      ],
+      "metrics": {
+        "average": [
+          86.12853099449171,
+          84.87360292547886,
+          85.51660802032059
+        ],
+        "worst": [
+          67.77777777777779,
+          62.22222222222222,
+          65.55555555555556
+        ]
+      }
+    },
+    {
+      "dataset": "metashift",
+      "method": "irm",
+      "condition": "Slot ranking + slot corruption",
+      "variant": "qwen_lambda0.01",
+      "validation": [
+        1.941160178238308,
+        1.9352938377749043,
+        1.9470530976829408
+      ],
+      "metrics": {
+        "average": [
+          82.81249999999999,
+          84.02777777777779,
+          82.98611111111111
+        ],
+        "worst": [
+          68.05555555555556,
+          67.36111111111111,
+          65.27777777777779
+        ]
+      }
+    },
+    {
+      "dataset": "nicopp_autumn_rock",
+      "method": "irm",
+      "condition": "Slot ranking + slot corruption",
+      "variant": "qwen_lambda0.003",
+      "validation": [
+        1.5341987872115017,
+        1.5415698858567821,
+        1.5335960476649526
+      ],
+      "metrics": {
+        "average": [
+          71.03552120043875,
+          71.36382458121588,
+          71.06172887582183
+        ],
+        "worst": [
+          70.57471264367817,
+          70.66666666666667,
+          70.98850574712644
+        ]
+      }
+    },
+    {
+      "dataset": "nicopp_dim_grass",
+      "method": "irm",
+      "condition": "Slot ranking + slot corruption",
+      "variant": "qwen_lambda0.003",
+      "validation": [
+        1.5201335027450633,
+        1.5149079270841388,
+        1.5293384964633505
+      ],
+      "metrics": {
+        "average": [
+          69.48424553128775,
+          69.77256109028282,
+          70.36618011541267
+        ],
+        "worst": [
+          66.44179350061702,
+          65.91526120937885,
+          66.7297408473879
+        ]
+      }
+    },
+    {
+      "dataset": "nicopp_outdoor_water",
+      "method": "irm",
+      "condition": "Slot ranking + slot corruption",
+      "variant": "qwen_lambda1",
+      "validation": [
+        1.5482453526926672,
+        1.5541301173749642,
+        1.5517988652858974
+      ],
+      "metrics": {
+        "average": [
+          65.60452419602608,
+          65.77570230795297,
+          66.14174673357005
+        ],
+        "worst": [
+          61.711711711711715,
+          61.97447447447447,
+          62.42492492492493
+        ]
+      }
+    },
+    {
+      "dataset": "waterbirds",
+      "method": "group_dro",
+      "condition": "Original slot order",
+      "variant": "qwen_eta3_wd0",
+      "validation": [
+        1.4703091718162127,
+        1.4759229055825258,
+        1.4750010310956538
+      ],
+      "metrics": {
+        "average": [
+          76.23061593827494,
+          76.18267816068136,
+          74.2276250077709
+        ],
+        "worst": [
+          59.345794392523366,
+          56.69781931464174,
+          45.95015576323988
+        ]
+      }
+    },
+    {
+      "dataset": "celeba",
+      "method": "group_dro",
+      "condition": "Original slot order",
+      "variant": "qwen_eta3_wd0",
+      "validation": [
+        1.7864001948771795,
+        1.7893250118554296,
+        1.7929253591314456
+      ],
+      "metrics": {
+        "average": [
+          85.52303688290844,
+          81.40862194224091,
+          84.54618372929251
+        ],
+        "worst": [
+          63.888888888888886,
+          46.111111111111114,
+          58.88888888888889
+        ]
+      }
+    },
+    {
+      "dataset": "metashift",
+      "method": "group_dro",
+      "condition": "Original slot order",
+      "variant": "qwen_eta10_wd0",
+      "validation": [
+        1.847035001740823,
+        1.8470164634196014,
+        1.85294054039751
+      ],
+      "metrics": {
+        "average": [
+          73.95833333333334,
+          76.7361111111111,
+          73.95833333333333
+        ],
+        "worst": [
+          42.36111111111111,
+          54.861111111111114,
+          38.19444444444444
+        ]
+      }
+    },
+    {
+      "dataset": "nicopp_autumn_rock",
+      "method": "group_dro",
+      "condition": "Original slot order",
+      "variant": "qwen_eta0.01_wd0",
+      "validation": [
+        1.4571761511908439,
+        1.4505407135924706,
+        1.4529843072366422
+      ],
+      "metrics": {
+        "average": [
+          62.7332827092947,
+          62.69496420620858,
+          62.76111295001849
+        ],
+        "worst": [
+          61.97701149425288,
+          62.114942528735625,
+          61.93103448275862
+        ]
+      }
+    },
+    {
+      "dataset": "nicopp_dim_grass",
+      "method": "group_dro",
+      "condition": "Original slot order",
+      "variant": "qwen_eta0.1_wd0",
+      "validation": [
+        1.423440657261076,
+        1.4247884378291094,
+        1.4247437145563184
+      ],
+      "metrics": {
+        "average": [
+          62.51504552031392,
+          62.02687008502987,
+          63.1018736511145
+        ],
+        "worst": [
+          59.39942410530645,
+          58.70012340600576,
+          59.893048128342244
+        ]
+      }
+    },
+    {
+      "dataset": "nicopp_outdoor_water",
+      "method": "group_dro",
+      "condition": "Original slot order",
+      "variant": "qwen_eta0.01_wd0",
+      "validation": [
+        1.4717866225499279,
+        1.4697727377812029,
+        1.4783321085920902
+      ],
+      "metrics": {
+        "average": [
+          58.34908201971815,
+          58.206891576832795,
+          57.99049119091364
+        ],
+        "worst": [
+          53.50707850707851,
+          53.051265551265544,
+          52.64907764907765
+        ]
+      }
+    },
+    {
+      "dataset": "waterbirds",
+      "method": "group_dro",
+      "condition": "Slot ranking",
+      "variant": "qwen_eta3_wd0",
+      "validation": [
+        1.5875592216143293,
+        1.603027007349711,
+        1.6159733805763203
+      ],
+      "metrics": {
+        "average": [
+          80.95511186632682,
+          81.89383578202816,
+          81.27686138798516
+        ],
+        "worst": [
+          62.616822429906534,
+          69.1588785046729,
+          74.29906542056075
+        ]
+      }
+    },
+    {
+      "dataset": "celeba",
+      "method": "group_dro",
+      "condition": "Slot ranking",
+      "variant": "qwen_eta3_wd0",
+      "validation": [
+        1.7841556470430628,
+        1.7863892446988574,
+        1.7859230729755766
+      ],
+      "metrics": {
+        "average": [
+          81.54785696971899,
+          83.74131966128222,
+          82.5198912724902
+        ],
+        "worst": [
+          46.666666666666664,
+          56.111111111111114,
+          50.55555555555556
+        ]
+      }
+    },
+    {
+      "dataset": "metashift",
+      "method": "group_dro",
+      "condition": "Slot ranking",
+      "variant": "qwen_eta3_wd0",
+      "validation": [
+        1.8647052971657092,
+        1.8941158151208162,
+        1.8823529411764706
+      ],
+      "metrics": {
+        "average": [
+          80.20833333333333,
+          79.16666666666666,
+          79.16666666666667
+        ],
+        "worst": [
+          63.888888888888886,
+          57.638888888888886,
+          59.02777777777778
+        ]
+      }
+    },
+    {
+      "dataset": "nicopp_autumn_rock",
+      "method": "group_dro",
+      "condition": "Slot ranking",
+      "variant": "qwen_eta1_wd0",
+      "validation": [
+        1.4853793341629633,
+        1.493812641665758,
+        1.490146920301194
+      ],
+      "metrics": {
+        "average": [
+          69.47348403720218,
+          68.91529559895378,
+          68.78607189911537
+        ],
+        "worst": [
+          68.87356321839081,
+          68.32183908045977,
+          68.26666666666667
+        ]
+      }
+    },
+    {
+      "dataset": "nicopp_dim_grass",
+      "method": "group_dro",
+      "condition": "Slot ranking",
+      "variant": "qwen_eta1_wd0",
+      "validation": [
+        1.4653794852599236,
+        1.474657229720615,
+        1.477320332108563
+      ],
+      "metrics": {
+        "average": [
+          67.41223681321583,
+          67.56694893922139,
+          67.8054617745981
+        ],
+        "worst": [
+          63.899629781982725,
+          64.45084327437269,
+          64.52488687782805
+        ]
+      }
+    },
+    {
+      "dataset": "nicopp_outdoor_water",
+      "method": "group_dro",
+      "condition": "Slot ranking",
+      "variant": "qwen_eta1_wd0",
+      "validation": [
+        1.5092912815044044,
+        1.5070456063188533,
+        1.5015244309791576
+      ],
+      "metrics": {
+        "average": [
+          63.45119971061317,
+          63.856597794407755,
+          63.287284275467705
+        ],
+        "worst": [
+          59.18060918060918,
+          59.50772200772201,
+          58.9017589017589
+        ]
+      }
+    },
+    {
+      "dataset": "waterbirds",
+      "method": "group_dro",
+      "condition": "Slot ranking + slot corruption",
+      "variant": "qwen_eta3_wd0",
+      "validation": [
+        1.7239504989284986,
+        1.7220522937924052,
+        1.7287961476034037
+      ],
+      "metrics": {
+        "average": [
+          86.31896236124638,
+          86.13562108433318,
+          85.78002500500791
+        ],
+        "worst": [
+          81.77570093457945,
+          82.86604361370716,
+          82.08722741433021
+        ]
+      }
+    },
+    {
+      "dataset": "celeba",
+      "method": "group_dro",
+      "condition": "Slot ranking + slot corruption",
+      "variant": "qwen_eta3_wd0",
+      "validation": [
+        1.7985436492091882,
+        1.799788919526157,
+        1.8000916212247404
+      ],
+      "metrics": {
+        "average": [
+          82.86101636975859,
+          83.83726816344054,
+          84.92812972419812
+        ],
+        "worst": [
+          50.0,
+          53.888888888888886,
+          58.333333333333336
+        ]
+      }
+    },
+    {
+      "dataset": "metashift",
+      "method": "group_dro",
+      "condition": "Slot ranking + slot corruption",
+      "variant": "qwen_eta1_wd0",
+      "validation": [
+        1.9470530976829408,
+        1.935287119390261,
+        1.9470530976829408
+      ],
+      "metrics": {
+        "average": [
+          83.15972222222221,
+          83.68055555555556,
+          82.98611111111111
+        ],
+        "worst": [
+          67.36111111111111,
+          68.05555555555556,
+          65.97222222222221
+        ]
+      }
+    },
+    {
+      "dataset": "nicopp_autumn_rock",
+      "method": "group_dro",
+      "condition": "Slot ranking + slot corruption",
+      "variant": "qwen_eta1_wd0",
+      "validation": [
+        1.5411304931853713,
+        1.5404211019540157,
+        1.545212342705263
+      ],
+      "metrics": {
+        "average": [
+          70.89056510705687,
+          71.61339330334833,
+          71.5484517481519
+        ],
+        "worst": [
+          70.65747126436783,
+          71.05287356321838,
+          71.37471264367817
+        ]
+      }
+    },
+    {
+      "dataset": "nicopp_dim_grass",
+      "method": "group_dro",
+      "condition": "Slot ranking + slot corruption",
+      "variant": "qwen_eta1_wd0",
+      "validation": [
+        1.5258413304656464,
+        1.5310578150432121,
+        1.529015216320056
+      ],
+      "metrics": {
+        "average": [
+          70.62943900868068,
+          70.35861694929977,
+          70.62910705821184
+        ],
+        "worst": [
+          67.50308515014397,
+          66.9765528589058,
+          67.37145207733442
+        ]
+      }
+    },
+    {
+      "dataset": "nicopp_outdoor_water",
+      "method": "group_dro",
+      "condition": "Slot ranking + slot corruption",
+      "variant": "qwen_eta0.001_wd0",
+      "validation": [
+        1.5568216992447133,
+        1.563634252562943,
+        1.5672678813119851
+      ],
+      "metrics": {
+        "average": [
+          66.64588708150822,
+          66.34945016213001,
+          66.86773402356884
+        ],
+        "worst": [
+          62.78421278421279,
+          62.25868725868726,
+          63.368725868725875
+        ]
+      }
+    },
+    {
+      "dataset": "waterbirds",
+      "method": "jtt",
+      "condition": "Original slot order",
+      "variant": "T5_u100",
+      "validation": [
+        1.465119970487795,
+        1.520258837499388,
+        1.4627296488017423
+      ],
+      "metrics": {
+        "average": [
+          72.21268417017221,
+          73.46585296779051,
+          74.54787215671648
+        ],
+        "worst": [
+          44.704049844236756,
+          51.71339563862928,
+          53.271028037383175
+        ]
+      }
+    },
+    {
+      "dataset": "celeba",
+      "method": "jtt",
+      "condition": "Original slot order",
+      "variant": "T200_u2",
+      "validation": [
+        1.7796068377410994,
+        1.776149186475514,
+        1.771579623007841
+      ],
+      "metrics": {
+        "average": [
+          77.28479856140022,
+          77.006485926536,
+          75.58341925219005
+        ],
+        "worst": [
+          31.666666666666664,
+          29.444444444444446,
+          23.88888888888889
+        ]
+      }
+    },
+    {
+      "dataset": "metashift",
+      "method": "jtt",
+      "condition": "Original slot order",
+      "variant": "T50_u2",
+      "validation": [
+        1.8764657791900143,
+        1.8587354897613149,
+        1.8764443965918791
+      ],
+      "metrics": {
+        "average": [
+          71.70138888888889,
+          74.47916666666666,
+          75.17361111111111
+        ],
+        "worst": [
+          40.27777777777778,
+          45.83333333333333,
+          51.388888888888886
+        ]
+      }
+    },
+    {
+      "dataset": "nicopp_autumn_rock",
+      "method": "jtt",
+      "condition": "Original slot order",
+      "variant": "T200_u1.5",
+      "validation": [
+        1.4626937969336262,
+        1.4571367181904344,
+        1.4649804223693859
+      ],
+      "metrics": {
+        "average": [
+          63.61638401578431,
+          63.23032250108711,
+          63.59467538957794
+        ],
+        "worst": [
+          62.74942528735632,
+          62.76781609195402,
+          63.236781609195404
+        ]
+      }
+    },
+    {
+      "dataset": "nicopp_dim_grass",
+      "method": "jtt",
+      "condition": "Original slot order",
+      "variant": "T200_u5",
+      "validation": [
+        1.4232039719034175,
+        1.4145775713154882,
+        1.423965181500141
+      ],
+      "metrics": {
+        "average": [
+          61.88861209312548,
+          62.01066853995585,
+          63.02799602289356
+        ],
+        "worst": [
+          58.18181818181818,
+          58.64253393665159,
+          59.81077745783628
+        ]
+      }
+    },
+    {
+      "dataset": "nicopp_outdoor_water",
+      "method": "jtt",
+      "condition": "Original slot order",
+      "variant": "T200_u1.5",
+      "validation": [
+        1.475415518036283,
+        1.4798851158572721,
+        1.4722989969718383
+      ],
+      "metrics": {
+        "average": [
+          58.18677077248681,
+          58.884954327463355,
+          58.52119010754902
+        ],
+        "worst": [
+          53.37837837837838,
+          53.807378807378804,
+          53.324753324753324
+        ]
+      }
+    },
+    {
+      "dataset": "waterbirds",
+      "method": "jtt",
+      "condition": "Slot ranking",
+      "variant": "T5_u100",
+      "validation": [
+        1.5464868505651923,
+        1.5895622793194149,
+        1.551851923654564
+      ],
+      "metrics": {
+        "average": [
+          78.95887297870429,
+          80.88539831872406,
+          79.56764476310863
+        ],
+        "worst": [
+          57.63239875389408,
+          69.78193146417445,
+          59.813084112149525
+        ]
+      }
+    },
+    {
+      "dataset": "celeba",
+      "method": "jtt",
+      "condition": "Slot ranking",
+      "variant": "T50_u1.5",
+      "validation": [
+        1.7678996217941507,
+        1.7751804028194107,
+        1.7788008928260814
+      ],
+      "metrics": {
+        "average": [
+          74.9542829743,
+          75.32065460190577,
+          76.7849360395491
+        ],
+        "worst": [
+          22.77777777777778,
+          24.444444444444443,
+          28.333333333333332
+        ]
+      }
+    },
+    {
+      "dataset": "metashift",
+      "method": "jtt",
+      "condition": "Slot ranking",
+      "variant": "T5_u1.5",
+      "validation": [
+        1.9117612708500102,
+        1.905875838707576,
+        1.9058807245518365
+      ],
+      "metrics": {
+        "average": [
+          79.34027777777779,
+          79.6875,
+          79.6875
+        ],
+        "worst": [
+          60.416666666666664,
+          60.416666666666664,
+          59.02777777777778
+        ]
+      }
+    },
+    {
+      "dataset": "nicopp_autumn_rock",
+      "method": "jtt",
+      "condition": "Slot ranking",
+      "variant": "T200_u1.5",
+      "validation": [
+        1.4898155626768617,
+        1.487078461004451,
+        1.4912821030758452
+      ],
+      "metrics": {
+        "average": [
+          69.33086963012,
+          69.55987720425502,
+          69.5857681548836
+        ],
+        "worst": [
+          68.83678160919541,
+          68.80919540229885,
+          68.92873563218392
+        ]
+      }
+    },
+    {
+      "dataset": "nicopp_dim_grass",
+      "method": "jtt",
+      "condition": "Slot ranking",
+      "variant": "T200_u2",
+      "validation": [
+        1.4778899357029702,
+        1.471281882391689,
+        1.4852615329190897
+      ],
+      "metrics": {
+        "average": [
+          67.65391768274868,
+          67.50288602130468,
+          67.4669611894784
+        ],
+        "worst": [
+          64.73056355409297,
+          64.6400658165364,
+          64.37679967091732
+        ]
+      }
+    },
+    {
+      "dataset": "nicopp_outdoor_water",
+      "method": "jtt",
+      "condition": "Slot ranking",
+      "variant": "T200_u1.5",
+      "validation": [
+        1.511337851628248,
+        1.5076559759983366,
+        1.5086611115122968
+      ],
+      "metrics": {
+        "average": [
+          63.37732777647368,
+          63.76216198355426,
+          63.698002839235315
+        ],
+        "worst": [
+          59.14307164307164,
+          59.67395967395967,
+          59.153796653796654
+        ]
+      }
+    },
+    {
+      "dataset": "waterbirds",
+      "method": "jtt",
+      "condition": "Slot ranking + slot corruption",
+      "variant": "T5_u300",
+      "validation": [
+        1.6760571728561455,
+        1.7194783066083987,
+        1.71400118066578
+      ],
+      "metrics": {
+        "average": [
+          83.79628862133991,
+          84.72712076313627,
+          84.70009532295832
+        ],
+        "worst": [
+          63.70716510903427,
+          68.69158878504673,
+          67.7570093457944
+        ]
+      }
+    },
+    {
+      "dataset": "celeba",
+      "method": "jtt",
+      "condition": "Slot ranking + slot corruption",
+      "variant": "T200_u2",
+      "validation": [
+        1.7821337013693812,
+        1.7818567336956996,
+        1.7875877786298073
+      ],
+      "metrics": {
+        "average": [
+          77.80228713039628,
+          76.84645757309013,
+          76.40122095107036
+        ],
+        "worst": [
+          33.33333333333333,
+          28.888888888888886,
+          26.666666666666668
+        ]
+      }
+    },
+    {
+      "dataset": "metashift",
+      "method": "jtt",
+      "condition": "Slot ranking + slot corruption",
+      "variant": "T5_u1.5",
+      "validation": [
+        1.9411723991922352,
+        1.9411723991922352,
+        1.9411723991922352
+      ],
+      "metrics": {
+        "average": [
+          82.98611111111111,
+          82.98611111111111,
+          82.6388888888889
+        ],
+        "worst": [
+          68.05555555555556,
+          69.44444444444444,
+          65.27777777777779
+        ]
+      }
+    },
+    {
+      "dataset": "nicopp_autumn_rock",
+      "method": "jtt",
+      "condition": "Slot ranking + slot corruption",
+      "variant": "T200_u2",
+      "validation": [
+        1.5463803600322756,
+        1.5471609115834541,
+        1.5439708006144819
+      ],
+      "metrics": {
+        "average": [
+          71.54911115870637,
+          71.56215918015019,
+          70.96977485283334
+        ],
+        "worst": [
+          70.67586206896553,
+          71.47374364765669,
+          70.80459770114943
+        ]
+      }
+    },
+    {
+      "dataset": "nicopp_dim_grass",
+      "method": "jtt",
+      "condition": "Slot ranking + slot corruption",
+      "variant": "T200_u1.5",
+      "validation": [
+        1.5369873895255952,
+        1.5365970808241358,
+        1.5304784257004274
+      ],
+      "metrics": {
+        "average": [
+          70.81641000665311,
+          69.78648933411233,
+          69.98369360665055
+        ],
+        "worst": [
+          67.36322501028383,
+          66.19498148909913,
+          66.36774989716166
+        ]
+      }
+    },
+    {
+      "dataset": "nicopp_outdoor_water",
+      "method": "jtt",
+      "condition": "Slot ranking + slot corruption",
+      "variant": "T200_u1.5",
+      "validation": [
+        1.5663871455510208,
+        1.5671280437967505,
+        1.564605640796938
+      ],
+      "metrics": {
+        "average": [
+          67.23166815081956,
+          67.52892998262801,
+          67.24575043201443
+        ],
+        "worst": [
+          63.41698841698842,
+          63.28292578292578,
+          63.26147576147576
+        ]
+      }
+    },
+    {
+      "dataset": "waterbirds",
+      "method": "rsc",
+      "condition": "Original slot order",
+      "variant": "pf0.333333_pb0.333333",
+      "validation": [
+        1.390709985616297,
+        1.3918429470635107,
+        1.3832830992805623
+      ],
+      "metrics": {
+        "average": [
+          69.64074296647809,
+          70.29914485635935,
+          70.01559359263942
+        ],
+        "worst": [
+          33.177570093457945,
+          35.202492211838006,
+          36.7601246105919
+        ]
+      }
+    },
+    {
+      "dataset": "celeba",
+      "method": "rsc",
+      "condition": "Original slot order",
+      "variant": "pf0.75_pb0.1",
+      "validation": [
+        1.7977985752503112,
+        1.7984185452726473,
+        1.7952726637837364
+      ],
+      "metrics": {
+        "average": [
+          82.12559481129702,
+          82.71227026383123,
+          81.89489240508951
+        ],
+        "worst": [
+          47.22222222222222,
+          50.0,
+          47.77777777777778
+        ]
+      }
+    },
+    {
+      "dataset": "metashift",
+      "method": "rsc",
+      "condition": "Original slot order",
+      "variant": "pf0.05_pb0.5",
+      "validation": [
+        1.8646584493612715,
+        1.864691249634182,
+        1.8705882352941177
+      ],
+      "metrics": {
+        "average": [
+          75.52083333333334,
+          75.69444444444444,
+          71.875
+        ],
+        "worst": [
+          53.47222222222222,
+          48.61111111111111,
+          35.41666666666667
+        ]
+      }
+    },
+    {
+      "dataset": "nicopp_autumn_rock",
+      "method": "rsc",
+      "condition": "Original slot order",
+      "variant": "pf0.5_pb0.1",
+      "validation": [
+        1.4737223667303514,
+        1.4724037221644837,
+        1.4782314233943428
+      ],
+      "metrics": {
+        "average": [
+          64.87747295183577,
+          64.7007353466124,
+          64.6815397496057
+        ],
+        "worst": [
+          63.871264367816096,
+          63.93563218390804,
+          63.80689655172414
+        ]
+      }
+    },
+    {
+      "dataset": "nicopp_dim_grass",
+      "method": "rsc",
+      "condition": "Original slot order",
+      "variant": "pf0.5_pb0.1",
+      "validation": [
+        1.4413864026538645,
+        1.4446139537356764,
+        1.4390994820253036
+      ],
+      "metrics": {
+        "average": [
+          62.766721580087534,
+          63.63024617463346,
+          62.80971165232345
+        ],
+        "worst": [
+          60.074043603455365,
+          61.1764705882353,
+          59.893048128342244
+        ]
+      }
+    },
+    {
+      "dataset": "nicopp_outdoor_water",
+      "method": "rsc",
+      "condition": "Original slot order",
+      "variant": "pf0.5_pb0.1",
+      "validation": [
+        1.4931741438977562,
+        1.5040309469593833,
+        1.493785975950852
+      ],
+      "metrics": {
+        "average": [
+          59.0220572357963,
+          59.012579197174794,
+          59.284145786548905
+        ],
+        "worst": [
+          54.032604032604034,
+          53.43200343200343,
+          53.96289146289146
+        ]
+      }
+    },
+    {
+      "dataset": "waterbirds",
+      "method": "rsc",
+      "condition": "Slot ranking",
+      "variant": "pf0.75_pb0.5",
+      "validation": [
+        1.432129105579911,
+        1.4243017067557817,
+        1.4243006286581128
+      ],
+      "metrics": {
+        "average": [
+          74.42505750461073,
+          74.04354117882725,
+          74.12627528994066
+        ],
+        "worst": [
+          47.19626168224299,
+          47.81931464174455,
+          47.50778816199377
+        ]
+      }
+    },
+    {
+      "dataset": "celeba",
+      "method": "rsc",
+      "condition": "Slot ranking",
+      "variant": "pf0.5_pb0.1",
+      "validation": [
+        1.7922812593395565,
+        1.7893419716324634,
+        1.7917668019409745
+      ],
+      "metrics": {
+        "average": [
+          82.26318040071112,
+          82.87633745416805,
+          81.9044348949181
+        ],
+        "worst": [
+          47.77777777777778,
+          50.55555555555556,
+          47.22222222222222
+        ]
+      }
+    },
+    {
+      "dataset": "metashift",
+      "method": "rsc",
+      "condition": "Slot ranking",
+      "variant": "pf0.333333_pb0.333333",
+      "validation": [
+        1.911764324238506,
+        1.8999961069633449,
+        1.9058807245518365
+      ],
+      "metrics": {
+        "average": [
+          79.6875,
+          79.86111111111111,
+          78.125
+        ],
+        "worst": [
+          62.5,
+          58.333333333333336,
+          56.25
+        ]
+      }
+    },
+    {
+      "dataset": "nicopp_autumn_rock",
+      "method": "rsc",
+      "condition": "Slot ranking",
+      "variant": "pf0.75_pb0.333333",
+      "validation": [
+        1.5078980228604693,
+        1.51445680089452,
+        1.5089468997202315
+      ],
+      "metrics": {
+        "average": [
+          70.19622656204365,
+          69.78565262823135,
+          69.96632852404967
+        ],
+        "worst": [
+          69.51724137931035,
+          69.05747126436782,
+          69.70114942528735
+        ]
+      }
+    },
+    {
+      "dataset": "nicopp_dim_grass",
+      "method": "rsc",
+      "condition": "Slot ranking",
+      "variant": "pf0.5_pb0.1",
+      "validation": [
+        1.486914666151705,
+        1.4967118221824651,
+        1.4929877803633338
+      ],
+      "metrics": {
+        "average": [
+          67.57895033697739,
+          68.40016326492722,
+          68.49310027896271
+        ],
+        "worst": [
+          64.59070341423283,
+          65.64376799670917,
+          65.66844919786097
+        ]
+      }
+    },
+    {
+      "dataset": "nicopp_outdoor_water",
+      "method": "rsc",
+      "condition": "Slot ranking",
+      "variant": "pf0.75_pb0.333333",
+      "validation": [
+        1.5242982448851792,
+        1.5311722737075482,
+        1.5380314173604035
+      ],
+      "metrics": {
+        "average": [
+          64.53755373044542,
+          64.18080003497563,
+          64.40144383610067
+        ],
+        "worst": [
+          59.92063492063492,
+          58.90712140712141,
+          59.37902187902188
+        ]
+      }
+    },
+    {
+      "dataset": "waterbirds",
+      "method": "rsc",
+      "condition": "Slot ranking + slot corruption",
+      "variant": "pf0.05_pb0.05",
+      "validation": [
+        1.625706953344485,
+        1.606814139133995,
+        1.6346410909041635
+      ],
+      "metrics": {
+        "average": [
+          82.28324388171664,
+          80.78226992975111,
+          80.86472774243461
+        ],
+        "worst": [
+          64.01869158878505,
+          62.928348909657316,
+          64.01869158878505
+        ]
+      }
+    },
+    {
+      "dataset": "celeba",
+      "method": "rsc",
+      "condition": "Slot ranking + slot corruption",
+      "variant": "pf0.5_pb0.02",
+      "validation": [
+        1.7947966608654524,
+        1.7957187181822225,
+        1.8005676739661247
+      ],
+      "metrics": {
+        "average": [
+          84.59933151221965,
+          84.63589653329437,
+          84.58941412801093
+        ],
+        "worst": [
+          56.666666666666664,
+          56.666666666666664,
+          56.111111111111114
+        ]
+      }
+    },
+    {
+      "dataset": "metashift",
+      "method": "rsc",
+      "condition": "Slot ranking + slot corruption",
+      "variant": "pf0.333333_pb0.333333",
+      "validation": [
+        1.9470567625100061,
+        1.9352938377749043,
+        1.9470530976829408
+      ],
+      "metrics": {
+        "average": [
+          82.98611111111111,
+          83.68055555555556,
+          82.81249999999999
+        ],
+        "worst": [
+          65.27777777777779,
+          64.58333333333334,
+          66.66666666666666
+        ]
+      }
+    },
+    {
+      "dataset": "nicopp_autumn_rock",
+      "method": "rsc",
+      "condition": "Slot ranking + slot corruption",
+      "variant": "pf0.9_pb0.02",
+      "validation": [
+        1.5497593489354542,
+        1.5517935619322003,
+        1.5494203184127309
+      ],
+      "metrics": {
+        "average": [
+          71.06826586706647,
+          71.66872407951868,
+          71.6936388948383
+        ],
+        "worst": [
+          70.83218390804598,
+          71.3103448275862,
+          71.55279503105591
+        ]
+      }
+    },
+    {
+      "dataset": "nicopp_dim_grass",
+      "method": "rsc",
+      "condition": "Slot ranking + slot corruption",
+      "variant": "pf0.9_pb0.333333",
+      "validation": [
+        1.5327713582268563,
+        1.5405967302870847,
+        1.535960562342435
+      ],
+      "metrics": {
+        "average": [
+          70.12228354902379,
+          70.42576128757992,
+          71.09109301053216
+        ],
+        "worst": [
+          67.01768819415878,
+          67.63471822295351,
+          67.92266556972439
+        ]
+      }
+    },
+    {
+      "dataset": "nicopp_outdoor_water",
+      "method": "rsc",
+      "condition": "Slot ranking + slot corruption",
+      "variant": "pf0.9_pb0.333333",
+      "validation": [
+        1.56864499373507,
+        1.583251594294342,
+        1.574972152622517
+      ],
+      "metrics": {
+        "average": [
+          66.40252707991334,
+          67.12672106774538,
+          66.60169984689364
+        ],
+        "worst": [
+          62.028099528099524,
+          62.43564993564994,
+          62.41419991419992
+        ]
+      }
+    },
+    {
+      "dataset": "waterbirds",
+      "method": "coral",
+      "condition": "Original slot order",
+      "variant": "qwen_lambda300",
+      "validation": [
+        1.488663145143398,
+        1.4670119649296076,
+        1.4863759631079587
+      ],
+      "metrics": {
+        "average": [
+          71.91319394077541,
+          73.18810397109918,
+          73.17370191543887
+        ],
+        "worst": [
+          56.38629283489096,
+          63.70716510903427,
+          61.059190031152646
+        ]
+      }
+    },
+    {
+      "dataset": "celeba",
+      "method": "coral",
+      "condition": "Original slot order",
+      "variant": "qwen_lambda0.003",
+      "validation": [
+        1.773169994315254,
+        1.773577396766194,
+        1.772677270548308
+      ],
+      "metrics": {
+        "average": [
+          76.7622537222179,
+          75.88854587426526,
+          75.99411183293392
+        ],
+        "worst": [
+          30.0,
+          26.111111111111114,
+          26.666666666666668
+        ]
+      }
+    },
+    {
+      "dataset": "metashift",
+      "method": "coral",
+      "condition": "Original slot order",
+      "variant": "qwen_lambda0.01",
+      "validation": [
+        1.8587354897613149,
+        1.8529354514166836,
+        1.8588137580613642
+      ],
+      "metrics": {
+        "average": [
+          72.91666666666666,
+          73.6111111111111,
+          71.875
+        ],
+        "worst": [
+          45.13888888888889,
+          38.19444444444444,
+          38.19444444444444
+        ]
+      }
+    },
+    {
+      "dataset": "nicopp_autumn_rock",
+      "method": "coral",
+      "condition": "Original slot order",
+      "variant": "qwen_lambda0.01",
+      "validation": [
+        1.4474747020383123,
+        1.4382043971010219,
+        1.4461108082836507
+      ],
+      "metrics": {
+        "average": [
+          63.32891216729297,
+          62.71069659975208,
+          62.30609889860265
+        ],
+        "worst": [
+          61.903448275862075,
+          61.97701149425288,
+          61.167816091954016
+        ]
+      }
+    },
+    {
+      "dataset": "nicopp_dim_grass",
+      "method": "coral",
+      "condition": "Original slot order",
+      "variant": "qwen_lambda0.003",
+      "validation": [
+        1.4129733373557447,
+        1.4095665612548274,
+        1.4117336332061705
+      ],
+      "metrics": {
+        "average": [
+          61.895742190274674,
+          61.79532862391901,
+          61.87080114774465
+        ],
+        "worst": [
+          58.38749485808309,
+          58.51912793089264,
+          58.6096256684492
+        ]
+      }
+    },
+    {
+      "dataset": "nicopp_outdoor_water",
+      "method": "coral",
+      "condition": "Original slot order",
+      "variant": "qwen_lambda10",
+      "validation": [
+        1.4629111107522084,
+        1.4527436714511965,
+        1.4643924478570822
+      ],
+      "metrics": {
+        "average": [
+          57.62645019441077,
+          57.170003246198675,
+          56.922060014725176
+        ],
+        "worst": [
+          53.16387816387817,
+          52.52037752037752,
+          52.563277563277566
+        ]
+      }
+    },
+    {
+      "dataset": "waterbirds",
+      "method": "coral",
+      "condition": "Slot ranking",
+      "variant": "qwen_lambda10",
+      "validation": [
+        1.5670077061908043,
+        1.580171960750616,
+        1.5820304505559495
+      ],
+      "metrics": {
+        "average": [
+          79.16131338458669,
+          78.6858555926256,
+          78.43627176713568
+        ],
+        "worst": [
+          69.47040498442367,
+          68.84735202492212,
+          69.1588785046729
+        ]
+      }
+    },
+    {
+      "dataset": "celeba",
+      "method": "coral",
+      "condition": "Slot ranking",
+      "variant": "qwen_lambda0.01",
+      "validation": [
+        1.7741119908342524,
+        1.7677889668470927,
+        1.7733520428864655
+      ],
+      "metrics": {
+        "average": [
+          76.79054559569497,
+          75.02140523572311,
+          76.01506847425334
+        ],
+        "worst": [
+          30.0,
+          22.77777777777778,
+          27.22222222222222
+        ]
+      }
+    },
+    {
+      "dataset": "metashift",
+      "method": "coral",
+      "condition": "Slot ranking",
+      "variant": "qwen_lambda0.003",
+      "validation": [
+        1.8941158151208162,
+        1.8882348107021076,
+        1.905875838707576
+      ],
+      "metrics": {
+        "average": [
+          77.60416666666666,
+          78.81944444444446,
+          79.16666666666666
+        ],
+        "worst": [
+          56.94444444444444,
+          54.861111111111114,
+          57.638888888888886
+        ]
+      }
+    },
+    {
+      "dataset": "nicopp_autumn_rock",
+      "method": "coral",
+      "condition": "Slot ranking",
+      "variant": "qwen_lambda10",
+      "validation": [
+        1.4756647972951642,
+        1.4806918984094803,
+        1.4777422066778199
+      ],
+      "metrics": {
+        "average": [
+          68.56329757199322,
+          68.74461989784328,
+          69.10082621027149
+        ],
+        "worst": [
+          67.2,
+          67.78850574712644,
+          68.22988505747126
+        ]
+      }
+    },
+    {
+      "dataset": "nicopp_dim_grass",
+      "method": "coral",
+      "condition": "Slot ranking",
+      "variant": "qwen_lambda10",
+      "validation": [
+        1.4480241876272442,
+        1.4557012154770286,
+        1.4586349305797484
+      ],
+      "metrics": {
+        "average": [
+          66.82827377550683,
+          66.26915791418405,
+          66.81827858526606
+        ],
+        "worst": [
+          63.044014808720696,
+          62.303578774167015,
+          63.200329082682025
+        ]
+      }
+    },
+    {
+      "dataset": "nicopp_outdoor_water",
+      "method": "coral",
+      "condition": "Slot ranking",
+      "variant": "qwen_lambda10",
+      "validation": [
+        1.492061342721175,
+        1.4964437760130753,
+        1.4944002602076882
+      ],
+      "metrics": {
+        "average": [
+          62.82811224340643,
+          62.20266051971801,
+          62.71976405869444
+        ],
+        "worst": [
+          58.94465894465895,
+          58.56928356928357,
+          58.83204633204633
+        ]
+      }
+    },
+    {
+      "dataset": "waterbirds",
+      "method": "coral",
+      "condition": "Slot ranking + slot corruption",
+      "variant": "qwen_lambda10",
+      "validation": [
+        1.6699609070155381,
+        1.6602958643635324,
+        1.65729610461708
+      ],
+      "metrics": {
+        "average": [
+          83.4800305309765,
+          82.630671888707,
+          82.77826705624744
+        ],
+        "worst": [
+          73.67601246105919,
+          76.32398753894081,
+          68.22429906542055
+        ]
+      }
+    },
+    {
+      "dataset": "celeba",
+      "method": "coral",
+      "condition": "Slot ranking + slot corruption",
+      "variant": "qwen_lambda0.003",
+      "validation": [
+        1.7846015518337988,
+        1.7853285303137636,
+        1.7815738136666044
+      ],
+      "metrics": {
+        "average": [
+          76.20117079893558,
+          77.26238905755531,
+          76.91333473285754
+        ],
+        "worst": [
+          26.666666666666668,
+          30.555555555555557,
+          30.0
+        ]
+      }
+    },
+    {
+      "dataset": "metashift",
+      "method": "coral",
+      "condition": "Slot ranking + slot corruption",
+      "variant": "qwen_lambda0.1",
+      "validation": [
+        1.935287119390261,
+        1.9470585945431036,
+        1.9588219263966715
+      ],
+      "metrics": {
+        "average": [
+          83.85416666666666,
+          85.41666666666667,
+          84.02777777777779
+        ],
+        "worst": [
+          70.13888888888889,
+          70.83333333333334,
+          70.13888888888889
+        ]
+      }
+    },
+    {
+      "dataset": "nicopp_autumn_rock",
+      "method": "coral",
+      "condition": "Slot ranking + slot corruption",
+      "variant": "qwen_lambda1",
+      "validation": [
+        1.5381748365676844,
+        1.5398275892681739,
+        1.541005284213202
+      ],
+      "metrics": {
+        "average": [
+          71.16523296793163,
+          71.5065973506753,
+          71.47335163587037
+        ],
+        "worst": [
+          70.42758620689655,
+          70.85057471264368,
+          71.43908045977011
+        ]
+      }
+    },
+    {
+      "dataset": "nicopp_dim_grass",
+      "method": "coral",
+      "condition": "Slot ranking + slot corruption",
+      "variant": "qwen_lambda100",
+      "validation": [
+        1.5189736812574868,
+        1.528566187374797,
+        1.5193404008597158
+      ],
+      "metrics": {
+        "average": [
+          70.59620604236052,
+          70.36315629943772,
+          70.67839009907375
+        ],
+        "worst": [
+          67.05882352941175,
+          66.77910324969149,
+          67.31386260798025
+        ]
+      }
+    },
+    {
+      "dataset": "nicopp_outdoor_water",
+      "method": "coral",
+      "condition": "Slot ranking + slot corruption",
+      "variant": "qwen_lambda100",
+      "validation": [
+        1.5526691814517766,
+        1.550403669679846,
+        1.5559212834030238
+      ],
+      "metrics": {
+        "average": [
+          67.19945109325505,
+          67.12344604227603,
+          67.23485551395305
+        ],
+        "worst": [
+          63.26683826683826,
+          63.561776061776065,
+          63.67438867438867
+        ]
+      }
+    },
+    {
+      "dataset": "waterbirds",
+      "method": "mixup",
+      "condition": "Original slot order",
+      "variant": "alpha0.03",
+      "validation": [
+        1.3487858373223853,
+        1.3253853893376477,
+        1.3527928694068416
+      ],
+      "metrics": {
+        "average": [
+          70.07406524787423,
+          68.10607787471248,
+          69.2499188373362
+        ],
+        "worst": [
+          37.69470404984423,
+          36.13707165109034,
+          39.40809968847352
+        ]
+      }
+    },
+    {
+      "dataset": "celeba",
+      "method": "mixup",
+      "condition": "Original slot order",
+      "variant": "alpha0.03",
+      "validation": [
+        1.7898156948623138,
+        1.7855393363267034,
+        1.7862085508001648
+      ],
+      "metrics": {
+        "average": [
+          84.01427897535487,
+          82.96963177323069,
+          81.81866109458575
+        ],
+        "worst": [
+          56.111111111111114,
+          52.22222222222223,
+          47.22222222222222
+        ]
+      }
+    },
+    {
+      "dataset": "metashift",
+      "method": "mixup",
+      "condition": "Original slot order",
+      "variant": "alpha0.03",
+      "validation": [
+        1.8882115969164621,
+        1.870568078396081,
+        1.864700615303349
+      ],
+      "metrics": {
+        "average": [
+          75.17361111111111,
+          75.52083333333334,
+          71.70138888888889
+        ],
+        "worst": [
+          51.388888888888886,
+          47.22222222222222,
+          34.02777777777778
+        ]
+      }
+    },
+    {
+      "dataset": "nicopp_autumn_rock",
+      "method": "mixup",
+      "condition": "Original slot order",
+      "variant": "alpha1",
+      "validation": [
+        1.474586238379613,
+        1.476998269254013,
+        1.4787721281229305
+      ],
+      "metrics": {
+        "average": [
+          63.368180844642616,
+          62.58768018588108,
+          62.95961889185278
+        ],
+        "worst": [
+          62.64827586206897,
+          62.114942528735625,
+          62.4183908045977
+        ]
+      }
+    },
+    {
+      "dataset": "nicopp_dim_grass",
+      "method": "mixup",
+      "condition": "Original slot order",
+      "variant": "alpha2",
+      "validation": [
+        1.435417394426958,
+        1.437868111089847,
+        1.439085091956231
+      ],
+      "metrics": {
+        "average": [
+          60.86183769768769,
+          61.32685471833401,
+          61.60743388363068
+        ],
+        "worst": [
+          58.51090086384204,
+          58.765939942410526,
+          58.667215137803375
+        ]
+      }
+    },
+    {
+      "dataset": "nicopp_outdoor_water",
+      "method": "mixup",
+      "condition": "Original slot order",
+      "variant": "alpha0.03",
+      "validation": [
+        1.4852866582143052,
+        1.4897916895632868,
+        1.4842154335877775
+      ],
+      "metrics": {
+        "average": [
+          58.085792133808425,
+          58.899481486804696,
+          58.86971273650084
+        ],
+        "worst": [
+          52.686615186615185,
+          52.9976404976405,
+          53.15851565851566
+        ]
+      }
+    },
+    {
+      "dataset": "waterbirds",
+      "method": "mixup",
+      "condition": "Slot ranking",
+      "variant": "alpha0.03",
+      "validation": [
+        1.3881518114220577,
+        1.404839763847309,
+        1.411984047604434
+      ],
+      "metrics": {
+        "average": [
+          73.06737882586982,
+          73.42782739637082,
+          72.85894619778823
+        ],
+        "worst": [
+          47.19626168224299,
+          46.728971962616825,
+          48.13084112149533
+        ]
+      }
+    },
+    {
+      "dataset": "celeba",
+      "method": "mixup",
+      "condition": "Slot ranking",
+      "variant": "alpha0.03",
+      "validation": [
+        1.782861828953732,
+        1.7799469875227452,
+        1.785784008980833
+      ],
+      "metrics": {
+        "average": [
+          81.93771908933297,
+          81.95969902995593,
+          82.12270065781145
+        ],
+        "worst": [
+          46.666666666666664,
+          48.333333333333336,
+          48.333333333333336
+        ]
+      }
+    },
+    {
+      "dataset": "metashift",
+      "method": "mixup",
+      "condition": "Slot ranking",
+      "variant": "alpha0.03",
+      "validation": [
+        1.8999961069633449,
+        1.8999995674703067,
+        1.917641358869129
+      ],
+      "metrics": {
+        "average": [
+          79.6875,
+          79.6875,
+          80.03472222222221
+        ],
+        "worst": [
+          61.80555555555556,
+          59.72222222222222,
+          59.72222222222222
+        ]
+      }
+    },
+    {
+      "dataset": "nicopp_autumn_rock",
+      "method": "mixup",
+      "condition": "Slot ranking",
+      "variant": "alpha0.03",
+      "validation": [
+        1.5011701844821848,
+        1.500023243947996,
+        1.4984631022296928
+      ],
+      "metrics": {
+        "average": [
+          69.62013538685203,
+          69.36443206967944,
+          69.47792337597434
+        ],
+        "worst": [
+          68.7264367816092,
+          68.54252873563217,
+          68.73563218390805
+        ]
+      }
+    },
+    {
+      "dataset": "nicopp_dim_grass",
+      "method": "mixup",
+      "condition": "Slot ranking",
+      "variant": "alpha0.03",
+      "validation": [
+        1.484213085806303,
+        1.4913534045967407,
+        1.4904613113786844
+      ],
+      "metrics": {
+        "average": [
+          67.67592877544757,
+          68.02969265862322,
+          67.84298150202905
+        ],
+        "worst": [
+          64.22048539695598,
+          64.92801316330728,
+          64.79638009049773
+        ]
+      }
+    },
+    {
+      "dataset": "nicopp_outdoor_water",
+      "method": "mixup",
+      "condition": "Slot ranking",
+      "variant": "alpha0.03",
+      "validation": [
+        1.5202116419873801,
+        1.5243592066558156,
+        1.5270958760649074
+      ],
+      "metrics": {
+        "average": [
+          63.75105874432392,
+          63.629831419352634,
+          63.808505153481576
+        ],
+        "worst": [
+          58.88030888030889,
+          59.03582153582153,
+          58.97683397683397
+        ]
+      }
+    },
+    {
+      "dataset": "waterbirds",
+      "method": "mixup",
+      "condition": "Slot ranking + slot corruption",
+      "variant": "alpha0.03",
+      "validation": [
+        1.6070262487961031,
+        1.6048230413988456,
+        1.5947269284029777
+      ],
+      "metrics": {
+        "average": [
+          81.24277306919203,
+          80.88883478044635,
+          80.38177535556153
+        ],
+        "worst": [
+          64.17445482866043,
+          65.57632398753894,
+          62.77258566978193
+        ]
+      }
+    },
+    {
+      "dataset": "celeba",
+      "method": "mixup",
+      "condition": "Slot ranking + slot corruption",
+      "variant": "alpha0.03",
+      "validation": [
+        1.7911497795878062,
+        1.7906806343427235,
+        1.7926587530361837
+      ],
+      "metrics": {
+        "average": [
+          83.6700087225017,
+          83.92416776616228,
+          83.89419023217879
+        ],
+        "worst": [
+          53.888888888888886,
+          54.44444444444444,
+          54.44444444444444
+        ]
+      }
+    },
+    {
+      "dataset": "metashift",
+      "method": "mixup",
+      "condition": "Slot ranking + slot corruption",
+      "variant": "alpha0.5",
+      "validation": [
+        1.941175452844898,
+        1.941175452844898,
+        1.9470567625100061
+      ],
+      "metrics": {
+        "average": [
+          82.9861111111111,
+          83.15972222222221,
+          83.68055555555556
+        ],
+        "worst": [
+          66.66666666666666,
+          65.27777777777779,
+          66.66666666666666
+        ]
+      }
+    },
+    {
+      "dataset": "nicopp_autumn_rock",
+      "method": "mixup",
+      "condition": "Slot ranking + slot corruption",
+      "variant": "alpha0.2",
+      "validation": [
+        1.5624240930195432,
+        1.565447011005282,
+        1.5601459465771728
+      ],
+      "metrics": {
+        "average": [
+          71.39753240262985,
+          71.88191358866021,
+          71.94313492604347
+        ],
+        "worst": [
+          71.16321839080459,
+          71.66896551724138,
+          71.82528735632184
+        ]
+      }
+    },
+    {
+      "dataset": "nicopp_dim_grass",
+      "method": "mixup",
+      "condition": "Slot ranking + slot corruption",
+      "variant": "alpha0.2",
+      "validation": [
+        1.5505901061810812,
+        1.546371895404743,
+        1.5414856685946319
+      ],
+      "metrics": {
+        "average": [
+          70.85870716854704,
+          70.99496620528728,
+          71.18016908006952
+        ],
+        "worst": [
+          67.90621143562319,
+          67.88153023447141,
+          67.9144385026738
+        ]
+      }
+    },
+    {
+      "dataset": "nicopp_outdoor_water",
+      "method": "mixup",
+      "condition": "Slot ranking + slot corruption",
+      "variant": "alpha0.5",
+      "validation": [
+        1.5809456450531152,
+        1.5814281694601995,
+        1.5817206419386094
+      ],
+      "metrics": {
+        "average": [
+          67.15228662245438,
+          67.29224069080495,
+          67.08025182164961
+        ],
+        "worst": [
+          63.06842556842557,
+          62.864650364650366,
+          62.87537537537538
+        ]
+      }
+    },
+    {
+      "dataset": "waterbirds",
+      "method": "elrep",
+      "condition": "Original slot order",
+      "variant": "n0.001_f3e-05",
+      "validation": [
+        1.3908372491746048,
+        1.36169008143293,
+        1.3636839978099613
+      ],
+      "metrics": {
+        "average": [
+          69.47997181756016,
+          69.1876998846454,
+          68.72151535873897
+        ],
+        "worst": [
+          35.981308411214954,
+          36.915887850467286,
+          36.29283489096573
+        ]
+      }
+    },
+    {
+      "dataset": "celeba",
+      "method": "elrep",
+      "condition": "Original slot order",
+      "variant": "n0.001_f1e-05",
+      "validation": [
+        1.7939168299831016,
+        1.7918151443607728,
+        1.7880311379855431
+      ],
+      "metrics": {
+        "average": [
+          83.6628206277451,
+          82.57166261144995,
+          82.70771777128006
+        ],
+        "worst": [
+          55.55555555555556,
+          51.11111111111111,
+          50.0
+        ]
+      }
+    },
+    {
+      "dataset": "metashift",
+      "method": "elrep",
+      "condition": "Original slot order",
+      "variant": "n0.0001_f1e-05",
+      "validation": [
+        1.8587354897613149,
+        1.858801540068452,
+        1.8588137580613642
+      ],
+      "metrics": {
+        "average": [
+          72.74305555555556,
+          75.86805555555556,
+          71.52777777777779
+        ],
+        "worst": [
+          44.44444444444444,
+          50.0,
+          35.41666666666667
+        ]
+      }
+    },
+    {
+      "dataset": "nicopp_autumn_rock",
+      "method": "elrep",
+      "condition": "Original slot order",
+      "variant": "n0.0003_f3e-05",
+      "validation": [
+        1.4720927642802093,
+        1.462184224597662,
+        1.4708198033362558
+      ],
+      "metrics": {
+        "average": [
+          63.763840157843156,
+          64.88803390512537,
+          64.21990303549524
+        ],
+        "worst": [
+          62.694252873563215,
+          64.17471264367816,
+          63.44827586206897
+        ]
+      }
+    },
+    {
+      "dataset": "nicopp_dim_grass",
+      "method": "elrep",
+      "condition": "Original slot order",
+      "variant": "n0.0003_f1e-05",
+      "validation": [
+        1.4376573093940166,
+        1.4320887721951328,
+        1.434059038934484
+      ],
+      "metrics": {
+        "average": [
+          62.41572892385968,
+          62.78788829191219,
+          63.55563253638421
+        ],
+        "worst": [
+          59.34183463595228,
+          59.72850678733032,
+          60.42780748663101
+        ]
+      }
+    },
+    {
+      "dataset": "nicopp_outdoor_water",
+      "method": "elrep",
+      "condition": "Original slot order",
+      "variant": "n0.0001_f1e-05",
+      "validation": [
+        1.4862942793473368,
+        1.4926014902142655,
+        1.4850602328937852
+      ],
+      "metrics": {
+        "average": [
+          58.851387040100064,
+          58.58402184054238,
+          59.09565600490415
+        ],
+        "worst": [
+          53.24431574431574,
+          52.69734019734019,
+          53.512441012441016
+        ]
+      }
+    },
+    {
+      "dataset": "waterbirds",
+      "method": "elrep",
+      "condition": "Slot ranking",
+      "variant": "n0.001_f3e-05",
+      "validation": [
+        1.4255849806724743,
+        1.4229631908701972,
+        1.418466088815151
+      ],
+      "metrics": {
+        "average": [
+          73.47785468084078,
+          74.63195322267582,
+          73.10631963583867
+        ],
+        "worst": [
+          47.0404984423676,
+          49.532710280373834,
+          46.26168224299065
+        ]
+      }
+    },
+    {
+      "dataset": "celeba",
+      "method": "elrep",
+      "condition": "Slot ranking",
+      "variant": "n0.001_f0.0001",
+      "validation": [
+        1.7848256708129226,
+        1.7811091538147146,
+        1.79120370108466
+      ],
+      "metrics": {
+        "average": [
+          81.16050374654084,
+          81.36753655457754,
+          81.6653326385935
+        ],
+        "worst": [
+          44.44444444444444,
+          45.55555555555556,
+          46.666666666666664
+        ]
+      }
+    },
+    {
+      "dataset": "metashift",
+      "method": "elrep",
+      "condition": "Slot ranking",
+      "variant": "n0.0001_f1e-05",
+      "validation": [
+        1.8941158151208162,
+        1.8999961069633449,
+        1.8999995674703067
+      ],
+      "metrics": {
+        "average": [
+          77.25694444444444,
+          80.03472222222223,
+          78.47222222222221
+        ],
+        "worst": [
+          55.55555555555556,
+          59.72222222222222,
+          56.25
+        ]
+      }
+    },
+    {
+      "dataset": "nicopp_autumn_rock",
+      "method": "elrep",
+      "condition": "Slot ranking",
+      "variant": "n0.001_f3e-05",
+      "validation": [
+        1.5009595517017924,
+        1.503794950654867,
+        1.5019699096033214
+      ],
+      "metrics": {
+        "average": [
+          69.96359742206819,
+          69.55487710690109,
+          69.5763287187575
+        ],
+        "worst": [
+          69.13103448275862,
+          68.75402298850575,
+          69.01149425287356
+        ]
+      }
+    },
+    {
+      "dataset": "nicopp_dim_grass",
+      "method": "elrep",
+      "condition": "Slot ranking",
+      "variant": "n0.0003_f0.0001",
+      "validation": [
+        1.486047758652696,
+        1.4926690801412175,
+        1.4877847212301463
+      ],
+      "metrics": {
+        "average": [
+          67.65619823634425,
+          68.12615141433693,
+          67.94565386492708
+        ],
+        "worst": [
+          64.26162073220897,
+          65.10078157136981,
+          64.93624023035788
+        ]
+      }
+    },
+    {
+      "dataset": "nicopp_outdoor_water",
+      "method": "elrep",
+      "condition": "Slot ranking",
+      "variant": "n0.0003_f0.0001",
+      "validation": [
+        1.523325952848496,
+        1.526686384937436,
+        1.5271668560867218
+      ],
+      "metrics": {
+        "average": [
+          63.8801178946131,
+          64.06221193729613,
+          64.07036075881358
+        ],
+        "worst": [
+          59.089446589446595,
+          58.98219648219648,
+          59.21278421278421
+        ]
+      }
+    },
+    {
+      "dataset": "waterbirds",
+      "method": "elrep",
+      "condition": "Slot ranking + slot corruption",
+      "variant": "n0.0003_f3e-05",
+      "validation": [
+        1.6222436274682372,
+        1.6436692865188682,
+        1.6154661667554393
+      ],
+      "metrics": {
+        "average": [
+          81.71242859412452,
+          81.83785081266277,
+          81.0512637199439
+        ],
+        "worst": [
+          63.55140186915887,
+          62.46105919003115,
+          61.99376947040498
+        ]
+      }
+    },
+    {
+      "dataset": "celeba",
+      "method": "elrep",
+      "condition": "Slot ranking + slot corruption",
+      "variant": "n0.001_f3e-05",
+      "validation": [
+        1.7910910079396518,
+        1.7974788264507333,
+        1.7962472726879193
+      ],
+      "metrics": {
+        "average": [
+          83.45171486837275,
+          83.5120684785721,
+          83.6065865240426
+        ],
+        "worst": [
+          53.333333333333336,
+          52.22222222222223,
+          53.333333333333336
+        ]
+      }
+    },
+    {
+      "dataset": "metashift",
+      "method": "elrep",
+      "condition": "Slot ranking + slot corruption",
+      "variant": "n0.001_f0.0001",
+      "validation": [
+        1.935291598623341,
+        1.9294105434138777,
+        1.9411723991922352
+      ],
+      "metrics": {
+        "average": [
+          83.33333333333334,
+          83.50694444444444,
+          82.63888888888889
+        ],
+        "worst": [
+          65.27777777777779,
+          66.66666666666666,
+          65.97222222222221
+        ]
+      }
+    },
+    {
+      "dataset": "nicopp_autumn_rock",
+      "method": "elrep",
+      "condition": "Slot ranking + slot corruption",
+      "variant": "n0.001_f0.0001",
+      "validation": [
+        1.5421855039178722,
+        1.5502957920890688,
+        1.549454501891737
+      ],
+      "metrics": {
+        "average": [
+          71.30888322072731,
+          71.4490832505825,
+          71.25556442557941
+        ],
+        "worst": [
+          71.09885057471264,
+          70.85977011494253,
+          71.07126436781608
+        ]
+      }
+    },
+    {
+      "dataset": "nicopp_dim_grass",
+      "method": "elrep",
+      "condition": "Slot ranking + slot corruption",
+      "variant": "n0.0003_f0.0001",
+      "validation": [
+        1.5298907267703268,
+        1.5339282796834635,
+        1.53466331261231
+      ],
+      "metrics": {
+        "average": [
+          70.81840170946617,
+          70.63406497261138,
+          70.5434012598204
+        ],
+        "worst": [
+          68.1530234471411,
+          67.2151378033731,
+          66.9683257918552
+        ]
+      }
+    },
+    {
+      "dataset": "nicopp_outdoor_water",
+      "method": "elrep",
+      "condition": "Slot ranking + slot corruption",
+      "variant": "n0.0003_f0.0001",
+      "validation": [
+        1.5623006702169284,
+        1.5763789331033284,
+        1.573631201835643
+      ],
+      "metrics": {
+        "average": [
+          66.90181103294125,
+          67.01015921765325,
+          66.81510198393195
+        ],
+        "worst": [
+          62.62870012870013,
+          62.74131274131274,
+          62.94508794508794
+        ]
+      }
+    },
+    {
+      "dataset": "waterbirds",
+      "method": "sagm",
+      "condition": "Original slot order",
+      "variant": "alpha0.0005",
+      "validation": [
+        1.3511313786563277,
+        1.3433340487666179,
+        1.3602290527735348
+      ],
+      "metrics": {
+        "average": [
+          69.02901824260384,
+          69.21776460755262,
+          70.54676005553598
+        ],
+        "worst": [
+          38.47352024922118,
+          38.47352024922118,
+          38.940809968847354
+        ]
+      }
+    },
+    {
+      "dataset": "celeba",
+      "method": "sagm",
+      "condition": "Original slot order",
+      "variant": "alpha0.001",
+      "validation": [
+        1.7938396875147034,
+        1.7918300807739063,
+        1.792114508567874
+      ],
+      "metrics": {
+        "average": [
+          84.00542957927708,
+          82.51239538056929,
+          82.82615612014501
+        ],
+        "worst": [
+          55.55555555555556,
+          49.44444444444444,
+          50.0
+        ]
+      }
+    },
+    {
+      "dataset": "metashift",
+      "method": "sagm",
+      "condition": "Original slot order",
+      "variant": "alpha0.0005",
+      "validation": [
+        1.8587624140565318,
+        1.858801540068452,
+        1.8588137580613642
+      ],
+      "metrics": {
+        "average": [
+          73.26388888888889,
+          75.0,
+          71.7013888888889
+        ],
+        "worst": [
+          45.13888888888889,
+          47.22222222222222,
+          35.41666666666667
+        ]
+      }
+    },
+    {
+      "dataset": "nicopp_autumn_rock",
+      "method": "sagm",
+      "condition": "Original slot order",
+      "variant": "alpha0.001",
+      "validation": [
+        1.476488730775247,
+        1.4708090862531207,
+        1.4761697702311434
+      ],
+      "metrics": {
+        "average": [
+          64.47819207279477,
+          64.56506032697938,
+          64.52416908428903
+        ],
+        "worst": [
+          63.41149425287357,
+          63.788505747126436,
+          63.50344827586207
+        ]
+      }
+    },
+    {
+      "dataset": "nicopp_dim_grass",
+      "method": "sagm",
+      "condition": "Original slot order",
+      "variant": "alpha0.0005",
+      "validation": [
+        1.4455960956866627,
+        1.4438635189430928,
+        1.4422809545454598
+      ],
+      "metrics": {
+        "average": [
+          62.94923984171474,
+          63.22963852707485,
+          63.55470879406829
+        ],
+        "worst": [
+          60.04113533525298,
+          60.37021801727684,
+          60.436034553681615
+        ]
+      }
+    },
+    {
+      "dataset": "nicopp_outdoor_water",
+      "method": "sagm",
+      "condition": "Original slot order",
+      "variant": "alpha0.001",
+      "validation": [
+        1.4943549533490263,
+        1.493123802256111,
+        1.4908699161349572
+      ],
+      "metrics": {
+        "average": [
+          58.60960840794613,
+          58.86916460065912,
+          59.01950386506194
+        ],
+        "worst": [
+          53.37301587301587,
+          52.82067782067782,
+          53.50707850707851
+        ]
+      }
+    },
+    {
+      "dataset": "waterbirds",
+      "method": "sagm",
+      "condition": "Slot ranking",
+      "variant": "alpha0.001",
+      "validation": [
+        1.4287782432913936,
+        1.407464007165705,
+        1.4424009102196447
+      ],
+      "metrics": {
+        "average": [
+          73.45733952241817,
+          73.25501999709887,
+          74.26235226668325
+        ],
+        "worst": [
+          49.06542056074766,
+          45.95015576323988,
+          50.31152647975078
+        ]
+      }
+    },
+    {
+      "dataset": "celeba",
+      "method": "sagm",
+      "condition": "Slot ranking",
+      "variant": "alpha0.001",
+      "validation": [
+        1.7888335178233745,
+        1.7876664843474208,
+        1.7905305385008292
+      ],
+      "metrics": {
+        "average": [
+          81.55984799655988,
+          82.00464303164947,
+          81.90572847681882
+        ],
+        "worst": [
+          46.666666666666664,
+          47.22222222222222,
+          47.22222222222222
+        ]
+      }
+    },
+    {
+      "dataset": "metashift",
+      "method": "sagm",
+      "condition": "Slot ranking",
+      "variant": "alpha0.001",
+      "validation": [
+        1.8882348107021076,
+        1.8882348107021076,
+        1.8999995674703067
+      ],
+      "metrics": {
+        "average": [
+          77.43055555555556,
+          79.16666666666666,
+          78.81944444444444
+        ],
+        "worst": [
+          53.47222222222222,
+          56.94444444444444,
+          56.94444444444444
+        ]
+      }
+    },
+    {
+      "dataset": "nicopp_autumn_rock",
+      "method": "sagm",
+      "condition": "Slot ranking",
+      "variant": "alpha0.0005",
+      "validation": [
+        1.5145191231649657,
+        1.5115345463673746,
+        1.51613757944603
+      ],
+      "metrics": {
+        "average": [
+          69.83558091084328,
+          69.8061410853015,
+          70.02312350318347
+        ],
+        "worst": [
+          69.21379310344827,
+          69.07586206896552,
+          69.35172413793104
+        ]
+      }
+    },
+    {
+      "dataset": "nicopp_dim_grass",
+      "method": "sagm",
+      "condition": "Slot ranking",
+      "variant": "alpha0.0005",
+      "validation": [
+        1.4936899188311135,
+        1.498755363717248,
+        1.500611988815291
+      ],
+      "metrics": {
+        "average": [
+          68.2298413856947,
+          68.53483465841386,
+          67.88260855547009
+        ],
+        "worst": [
+          64.8951048951049,
+          65.36404771698889,
+          64.77992595639654
+        ]
+      }
+    },
+    {
+      "dataset": "nicopp_outdoor_water",
+      "method": "sagm",
+      "condition": "Slot ranking",
+      "variant": "alpha0.001",
+      "validation": [
+        1.5303825368374278,
+        1.5359722734547467,
+        1.5393735104758917
+      ],
+      "metrics": {
+        "average": [
+          63.944721917078496,
+          63.9419145882288,
+          64.40106380181687
+        ],
+        "worst": [
+          58.95538395538396,
+          58.692621192621196,
+          59.38438438438438
+        ]
+      }
+    },
+    {
+      "dataset": "waterbirds",
+      "method": "sagm",
+      "condition": "Slot ranking + slot corruption",
+      "variant": "alpha0.0005",
+      "validation": [
+        1.6153403306651948,
+        1.61932951398909,
+        1.6145747534857398
+      ],
+      "metrics": {
+        "average": [
+          81.58104869069082,
+          81.82869842717119,
+          81.19732197746785
+        ],
+        "worst": [
+          64.17445482866043,
+          63.084112149532714,
+          63.084112149532714
+        ]
+      }
+    },
+    {
+      "dataset": "celeba",
+      "method": "sagm",
+      "condition": "Slot ranking + slot corruption",
+      "variant": "alpha0.001",
+      "validation": [
+        1.7939101879698411,
+        1.7962474038831318,
+        1.7950652763790313
+      ],
+      "metrics": {
+        "average": [
+          84.04510185422984,
+          83.60628383806716,
+          84.84413804672272
+        ],
+        "worst": [
+          54.44444444444444,
+          53.333333333333336,
+          58.333333333333336
+        ]
+      }
+    },
+    {
+      "dataset": "metashift",
+      "method": "sagm",
+      "condition": "Slot ranking + slot corruption",
+      "variant": "alpha0.0005",
+      "validation": [
+        1.929406879030682,
+        1.9235264347366754,
+        1.935291598623341
+      ],
+      "metrics": {
+        "average": [
+          83.50694444444444,
+          83.33333333333334,
+          82.6388888888889
+        ],
+        "worst": [
+          68.05555555555556,
+          67.36111111111111,
+          65.27777777777779
+        ]
+      }
+    },
+    {
+      "dataset": "nicopp_autumn_rock",
+      "method": "sagm",
+      "condition": "Slot ranking + slot corruption",
+      "variant": "alpha0.0005",
+      "validation": [
+        1.5527892745549985,
+        1.5608316656128076,
+        1.562009500909642
+      ],
+      "metrics": {
+        "average": [
+          71.83948545207916,
+          72.18319152112255,
+          71.95281839599681
+        ],
+        "worst": [
+          71.59540229885057,
+          71.89885057471265,
+          71.64137931034483
+        ]
+      }
+    },
+    {
+      "dataset": "nicopp_dim_grass",
+      "method": "sagm",
+      "condition": "Slot ranking + slot corruption",
+      "variant": "alpha0.0005",
+      "validation": [
+        1.5462781514766206,
+        1.5419118257933304,
+        1.5464292956133074
+      ],
+      "metrics": {
+        "average": [
+          71.28216303732773,
+          71.04307291480609,
+          70.47479899176572
+        ],
+        "worst": [
+          68.28465651995063,
+          67.85684903331962,
+          67.35499794323324
+        ]
+      }
+    },
+    {
+      "dataset": "nicopp_outdoor_water",
+      "method": "sagm",
+      "condition": "Slot ranking + slot corruption",
+      "variant": "alpha0.0005",
+      "validation": [
+        1.571035175729246,
+        1.5889886624296645,
+        1.5802883792119506
+      ],
+      "metrics": {
+        "average": [
+          67.61912237827563,
+          66.94815239709013,
+          67.71849682903989
+        ],
+        "worst": [
+          63.046975546975546,
+          62.70913770913771,
+          63.58858858858859
+        ]
+      }
+    },
+    {
+      "dataset": "waterbirds",
+      "method": "swad",
+      "condition": "Original slot order",
+      "variant": "tolerance0.3",
+      "validation": [
+        1.2463440791555178,
+        1.2310999570053918,
+        1.2380799538876872
+      ],
+      "metrics": {
+        "average": [
+          66.68184581166116,
+          64.64915279993922,
+          66.2128983014554
+        ],
+        "worst": [
+          29.534368070953438,
+          25.454545454545453,
+          30.687361419068736
+        ]
+      }
+    },
+    {
+      "dataset": "celeba",
+      "method": "swad",
+      "condition": "Original slot order",
+      "variant": "tolerance0.2",
+      "validation": [
+        1.7827239409685836,
+        1.7889491221138711,
+        1.7841188170884585
+      ],
+      "metrics": {
+        "average": [
+          83.13231970611146,
+          83.66670522501313,
+          83.6236944111314
+        ],
+        "worst": [
+          52.22222222222223,
+          54.44444444444444,
+          53.888888888888886
+        ]
+      }
+    },
+    {
+      "dataset": "metashift",
+      "method": "swad",
+      "condition": "Original slot order",
+      "variant": "tolerance0.2",
+      "validation": [
+        1.8410216047415717,
+        1.8293755952935475,
+        1.8293933147561425
+      ],
+      "metrics": {
+        "average": [
+          74.65277777777779,
+          75.52083333333334,
+          73.6111111111111
+        ],
+        "worst": [
+          52.083333333333336,
+          49.30555555555556,
+          46.52777777777778
+        ]
+      }
+    },
+    {
+      "dataset": "nicopp_autumn_rock",
+      "method": "swad",
+      "condition": "Original slot order",
+      "variant": "tolerance0.2",
+      "validation": [
+        1.477259615816455,
+        1.4688307131617,
+        1.4734942890898246
+      ],
+      "metrics": {
+        "average": [
+          64.16546272318386,
+          64.63958670015641,
+          64.26878249187095
+        ],
+        "worst": [
+          63.03448275862069,
+          64.17471264367816,
+          63.61379310344828
+        ]
+      }
+    },
+    {
+      "dataset": "nicopp_dim_grass",
+      "method": "swad",
+      "condition": "Original slot order",
+      "variant": "tolerance0.3",
+      "validation": [
+        1.4394716141440274,
+        1.4361943945850588,
+        1.4355534245356232
+      ],
+      "metrics": {
+        "average": [
+          62.03425277120622,
+          62.4707131415005,
+          62.884267686184224
+        ],
+        "worst": [
+          58.88111888111888,
+          59.547511312217196,
+          59.74496092143151
+        ]
+      }
+    },
+    {
+      "dataset": "nicopp_outdoor_water",
+      "method": "swad",
+      "condition": "Original slot order",
+      "variant": "tolerance0.2",
+      "validation": [
+        1.4866922079865719,
+        1.4886270494781821,
+        1.4899920599456398
+      ],
+      "metrics": {
+        "average": [
+          58.61997439708209,
+          58.26256569651843,
+          58.72591629992292
+        ],
+        "worst": [
+          53.44272844272844,
+          52.65444015444015,
+          53.33011583011583
+        ]
+      }
+    },
+    {
+      "dataset": "waterbirds",
+      "method": "swad",
+      "condition": "Slot ranking",
+      "variant": "tolerance0.3",
+      "validation": [
+        1.3375374699362412,
+        1.312055581623845,
+        1.3400275872574778
+      ],
+      "metrics": {
+        "average": [
+          71.20911646669568,
+          70.39053056206008,
+          70.8959321963653
+        ],
+        "worst": [
+          36.71840354767184,
+          37.16186252771619,
+          38.22616407982262
+        ]
+      }
+    },
+    {
+      "dataset": "celeba",
+      "method": "swad",
+      "condition": "Slot ranking",
+      "variant": "tolerance0.3",
+      "validation": [
+        1.7797039949813067,
+        1.7801261185963075,
+        1.778721357247612
+      ],
+      "metrics": {
+        "average": [
+          83.32526196342647,
+          83.517454414455,
+          83.02985224324408
+        ],
+        "worst": [
+          52.77777777777778,
+          53.333333333333336,
+          51.66666666666667
+        ]
+      }
+    },
+    {
+      "dataset": "metashift",
+      "method": "swad",
+      "condition": "Slot ranking",
+      "variant": "tolerance0.2",
+      "validation": [
+        1.8882348107021076,
+        1.8823529411764706,
+        1.8941176470588235
+      ],
+      "metrics": {
+        "average": [
+          77.77777777777779,
+          79.16666666666667,
+          78.81944444444446
+        ],
+        "worst": [
+          58.333333333333336,
+          58.333333333333336,
+          57.638888888888886
+        ]
+      }
+    },
+    {
+      "dataset": "nicopp_autumn_rock",
+      "method": "swad",
+      "condition": "Slot ranking",
+      "variant": "tolerance0.2",
+      "validation": [
+        1.499056508785054,
+        1.4944301703488265,
+        1.4910646567492547
+      ],
+      "metrics": {
+        "average": [
+          69.43783692569299,
+          68.88303899998053,
+          68.98595637246312
+        ],
+        "worst": [
+          68.54252873563217,
+          67.86206896551724,
+          68.39540229885057
+        ]
+      }
+    },
+    {
+      "dataset": "nicopp_dim_grass",
+      "method": "swad",
+      "condition": "Slot ranking",
+      "variant": "tolerance0.2",
+      "validation": [
+        1.4734018409050298,
+        1.487764916027818,
+        1.4859778692031487
+      ],
+      "metrics": {
+        "average": [
+          66.8035059605623,
+          67.45034833249386,
+          67.5436172969982
+        ],
+        "worst": [
+          63.08515014397368,
+          64.03126285479227,
+          64.1875771287536
+        ]
+      }
+    },
+    {
+      "dataset": "nicopp_outdoor_water",
+      "method": "swad",
+      "condition": "Slot ranking",
+      "variant": "tolerance0.2",
+      "validation": [
+        1.5112431588636153,
+        1.5210786414333917,
+        1.5178531247670408
+      ],
+      "metrics": {
+        "average": [
+          63.18039318980664,
+          63.08923059864405,
+          63.15828816326275
+        ],
+        "worst": [
+          58.638996138996134,
+          58.456670956670955,
+          58.82132132132132
+        ]
+      }
+    },
+    {
+      "dataset": "waterbirds",
+      "method": "swad",
+      "condition": "Slot ranking + slot corruption",
+      "variant": "tolerance0.3",
+      "validation": [
+        1.5180051835546053,
+        1.5449147686543054,
+        1.5184824890104567
+      ],
+      "metrics": {
+        "average": [
+          78.22058630526831,
+          79.27407768130357,
+          77.96019230370723
+        ],
+        "worst": [
+          52.86031042128603,
+          56.67405764966741,
+          52.06208425720621
+        ]
+      }
+    },
+    {
+      "dataset": "celeba",
+      "method": "swad",
+      "condition": "Slot ranking + slot corruption",
+      "variant": "tolerance0.2",
+      "validation": [
+        1.7875755784403937,
+        1.7943593459413643,
+        1.7880898314673528
+      ],
+      "metrics": {
+        "average": [
+          83.93336953126709,
+          84.61643306688138,
+          84.81020047912041
+        ],
+        "worst": [
+          55.00000000000001,
+          57.77777777777777,
+          58.333333333333336
+        ]
+      }
+    },
+    {
+      "dataset": "metashift",
+      "method": "swad",
+      "condition": "Slot ranking + slot corruption",
+      "variant": "tolerance0.2",
+      "validation": [
+        1.9117612708500102,
+        1.9235211410975812,
+        1.917641358869129
+      ],
+      "metrics": {
+        "average": [
+          83.50694444444443,
+          82.9861111111111,
+          83.15972222222223
+        ],
+        "worst": [
+          68.05555555555556,
+          66.66666666666666,
+          67.36111111111111
+        ]
+      }
+    },
+    {
+      "dataset": "nicopp_autumn_rock",
+      "method": "swad",
+      "condition": "Slot ranking + slot corruption",
+      "variant": "tolerance0.3",
+      "validation": [
+        1.5492091731771276,
+        1.5563913687239406,
+        1.5599808853124268
+      ],
+      "metrics": {
+        "average": [
+          71.957086391869,
+          72.6716096497206,
+          72.23118051363929
+        ],
+        "worst": [
+          71.91417278373801,
+          72.22068965517241,
+          72.22068965517241
+        ]
+      }
+    },
+    {
+      "dataset": "nicopp_dim_grass",
+      "method": "swad",
+      "condition": "Slot ranking + slot corruption",
+      "variant": "tolerance0.2",
+      "validation": [
+        1.5390376385197315,
+        1.5393046881344956,
+        1.543932801714372
+      ],
+      "metrics": {
+        "average": [
+          71.77647271835441,
+          71.41204249164923,
+          71.39306971962742
+        ],
+        "worst": [
+          68.79473467708762,
+          68.22706705059646,
+          68.19415878239408
+        ]
+      }
+    },
+    {
+      "dataset": "nicopp_outdoor_water",
+      "method": "swad",
+      "condition": "Slot ranking + slot corruption",
+      "variant": "tolerance0.3",
+      "validation": [
+        1.5647779688520507,
+        1.5859846024771782,
+        1.580192124083041
+      ],
+      "metrics": {
+        "average": [
+          67.6655688058982,
+          67.83672590513036,
+          67.51408763286557
+        ],
+        "worst": [
+          63.34191334191335,
+          63.561776061776065,
+          63.44916344916345
+        ]
+      }
+    },
+    {
+      "dataset": "waterbirds",
+      "method": "scer",
+      "condition": "Original slot order",
+      "variant": "spur1_core1",
+      "validation": [
+        1.376683130242358,
+        1.360665706944192,
+        1.358537014533749
+      ],
+      "metrics": {
+        "average": [
+          69.33848975278198,
+          68.90126475606301,
+          68.88311540294671
+        ],
+        "worst": [
+          33.48909657320872,
+          33.95638629283489,
+          33.177570093457945
+        ]
+      }
+    },
+    {
+      "dataset": "celeba",
+      "method": "scer",
+      "condition": "Original slot order",
+      "variant": "spur0.5_core0.1",
+      "validation": [
+        1.789537921506774,
+        1.789009208962544,
+        1.78984833849505
+      ],
+      "metrics": {
+        "average": [
+          82.95972130154132,
+          83.24199829644301,
+          82.67296302275969
+        ],
+        "worst": [
+          51.11111111111111,
+          53.333333333333336,
+          50.0
+        ]
+      }
+    },
+    {
+      "dataset": "metashift",
+      "method": "scer",
+      "condition": "Original slot order",
+      "variant": "spur1_core0.1",
+      "validation": [
+        1.870552392124278,
+        1.8647052971657092,
+        1.8705792782229171
+      ],
+      "metrics": {
+        "average": [
+          74.65277777777779,
+          75.52083333333334,
+          73.26388888888889
+        ],
+        "worst": [
+          50.0,
+          48.61111111111111,
+          38.19444444444444
+        ]
+      }
+    },
+    {
+      "dataset": "nicopp_autumn_rock",
+      "method": "scer",
+      "condition": "Original slot order",
+      "variant": "spur0.1_core0.1",
+      "validation": [
+        1.4747451832320495,
+        1.463139457256252,
+        1.4687226758010916
+      ],
+      "metrics": {
+        "average": [
+          63.72011916119862,
+          64.88303380777143,
+          64.0994723417512
+        ],
+        "worst": [
+          62.731034482758616,
+          64.11954022988505,
+          63.36551724137931
+        ]
+      }
+    },
+    {
+      "dataset": "nicopp_dim_grass",
+      "method": "scer",
+      "condition": "Original slot order",
+      "variant": "spur0.5_core1",
+      "validation": [
+        1.433684697709216,
+        1.4344041655275142,
+        1.4329344421048658
+      ],
+      "metrics": {
+        "average": [
+          62.70930533831886,
+          62.66800402783146,
+          63.15835889821619
+        ],
+        "worst": [
+          59.77786918963389,
+          59.62978198272316,
+          60.444261620732206
+        ]
+      }
+    },
+    {
+      "dataset": "nicopp_outdoor_water",
+      "method": "scer",
+      "condition": "Original slot order",
+      "variant": "spur0.5_core0.5",
+      "validation": [
+        1.4844494608139924,
+        1.4931238812697603,
+        1.486860903949681
+      ],
+      "metrics": {
+        "average": [
+          58.9528946077039,
+          58.56829334604392,
+          59.10562094706159
+        ],
+        "worst": [
+          53.453453453453456,
+          52.616902616902614,
+          53.54461604461604
+        ]
+      }
+    },
+    {
+      "dataset": "waterbirds",
+      "method": "scer",
+      "condition": "Slot ranking",
+      "variant": "spur0.5_core1",
+      "validation": [
+        1.481584402922334,
+        1.4511737364317603,
+        1.4360568124314494
+      ],
+      "metrics": {
+        "average": [
+          75.14970194306872,
+          74.48853706888812,
+          74.67408873324078
+        ],
+        "worst": [
+          45.638629283489095,
+          43.769470404984425,
+          47.0404984423676
+        ]
+      }
+    },
+    {
+      "dataset": "celeba",
+      "method": "scer",
+      "condition": "Slot ranking",
+      "variant": "spur1_core0.5",
+      "validation": [
+        1.7786843424055618,
+        1.7856973887047023,
+        1.785161330856106
+      ],
+      "metrics": {
+        "average": [
+          83.22489412642913,
+          82.8607129516738,
+          81.84823382664756
+        ],
+        "worst": [
+          52.22222222222223,
+          52.77777777777778,
+          47.77777777777778
+        ]
+      }
+    },
+    {
+      "dataset": "metashift",
+      "method": "scer",
+      "condition": "Slot ranking",
+      "variant": "spur0.5_core1",
+      "validation": [
+        1.8941176470588235,
+        1.8941176470588235,
+        1.911764324238506
+      ],
+      "metrics": {
+        "average": [
+          78.12499999999999,
+          73.78472222222221,
+          77.95138888888889
+        ],
+        "worst": [
+          57.638888888888886,
+          45.13888888888889,
+          55.55555555555556
+        ]
+      }
+    },
+    {
+      "dataset": "nicopp_autumn_rock",
+      "method": "scer",
+      "condition": "Slot ranking",
+      "variant": "spur0.5_core0.5",
+      "validation": [
+        1.5041168186271934,
+        1.5049751062177164,
+        1.5012271449187007
+      ],
+      "metrics": {
+        "average": [
+          69.4969606106038,
+          69.60214697845882,
+          69.56657255787691
+        ],
+        "worst": [
+          68.71724137931035,
+          68.73563218390805,
+          68.8
+        ]
+      }
+    },
+    {
+      "dataset": "nicopp_dim_grass",
+      "method": "scer",
+      "condition": "Slot ranking",
+      "variant": "spur0.1_core0.1",
+      "validation": [
+        1.484250354594674,
+        1.491208410630989,
+        1.4872993415446238
+      ],
+      "metrics": {
+        "average": [
+          67.68365066444383,
+          68.09190083955703,
+          67.88638288617547
+        ],
+        "worst": [
+          64.28630193336076,
+          65.00205676676265,
+          64.90333196215549
+        ]
+      }
+    },
+    {
+      "dataset": "nicopp_outdoor_water",
+      "method": "scer",
+      "condition": "Slot ranking",
+      "variant": "spur1_core0.1",
+      "validation": [
+        1.5228378006629204,
+        1.5293926652422323,
+        1.5298353832419174
+      ],
+      "metrics": {
+        "average": [
+          64.07760242290028,
+          63.587269385346886,
+          63.96615092583377
+        ],
+        "worst": [
+          59.153796653796654,
+          58.85885885885885,
+          58.95538395538396
+        ]
+      }
+    },
+    {
+      "dataset": "waterbirds",
+      "method": "scer",
+      "condition": "Slot ranking + slot corruption",
+      "variant": "spur0.5_core0.1",
+      "validation": [
+        1.6303753764942832,
+        1.6108495542094698,
+        1.6296548895361602
+      ],
+      "metrics": {
+        "average": [
+          82.13371462516665,
+          81.83382721677684,
+          81.53228201780743
+        ],
+        "worst": [
+          63.862928348909655,
+          63.084112149532714,
+          60.12461059190031
+        ]
+      }
+    },
+    {
+      "dataset": "celeba",
+      "method": "scer",
+      "condition": "Slot ranking + slot corruption",
+      "variant": "spur0.1_core1",
+      "validation": [
+        1.7935323103269638,
+        1.7962855161714257,
+        1.7902704649264716
+      ],
+      "metrics": {
+        "average": [
+          83.86773981269668,
+          83.53084349530488,
+          83.64960063535806
+        ],
+        "worst": [
+          55.00000000000001,
+          52.77777777777778,
+          53.333333333333336
+        ]
+      }
+    },
+    {
+      "dataset": "metashift",
+      "method": "scer",
+      "condition": "Slot ranking + slot corruption",
+      "variant": "spur1_core0.1",
+      "validation": [
+        1.935287119390261,
+        1.935291598623341,
+        1.9529403622759185
+      ],
+      "metrics": {
+        "average": [
+          83.15972222222223,
+          82.63888888888889,
+          83.15972222222221
+        ],
+        "worst": [
+          65.97222222222221,
+          66.66666666666666,
+          63.888888888888886
+        ]
+      }
+    },
+    {
+      "dataset": "nicopp_autumn_rock",
+      "method": "scer",
+      "condition": "Slot ranking + slot corruption",
+      "variant": "spur0.1_core1",
+      "validation": [
+        1.5470930533863845,
+        1.5500901725927139,
+        1.5517242432969018
+      ],
+      "metrics": {
+        "average": [
+          71.39963005510232,
+          71.79230125197141,
+          71.00889814832843
+        ],
+        "worst": [
+          71.14482758620689,
+          71.36551724137931,
+          70.75862068965517
+        ]
+      }
+    },
+    {
+      "dataset": "nicopp_dim_grass",
+      "method": "scer",
+      "condition": "Slot ranking + slot corruption",
+      "variant": "spur0.1_core0.1",
+      "validation": [
+        1.5298728421117884,
+        1.5321669899035282,
+        1.5340114626370411
+      ],
+      "metrics": {
+        "average": [
+          70.71238083247542,
+          70.63363915599874,
+          69.91846160974178
+        ],
+        "worst": [
+          67.6840806252571,
+          67.42081447963801,
+          66.34306869600988
+        ]
+      }
+    },
+    {
+      "dataset": "nicopp_outdoor_water",
+      "method": "scer",
+      "condition": "Slot ranking + slot corruption",
+      "variant": "spur1_core0.5",
+      "validation": [
+        1.5596556372011767,
+        1.5768673065717733,
+        1.572865035679802
+      ],
+      "metrics": {
+        "average": [
+          66.83401964734237,
+          67.10121674534213,
+          67.14341975775882
+        ],
+        "worst": [
+          62.505362505362505,
+          62.70913770913771,
+          62.93436293436293
+        ]
+      }
+    },
+    {
+      "dataset": "waterbirds",
+      "method": "laat",
+      "condition": "Slot ranking",
+      "variant": "reg1",
+      "validation": [
+        1.4320834565584977,
+        1.4546794152297242,
+        1.4314472795394955
+      ],
+      "metrics": {
+        "average": [
+          74.35451506171815,
+          75.4100959446298,
+          73.97106464692514
+        ],
+        "worst": [
+          48.13084112149533,
+          48.753894080996886,
+          47.35202492211838
+        ]
+      }
+    },
+    {
+      "dataset": "celeba",
+      "method": "laat",
+      "condition": "Slot ranking",
+      "variant": "reg0.03",
+      "validation": [
+        1.7836539565659577,
+        1.783593262186582,
+        1.787685405960935
+      ],
+      "metrics": {
+        "average": [
+          83.37230913333788,
+          82.39032236986515,
+          81.95810389630415
+        ],
+        "worst": [
+          52.77777777777778,
+          50.55555555555556,
+          47.77777777777778
+        ]
+      }
+    },
+    {
+      "dataset": "metashift",
+      "method": "laat",
+      "condition": "Slot ranking",
+      "variant": "reg10",
+      "validation": [
+        1.9176456339828571,
+        1.9058823529411764,
+        1.8999995674703067
+      ],
+      "metrics": {
+        "average": [
+          79.51388888888889,
+          78.125,
+          78.64583333333334
+        ],
+        "worst": [
+          63.19444444444444,
+          52.083333333333336,
+          54.166666666666664
+        ]
+      }
+    },
+    {
+      "dataset": "nicopp_autumn_rock",
+      "method": "laat",
+      "condition": "Slot ranking",
+      "variant": "reg100",
+      "validation": [
+        1.5074182101781832,
+        1.503373315508438,
+        1.5020124946582312
+      ],
+      "metrics": {
+        "average": [
+          69.51050968022483,
+          69.14470556929328,
+          69.52316828598688
+        ],
+        "worst": [
+          68.84597701149426,
+          68.34022988505747,
+          69.13103448275862
+        ]
+      }
+    },
+    {
+      "dataset": "nicopp_dim_grass",
+      "method": "laat",
+      "condition": "Slot ranking",
+      "variant": "reg10",
+      "validation": [
+        1.4828775375601297,
+        1.4922092800115494,
+        1.48975403334987
+      ],
+      "metrics": {
+        "average": [
+          68.38077918099489,
+          68.13824667823671,
+          68.12984638360064
+        ],
+        "worst": [
+          65.3229123817359,
+          64.90333196215549,
+          65.06787330316742
+        ]
+      }
+    },
+    {
+      "dataset": "nicopp_outdoor_water",
+      "method": "laat",
+      "condition": "Slot ranking",
+      "variant": "reg10",
+      "validation": [
+        1.5226714325913258,
+        1.527722421956415,
+        1.53091977281693
+      ],
+      "metrics": {
+        "average": [
+          63.64621491894498,
+          63.893081085651346,
+          64.1124797204513
+        ],
+        "worst": [
+          58.89103389103389,
+          58.99292149292149,
+          59.26640926640927
+        ]
+      }
+    },
+    {
+      "dataset": "waterbirds",
+      "method": "laat",
+      "condition": "Slot ranking + slot corruption",
+      "variant": "reg0.03",
+      "validation": [
+        1.6289540469830261,
+        1.6271384775042135,
+        1.6186700182426943
+      ],
+      "metrics": {
+        "average": [
+          81.38953934144268,
+          81.22643692452218,
+          81.61860800851
+        ],
+        "worst": [
+          62.77258566978193,
+          60.280373831775705,
+          64.17445482866043
+        ]
+      }
+    },
+    {
+      "dataset": "celeba",
+      "method": "laat",
+      "condition": "Slot ranking + slot corruption",
+      "variant": "reg0.03",
+      "validation": [
+        1.7921887295524566,
+        1.7953746592357283,
+        1.795401538732028
+      ],
+      "metrics": {
+        "average": [
+          83.7348879527041,
+          83.74913492378421,
+          85.3219238706584
+        ],
+        "worst": [
+          54.44444444444444,
+          53.888888888888886,
+          60.55555555555555
+        ]
+      }
+    },
+    {
+      "dataset": "metashift",
+      "method": "laat",
+      "condition": "Slot ranking + slot corruption",
+      "variant": "reg2",
+      "validation": [
+        1.935287119390261,
+        1.9470530976829408,
+        1.9294105434138777
+      ],
+      "metrics": {
+        "average": [
+          84.5486111111111,
+          84.02777777777779,
+          81.77083333333334
+        ],
+        "worst": [
+          70.83333333333334,
+          67.36111111111111,
+          64.58333333333334
+        ]
+      }
+    },
+    {
+      "dataset": "nicopp_autumn_rock",
+      "method": "laat",
+      "condition": "Slot ranking + slot corruption",
+      "variant": "reg0.03",
+      "validation": [
+        1.5413538899759904,
+        1.5481946968508205,
+        1.5476079372174003
+      ],
+      "metrics": {
+        "average": [
+          71.12021911122362,
+          71.8851457388189,
+          71.6866268164619
+        ],
+        "worst": [
+          70.57471264367817,
+          71.39310344827587,
+          71.54942528735631
+        ]
+      }
+    },
+    {
+      "dataset": "nicopp_dim_grass",
+      "method": "laat",
+      "condition": "Slot ranking + slot corruption",
+      "variant": "reg0.01",
+      "validation": [
+        1.5295547188768195,
+        1.5315322760252599,
+        1.5337349351745835
+      ],
+      "metrics": {
+        "average": [
+          70.74225803235178,
+          70.44886209782916,
+          70.60526298558324
+        ],
+        "worst": [
+          68.04607157548334,
+          67.1822295351707,
+          67.40436034553682
+        ]
+      }
+    },
+    {
+      "dataset": "nicopp_outdoor_water",
+      "method": "laat",
+      "condition": "Slot ranking + slot corruption",
+      "variant": "reg0.03",
+      "validation": [
+        1.5607785846120261,
+        1.5776398868127757,
+        1.5710135153631912
+      ],
+      "metrics": {
+        "average": [
+          66.74484127837768,
+          66.93242390259167,
+          66.60944762143257
+        ],
+        "worst": [
+          62.46782496782497,
+          62.62870012870013,
+          62.60725010725011
+        ]
+      }
+    },
+    {
+      "dataset": "waterbirds",
+      "method": "hard_removal",
+      "condition": "Slot ranking",
+      "variant": "k1",
+      "validation": [
+        1.625706953344485,
+        1.6184896892829763,
+        1.6292941292965004
+      ],
+      "metrics": {
+        "average": [
+          81.8059728813091,
+          81.21590304688094,
+          80.74944222254456
+        ],
+        "worst": [
+          63.39563862928349,
+          59.50155763239875,
+          58.25545171339564
+        ]
+      }
+    },
+    {
+      "dataset": "celeba",
+      "method": "hard_removal",
+      "condition": "Slot ranking",
+      "variant": "k2",
+      "validation": [
+        1.794646144607384,
+        1.7925131346042988,
+        1.7924598918899135
+      ],
+      "metrics": {
+        "average": [
+          83.57282045302658,
+          84.19897789062452,
+          84.25881212208029
+        ],
+        "worst": [
+          52.22222222222223,
+          55.55555555555556,
+          55.55555555555556
+        ]
+      }
+    },
+    {
+      "dataset": "metashift",
+      "method": "hard_removal",
+      "condition": "Slot ranking",
+      "variant": "k2",
+      "validation": [
+        1.9529379193537881,
+        1.935291598623341,
+        1.9470530976829408
+      ],
+      "metrics": {
+        "average": [
+          82.8125,
+          81.77083333333334,
+          82.46527777777779
+        ],
+        "worst": [
+          65.27777777777779,
+          63.888888888888886,
+          65.97222222222221
+        ]
+      }
+    },
+    {
+      "dataset": "nicopp_autumn_rock",
+      "method": "hard_removal",
+      "condition": "Slot ranking",
+      "variant": "k3",
+      "validation": [
+        1.5203316883571545,
+        1.519382994377074,
+        1.517463094391993
+      ],
+      "metrics": {
+        "average": [
+          70.90444388195513,
+          70.46853975609596,
+          70.49797958163775
+        ],
+        "worst": [
+          70.43678160919539,
+          70.05057471264368,
+          70.18850574712644
+        ]
+      }
+    },
+    {
+      "dataset": "nicopp_dim_grass",
+      "method": "hard_removal",
+      "condition": "Slot ranking",
+      "variant": "k2",
+      "validation": [
+        1.508169497208094,
+        1.5016306583921235,
+        1.4982445796954824
+      ],
+      "metrics": {
+        "average": [
+          69.80780751646927,
+          69.56055518363658,
+          70.35835710792153
+        ],
+        "worst": [
+          66.40888523241465,
+          66.61456190867956,
+          67.24804607157549
+        ]
+      }
+    },
+    {
+      "dataset": "nicopp_outdoor_water",
+      "method": "hard_removal",
+      "condition": "Slot ranking",
+      "variant": "k3",
+      "validation": [
+        1.5465011168956155,
+        1.5452091214254184,
+        1.539355964837649
+      ],
+      "metrics": {
+        "average": [
+          65.87934479817477,
+          65.47483285911622,
+          65.79669005011868
+        ],
+        "worst": [
+          61.07357357357357,
+          60.99313599313599,
+          61.07357357357357
+        ]
+      }
+    },
+    {
+      "dataset": "waterbirds",
+      "method": "hard_removal",
+      "condition": "Slot ranking + slot corruption",
+      "variant": "k2",
+      "validation": [
+        1.6422241025484818,
+        1.6325116817041634,
+        1.6468954661053852
+      ],
+      "metrics": {
+        "average": [
+          81.19317750101884,
+          81.33300177521741,
+          81.25539645370965
+        ],
+        "worst": [
+          59.345794392523366,
+          60.90342679127726,
+          60.280373831775705
+        ]
+      }
+    },
+    {
+      "dataset": "celeba",
+      "method": "hard_removal",
+      "condition": "Slot ranking + slot corruption",
+      "variant": "k6",
+      "validation": [
+        1.7963044261657668,
+        1.7975493184647275,
+        1.7934758536873847
+      ],
+      "metrics": {
+        "average": [
+          83.81670803756872,
+          83.18368519145457,
+          83.80572551051989
+        ],
+        "worst": [
+          55.55555555555556,
+          51.66666666666667,
+          54.44444444444444
+        ]
+      }
+    },
+    {
+      "dataset": "metashift",
+      "method": "hard_removal",
+      "condition": "Slot ranking + slot corruption",
+      "variant": "k2",
+      "validation": [
+        1.9470530976829408,
+        1.9411723991922352,
+        1.952933846689484
+      ],
+      "metrics": {
+        "average": [
+          82.9861111111111,
+          83.50694444444444,
+          82.8125
+        ],
+        "worst": [
+          66.66666666666666,
+          65.97222222222221,
+          66.66666666666666
+        ]
+      }
+    },
+    {
+      "dataset": "nicopp_autumn_rock",
+      "method": "hard_removal",
+      "condition": "Slot ranking + slot corruption",
+      "variant": "k4",
+      "validation": [
+        1.548432867621814,
+        1.5482304020961588,
+        1.5483945962869685
+      ],
+      "metrics": {
+        "average": [
+          71.51731666634215,
+          71.39358113151218,
+          71.46925498289815
+        ],
+        "worst": [
+          71.30114942528736,
+          71.09885057471264,
+          70.58390804597701
+        ]
+      }
+    },
+    {
+      "dataset": "nicopp_dim_grass",
+      "method": "hard_removal",
+      "condition": "Slot ranking + slot corruption",
+      "variant": "k5",
+      "validation": [
+        1.5384118924390469,
+        1.539485251957996,
+        1.5396016631797862
+      ],
+      "metrics": {
+        "average": [
+          70.33761621270955,
+          70.80380956469897,
+          70.4092422967392
+        ],
+        "worst": [
+          67.38790621143562,
+          67.61003702180173,
+          66.95187165775401
+        ]
+      }
+    },
+    {
+      "dataset": "nicopp_outdoor_water",
+      "method": "hard_removal",
+      "condition": "Slot ranking + slot corruption",
+      "variant": "k5",
+      "validation": [
+        1.5757774399604065,
+        1.5727788921219528,
+        1.5726317044699272
+      ],
+      "metrics": {
+        "average": [
+          66.7623420623482,
+          66.49863011676518,
+          66.93185475405521
+        ],
+        "worst": [
+          63.04161304161304,
+          62.14071214071214,
+          62.24796224796225
+        ]
+      }
+    }
+  ]
+}

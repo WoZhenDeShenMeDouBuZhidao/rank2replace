@@ -1,0 +1,26 @@
+{
+  "labels": {
+    "ce": "CE",
+    "irm": "IRM | Qwen",
+    "group_dro": "Group DRO | Qwen",
+    "jtt": "JTT",
+    "rsc": "RSC",
+    "coral": "CORAL | Qwen",
+    "mixup": "Mixup",
+    "rank2replace": "Rank2Replace",
+    "laat": "Grouped LAAT",
+    "hard_removal": "Hard removal",
+    "elrep": "ElRep",
+    "sagm": "SAGM",
+    "swad": "SWAD",
+    "scer": "SCER"
+  },
+  "names": {
+    "waterbirds": "Waterbirds",
+    "celeba": "CelebA",
+    "metashift": "MetaShift",
+    "nicopp_autumn_rock": "NICO++ Autumn/Rock",
+    "nicopp_dim_grass": "NICO++ Dim/Grass",
+    "nicopp_outdoor_water": "NICO++ Outdoor/Water"
+  }
+}

@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+data/
+outputs/exp*/reproduced_results/
+outputs/exp*/original_results/*
+!outputs/exp*/original_results/results.json
+!outputs/exp*/original_results/summary.json
+!outputs/exp*/original_results/sweep.csv
+!outputs/exp*/original_results/*.pdf
