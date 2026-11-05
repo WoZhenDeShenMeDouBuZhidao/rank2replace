@@ -46,4 +46,4 @@ export VLLM_API_KEY='YOUR_PRIVATE_API_KEY'
 
 每個流程各有八張示範圖片；可加 `--samples waterbirds_000001` 只跑一張。`000001` 是原始 metadata 從 0 起算的 row index。結果存入各自的 `reproduced_results/`，同張圖片再次執行會覆寫；用 `--output` 可指定另一個位置。`ranking.json` 只保存 Direct Rank 的 `rank_order`，由重要到不重要列出原始 slot index。API 使用完後在第一個終端按 Ctrl+C 停止。
 
-每次執行都重新推論，不讀取保存的排名或標註作為答案。Direct Rank 統一使用共享 template；`original_results/` 保留原實驗結果，其中 Waterbirds 使用當時的專用 prompt。
+每次執行都重新推論，不讀取保存的排名或標註作為答案。Direct Rank 統一使用共享 template。
